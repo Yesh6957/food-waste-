@@ -1,0 +1,1201 @@
+ingredient_name,category,quantity,daily_consumption,projected_7d_demand,is_shortage_risk,is_overstock_risk
+Yogurt,Dairy,9.24,1.87,13.09,True,False
+Potatoes,Produce,35.16,7.36,51.52,True,False
+Prawns,Meat,8.25,8.61,60.269999999999996,True,False
+Rice,Dry Pantry,1.32,6.57,45.99,True,False
+Mutton,Meat,49.85,4.64,32.48,False,False
+Spinach,Produce,49.1,7.99,55.93,True,False
+Rice,Dry Pantry,16.59,4.99,34.93,True,False
+Chicken Breast,Meat,27.19,3.84,26.88,False,False
+Mutton,Meat,8.94,9.38,65.66000000000001,True,False
+Cheese,Dairy,4.93,7.63,53.41,True,False
+Milk,Dairy,41.92,1.73,12.11,False,True
+Cream,Dairy,19.73,9.63,67.41000000000001,True,False
+Yogurt,Dairy,34.16,1.76,12.32,False,False
+Sugar,Dry Pantry,6.6,3.84,26.88,True,False
+Milk,Dairy,49.86,2.38,16.66,False,False
+Fish Fillet,Meat,45.79,0.77,5.390000000000001,False,True
+Fish Fillet,Meat,38.3,4.1,28.699999999999996,False,False
+Fish Fillet,Meat,36.89,3.12,21.84,False,False
+Spinach,Produce,11.31,8.96,62.720000000000006,True,False
+Sugar,Dry Pantry,23.87,8.85,61.949999999999996,True,False
+Yogurt,Dairy,48.05,1.44,10.08,False,True
+Beef,Meat,41.26,8.13,56.910000000000004,True,False
+Prawns,Meat,4.87,9.61,67.27,True,False
+Prawns,Meat,13.51,0.59,4.13,False,True
+Sugar,Dry Pantry,38.15,7.06,49.419999999999995,True,False
+Prawns,Meat,39.27,9.42,65.94,True,False
+Cream,Dairy,3.47,9.49,66.43,True,False
+Spinach,Produce,16.28,4.83,33.81,True,False
+Carrots,Produce,15.78,9.24,64.68,True,False
+Lentils,Dry Pantry,35.21,2.26,15.819999999999999,False,False
+Yogurt,Dairy,2.26,3.46,24.22,True,False
+Chicken Breast,Meat,16.19,5.36,37.52,True,False
+Beef,Meat,1.8,1.78,12.46,True,False
+Lentils,Dry Pantry,5.0,5.59,39.129999999999995,True,False
+Prawns,Meat,24.8,4.19,29.330000000000002,True,False
+Lentils,Dry Pantry,28.86,5.73,40.11,True,False
+Prawns,Meat,37.99,4.43,31.009999999999998,False,False
+Sugar,Dry Pantry,6.01,5.36,37.52,True,False
+Fish Fillet,Produce,29.06,9.55,66.85000000000001,True,False
+Prawns,Meat,5.16,6.51,45.57,True,False
+Sugar,Dry Pantry,14.15,7.46,52.22,True,False
+Mushroom,Produce,15.97,5.97,41.79,True,False
+Spices,Dry Pantry,13.92,5.24,36.68,True,False
+Cheese,Dairy,29.15,4.69,32.830000000000005,True,False
+Prawns,Meat,35.42,4.56,31.919999999999998,False,False
+Mutton,Meat,38.31,6.92,48.44,True,False
+Milk,Dairy,27.08,4.41,30.87,True,False
+Paneer,Dairy,11.1,1.46,10.219999999999999,False,False
+Spices,Dry Pantry,33.23,7.57,52.99,True,False
+Pasta,Dry Pantry,21.49,7.72,54.04,True,False
+Potatoes,Produce,12.69,1.92,13.44,True,False
+Spices,Dry Pantry,21.19,1.38,9.66,False,False
+Cream,Dairy,11.93,2.69,18.83,True,False
+Paneer,Dairy,38.39,6.69,46.830000000000005,True,False
+Carrots,Produce,27.3,2.06,14.42,False,False
+Chicken Breast,Meat,14.3,1.32,9.24,False,False
+Prawns,Meat,5.77,5.135,35.945,True,False
+Onions,Produce,46.63,8.65,60.550000000000004,True,False
+Mutton,Meat,45.18,5.6,39.199999999999996,False,False
+Cheese,Dairy,46.28,6.73,47.11,True,False
+Rice,Dry Pantry,49.63,8.74,61.18,True,False
+Prawns,Produce,30.83,3.51,24.57,False,False
+Sugar,Dry Pantry,36.6,1.07,7.49,False,False
+Chicken Breast,Meat,32.59,9.79,68.53,True,False
+Mushroom,Produce,7.79,5.64,39.48,True,False
+Cream,Dairy,9.5,5.78,40.46,True,False
+Bell Peppers,Produce,30.11,4.4,30.800000000000004,True,False
+Fish Fillet,Meat,31.12,2.58,18.060000000000002,False,False
+Fish Fillet,Meat,47.4,8.13,56.910000000000004,True,False
+Onions,Produce,45.16,7.08,49.56,True,False
+Onions,Produce,33.86,0.78,5.46,False,True
+Cream,Dairy,42.56,8.1,56.699999999999996,True,False
+Cream,Dairy,12.06,7.05,49.35,True,False
+Carrots,Produce,20.24,6.63,46.41,True,False
+Cream,Dairy,11.68,1.19,8.33,False,False
+Pasta,Dry Pantry,33.26,9.58,67.06,True,False
+Cream,Dairy,42.37,1.4,9.799999999999999,False,True
+Sugar,Dry Pantry,16.98,3.12,21.84,True,False
+Butter,Dairy,19.29,9.87,69.08999999999999,True,False
+Salt,Dry Pantry,23.58,6.07,42.49,True,False
+Milk,Dairy,27.34,5.31,37.169999999999995,True,False
+Pasta,Dry Pantry,2.6,1.99,13.93,True,False
+Milk,Dairy,9.13,3.42,23.939999999999998,True,False
+Lentils,Dry Pantry,31.84,2.83,19.810000000000002,False,False
+Mushroom,Produce,27.2,7.96,55.72,True,False
+Onions,Produce,34.58,1.98,13.86,False,False
+Lentils,Dry Pantry,3.96,6.56,45.919999999999995,True,False
+Lentils,Dry Pantry,34.77,0.61,4.27,False,False
+Beef,Meat,32.01,2.08,14.56,False,False
+Beef,Meat,27.58,8.05,56.35000000000001,True,False
+Chicken Breast,Meat,42.22,7.72,54.04,True,False
+Beef,Meat,15.5,7.14,49.98,True,False
+Rice,Dry Pantry,43.63,5.91,41.370000000000005,False,False
+Carrots,Produce,46.41,8.75,61.25,True,False
+Spinach,Produce,34.49,1.89,13.229999999999999,False,False
+Prawns,Meat,26.45,1.91,13.37,False,False
+Chicken Breast,Dairy,36.76,5.59,39.129999999999995,True,False
+Chicken Breast,Meat,23.47,8.63,60.410000000000004,True,False
+Flour,Dry Pantry,24.23,0.71,4.97,False,False
+Cream,Dairy,48.39,8.28,57.959999999999994,True,False
+Mushroom,Produce,23.89,1.6,11.200000000000001,False,False
+Chicken Breast,Meat,20.46,7.55,52.85,True,False
+Spinach,Produce,9.0,3.09,21.63,True,False
+Flour,Dry Pantry,48.43,5.38,37.66,False,False
+Rice,Dry Pantry,48.34,2.13,14.91,False,False
+Sugar,Dry Pantry,23.19,7.15,50.050000000000004,True,False
+Pasta,Dry Pantry,5.63,6.78,47.46,True,False
+Sugar,Dairy,22.42,2.87,20.09,False,False
+Rice,Dry Pantry,6.12,1.0,7.0,True,False
+Rice,Dry Pantry,30.31,7.01,49.07,True,False
+Potatoes,Produce,9.86,5.51,38.57,True,False
+Onions,Produce,28.75,5.88,41.16,True,False
+Yogurt,Dairy,7.75,3.99,27.93,True,False
+Onions,Produce,41.01,4.87,34.09,False,False
+Rice,Dry Pantry,21.31,1.91,13.37,False,False
+Prawns,Meat,12.07,4.37,30.59,True,False
+Mutton,Meat,47.41,1.61,11.270000000000001,False,True
+Chicken Breast,Meat,16.51,4.53,31.71,True,False
+Rice,Dry Pantry,2.01,2.48,17.36,True,False
+Chicken Breast,Meat,18.95,6.26,43.82,True,False
+Butter,Dairy,41.7,6.77,47.39,True,False
+Cheese,Dairy,42.76,8.66,60.620000000000005,True,False
+Salt,Dry Pantry,44.93,1.83,12.81,False,False
+Lentils,Dry Pantry,46.83,9.92,69.44,True,False
+Spices,Dry Pantry,33.51,1.12,7.840000000000001,False,False
+Cream,Dairy,25.37,3.31,23.17,False,False
+Bell Peppers,Produce,30.16,6.275,43.925000000000004,True,False
+Potatoes,Produce,26.84,6.65,46.550000000000004,True,False
+Milk,Dairy,43.08,0.62,4.34,False,True
+Chicken Breast,Meat,28.18,1.85,12.950000000000001,False,False
+Onions,Produce,6.04,2.93,20.51,True,False
+Prawns,Meat,40.38,5.74,40.18,False,False
+Mushroom,Produce,29.45,9.54,66.78,True,False
+Flour,Dry Pantry,46.52,7.68,53.76,True,False
+Spinach,Produce,7.23,7.08,49.56,True,False
+Bell Peppers,Dairy,20.65,1.06,7.42,False,False
+Pasta,Dry Pantry,28.63,5.81,40.669999999999995,True,False
+Butter,Dairy,26.68,9.96,69.72,True,False
+Beef,Meat,24.67,7.43,52.01,True,False
+Butter,Dairy,34.09,5.05,35.35,True,False
+Sugar,Dry Pantry,28.02,3.77,26.39,False,False
+Beef,Meat,16.38,8.56,59.92,True,False
+Sugar,Dry Pantry,3.0,3.98,27.86,True,False
+Onions,Produce,37.58,7.77,54.39,True,False
+Mutton,Meat,15.6,8.93,62.51,True,False
+Butter,Dairy,8.66,2.59,18.13,True,False
+Milk,Dairy,41.16,7.75,54.25,True,False
+Lentils,Dry Pantry,23.09,2.2,15.400000000000002,False,False
+Mushroom,Produce,25.49,9.53,66.71,True,False
+Sugar,Dry Pantry,24.32,6.55,45.85,True,False
+Tomatoes,Produce,8.53,3.56,24.92,True,False
+Bell Peppers,Produce,34.34,6.17,43.19,True,False
+Sugar,Dry Pantry,37.63,5.69,39.830000000000005,True,False
+Carrots,Produce,6.04,8.27,57.89,True,False
+Spices,Dry Pantry,14.83,8.53,59.709999999999994,True,False
+Onions,Produce,12.5,3.46,24.22,True,False
+Prawns,Meat,39.84,8.93,62.51,True,False
+Potatoes,Produce,33.16,9.05,63.35000000000001,True,False
+Chicken Breast,Meat,25.61,7.13,49.91,True,False
+Flour,Dry Pantry,7.48,1.28,8.96,True,False
+Rice,Dry Pantry,5.47,1.31,9.17,True,False
+Mutton,Meat,5.41,6.33,44.31,True,False
+Lentils,Dry Pantry,49.44,5.99,41.93,False,False
+Salt,Dry Pantry,7.19,5.5,38.5,True,False
+Mushroom,Produce,38.51,0.81,5.67,False,True
+Spinach,Produce,24.26,8.74,61.18,True,False
+Cheese,Dairy,46.61,8.47,59.290000000000006,True,False
+Onions,Produce,13.56,3.35,23.45,True,False
+Prawns,Meat,44.16,5.1,35.699999999999996,False,False
+Lentils,Dry Pantry,32.33,8.02,56.14,True,False
+Pasta,Dry Pantry,13.87,5.54,38.78,True,False
+Mushroom,Dairy,11.24,1.05,7.3500000000000005,False,False
+Spices,Dry Pantry,28.95,6.04,42.28,True,False
+Rice,Dry Pantry,46.96,6.59,46.129999999999995,False,False
+Fish Fillet,Meat,8.94,1.2,8.4,False,False
+Mutton,Meat,48.47,6.0,42.0,False,False
+Tomatoes,Produce,15.06,8.38,58.660000000000004,True,False
+Prawns,Meat,30.07,7.12,49.84,True,False
+Rice,Dry Pantry,13.96,1.67,11.69,False,False
+Milk,Dairy,4.69,4.98,34.86,True,False
+Chicken Breast,Meat,28.28,6.12,42.84,True,False
+Butter,Dairy,19.3,9.33,65.31,True,False
+Tomatoes,Produce,19.2,9.91,69.37,True,False
+Bell Peppers,Produce,17.49,1.38,9.66,False,False
+Prawns,Meat,35.4,9.17,64.19,True,False
+Salt,Dry Pantry,19.34,6.2,43.4,True,False
+Mutton,Meat,13.23,1.14,7.9799999999999995,False,False
+Cheese,Dairy,40.89,1.47,10.29,False,True
+Cheese,Dairy,47.14,6.88,48.16,True,False
+Onions,Produce,49.08,2.77,19.39,False,False
+Potatoes,Produce,30.02,4.19,29.330000000000002,False,False
+Spinach,Produce,28.35,2.64,18.48,False,False
+Fish Fillet,Meat,37.58,4.13,28.91,False,False
+Cheese,Dairy,39.64,0.82,5.739999999999999,False,True
+Carrots,Produce,30.13,6.38,44.66,True,False
+Lentils,Dry Pantry,20.72,3.31,23.17,True,False
+Potatoes,Produce,11.36,8.33,58.31,True,False
+Lentils,Dry Pantry,8.63,0.6,4.2,False,False
+Mutton,Meat,13.38,1.96,13.719999999999999,True,False
+Milk,Dairy,37.05,5.24,36.68,False,False
+Carrots,Produce,16.81,3.5,24.5,True,False
+Pasta,Dry Pantry,37.48,0.67,4.69,False,False
+Paneer,Dairy,10.45,8.41,58.870000000000005,True,False
+Cream,Dairy,16.88,7.19,50.330000000000005,True,False
+Milk,Dairy,16.24,0.92,6.44,False,False
+Mushroom,Produce,48.14,9.3,65.10000000000001,True,False
+Onions,Produce,1.57,6.66,46.620000000000005,True,False
+Chicken Breast,Meat,2.07,6.07,42.49,True,False
+Bell Peppers,Dairy,37.51,2.64,18.48,False,False
+Spices,Dry Pantry,25.79,7.46,52.22,True,False
+Chicken Breast,Produce,43.2,8.72,61.040000000000006,True,False
+Sugar,Dry Pantry,23.4,2.79,19.53,False,False
+Mushroom,Produce,33.74,5.47,38.29,True,False
+Cheese,Produce,12.85,1.66,11.62,False,False
+Cheese,Dairy,9.35,3.2,22.400000000000002,True,False
+Potatoes,Produce,41.7,1.5,10.5,False,True
+Paneer,Dairy,4.36,1.15,8.049999999999999,True,False
+Beef,Meat,38.38,2.24,15.680000000000001,False,False
+Prawns,Meat,5.93,7.82,54.74,True,False
+Chicken Breast,Meat,40.62,4.98,34.86,False,False
+Potatoes,Produce,6.24,3.39,23.73,True,False
+Prawns,Meat,11.06,2.25,15.75,True,False
+Prawns,Meat,44.34,2.76,19.32,False,False
+Prawns,Meat,24.08,9.0,63.0,True,False
+Beef,Meat,35.11,1.8,12.6,False,False
+Paneer,Dairy,25.69,3.25,22.75,False,False
+Flour,Dry Pantry,46.36,0.89,6.23,False,False
+Paneer,Dairy,30.09,5.43,38.01,True,False
+Yogurt,Dairy,47.64,4.12,28.84,False,False
+Cheese,Dairy,30.11,6.33,44.31,True,False
+Onions,Produce,1.31,4.4,30.800000000000004,True,False
+Chicken Breast,Meat,23.05,6.96,48.72,True,False
+Bell Peppers,Produce,17.04,5.99,41.93,True,False
+Cheese,Dairy,39.6,0.91,6.37,False,True
+Beef,Meat,28.55,6.72,47.04,True,False
+Onions,Produce,43.3,8.11,56.769999999999996,True,False
+Butter,Dairy,43.4,1.62,11.34,False,True
+Onions,Produce,14.47,4.74,33.18,True,False
+Spinach,Produce,15.66,6.84,47.879999999999995,True,False
+Prawns,Meat,42.37,4.37,30.59,False,False
+Bell Peppers,Produce,23.28,1.66,11.62,False,False
+Bell Peppers,Produce,14.95,3.59,25.13,True,False
+Tomatoes,Produce,29.82,7.59,53.129999999999995,True,False
+Tomatoes,Produce,20.65,5.94,41.580000000000005,True,False
+Milk,Dairy,11.14,6.56,45.919999999999995,True,False
+Pasta,Dry Pantry,3.15,9.03,63.209999999999994,True,False
+Potatoes,Produce,19.91,2.79,19.53,False,False
+Cream,Dairy,48.64,6.53,45.71,False,False
+Chicken Breast,Meat,5.43,8.17,57.19,True,False
+Milk,Dairy,1.92,5.1,35.699999999999996,True,False
+Lentils,Dry Pantry,8.65,9.72,68.04,True,False
+Fish Fillet,Meat,41.18,2.15,15.049999999999999,False,False
+Rice,Dry Pantry,22.47,7.12,49.84,True,False
+Yogurt,Dairy,32.47,0.86,6.02,False,True
+Beef,Meat,33.53,6.38,44.66,True,False
+Prawns,Meat,31.93,5.135,35.945,True,False
+Beef,Meat,49.58,3.58,25.060000000000002,False,False
+Beef,Meat,2.34,5.11,35.77,True,False
+Sugar,Dry Pantry,17.54,2.0,14.0,False,False
+Butter,Dairy,43.66,7.59,53.129999999999995,True,False
+Lentils,Dry Pantry,12.49,0.62,4.34,False,False
+Salt,Dry Pantry,9.93,1.78,12.46,True,False
+Cream,Dairy,36.67,8.3,58.10000000000001,True,False
+Mutton,Meat,19.61,8.42,58.94,True,False
+Yogurt,Dairy,18.19,3.17,22.189999999999998,True,False
+Pasta,Dairy,2.76,2.18,15.260000000000002,True,False
+Bell Peppers,Produce,10.23,9.02,63.14,True,False
+Pasta,Dairy,16.49,9.82,68.74000000000001,True,False
+Mutton,Meat,31.27,9.12,63.839999999999996,True,False
+Beef,Meat,45.18,6.63,46.41,True,False
+Yogurt,Dairy,7.66,7.74,54.18,True,False
+Lentils,Dry Pantry,21.52,4.42,30.939999999999998,True,False
+Fish Fillet,Meat,31.03,2.97,20.790000000000003,False,False
+Mushroom,Produce,43.7,4.49,31.43,False,False
+Paneer,Dairy,42.37,3.65,25.55,False,False
+Mushroom,Dairy,25.08,8.95,62.64999999999999,True,False
+Rice,Produce,1.51,1.77,12.39,True,False
+Lentils,Dry Pantry,32.31,7.16,50.120000000000005,True,False
+Prawns,Meat,45.08,4.79,33.53,False,False
+Fish Fillet,Meat,48.12,4.75,33.25,False,False
+Chicken Breast,Meat,10.23,8.9,62.300000000000004,True,False
+Salt,Dry Pantry,39.76,5.36,37.52,False,False
+Cream,Dairy,2.5,4.04,28.28,True,False
+Cheese,Dairy,14.94,9.9,69.3,True,False
+Potatoes,Produce,16.03,7.04,49.28,True,False
+Cheese,Dairy,15.06,4.58,32.06,True,False
+Tomatoes,Produce,47.51,4.77,33.39,False,False
+Rice,Dry Pantry,17.36,1.48,10.36,False,False
+Mutton,Meat,39.17,1.64,11.479999999999999,False,True
+Mutton,Meat,24.89,5.61,39.27,True,False
+Fish Fillet,Meat,16.84,9.72,68.04,True,False
+Chicken Breast,Meat,3.25,8.06,56.42,True,False
+Mutton,Meat,41.03,8.95,62.64999999999999,True,False
+Beef,Dairy,46.03,7.05,49.35,True,False
+Rice,Dry Pantry,12.94,1.71,11.969999999999999,False,False
+Cheese,Dairy,29.21,5.95,41.65,True,False
+Spinach,Produce,38.89,9.0,63.0,True,False
+Chicken Breast,Meat,8.27,3.2,22.400000000000002,True,False
+Mushroom,Produce,48.47,7.09,49.629999999999995,True,False
+Mutton,Meat,16.72,6.14,42.98,True,False
+Cream,Dairy,26.16,1.06,7.42,False,True
+Prawns,Meat,14.98,7.12,49.84,True,False
+Yogurt,Dairy,32.71,6.45,45.15,True,False
+Lentils,Dry Pantry,9.91,8.83,61.81,True,False
+Rice,Dry Pantry,6.43,9.1,63.699999999999996,True,False
+Bell Peppers,Produce,33.19,8.14,56.980000000000004,True,False
+Potatoes,Dairy,15.64,4.25,29.75,True,False
+Carrots,Produce,27.17,9.12,63.839999999999996,True,False
+Flour,Dry Pantry,16.5,7.3,51.1,True,False
+Salt,Dry Pantry,36.22,5.49,38.43,True,False
+Paneer,Dairy,37.31,9.73,68.11,True,False
+Paneer,Dairy,44.4,3.5,24.5,False,False
+Chicken Breast,Meat,25.88,5.63,39.41,True,False
+Salt,Dry Pantry,1.4,1.36,9.520000000000001,True,False
+Salt,Dry Pantry,19.16,5.31,37.169999999999995,True,False
+Yogurt,Dairy,14.02,0.89,6.23,False,False
+Salt,Dry Pantry,37.66,2.15,15.049999999999999,False,False
+Bell Peppers,Produce,11.02,2.18,15.260000000000002,True,False
+Milk,Dairy,41.34,4.98,34.86,False,False
+Tomatoes,Produce,7.49,7.4,51.800000000000004,True,False
+Cheese,Dairy,11.84,2.53,17.709999999999997,True,False
+Spices,Produce,43.25,4.68,32.76,False,False
+Salt,Dry Pantry,9.29,6.34,44.379999999999995,True,False
+Paneer,Dairy,2.42,9.08,63.56,True,False
+Beef,Dairy,25.59,3.09,21.63,False,False
+Tomatoes,Produce,9.44,0.97,6.79,False,False
+Yogurt,Dairy,32.85,4.68,32.76,False,False
+Butter,Dairy,9.46,7.28,50.96,True,False
+Carrots,Produce,25.95,5.25,36.75,True,False
+Prawns,Meat,8.15,2.09,14.629999999999999,True,False
+Bell Peppers,Produce,49.41,8.88,62.160000000000004,True,False
+Carrots,Produce,33.32,3.01,21.07,False,False
+Prawns,Meat,41.55,3.9,27.3,False,False
+Carrots,Produce,32.27,7.23,50.61,True,False
+Cheese,Dairy,11.29,2.87,20.09,True,False
+Flour,Dry Pantry,48.44,8.34,58.379999999999995,True,False
+Rice,Dry Pantry,26.77,4.84,33.879999999999995,True,False
+Mutton,Meat,35.78,0.77,5.390000000000001,False,True
+Butter,Dairy,22.59,1.1,7.700000000000001,False,False
+Milk,Dairy,26.51,6.76,47.32,True,False
+Prawns,Meat,6.59,7.71,53.97,True,False
+Chicken Breast,Meat,5.0,2.14,14.98,True,False
+Spices,Dry Pantry,15.8,9.99,69.93,True,False
+Mutton,Meat,23.77,5.35,37.449999999999996,True,False
+Potatoes,Produce,15.49,3.0,21.0,True,False
+Lentils,Dry Pantry,10.26,5.145,36.015,True,False
+Rice,Dry Pantry,7.19,2.74,19.18,True,False
+Beef,Meat,38.34,5.32,37.24,False,False
+Spices,Dry Pantry,33.84,6.43,45.01,True,False
+Fish Fillet,Meat,37.01,6.51,45.57,True,False
+Butter,Dairy,44.13,1.63,11.41,False,True
+Paneer,Dairy,23.58,7.82,54.74,True,False
+Spices,Dry Pantry,5.69,4.74,33.18,True,False
+Onions,Produce,33.33,9.5,66.5,True,False
+Carrots,Produce,26.53,7.01,49.07,True,False
+Prawns,Meat,26.75,3.48,24.36,False,False
+Butter,Dairy,18.33,6.82,47.74,True,False
+Chicken Breast,Meat,22.69,7.82,54.74,True,False
+Tomatoes,Produce,40.47,8.12,56.839999999999996,True,False
+Fish Fillet,Meat,23.88,9.39,65.73,True,False
+Bell Peppers,Produce,32.25,7.78,54.46,True,False
+Carrots,Produce,48.54,8.62,60.339999999999996,True,False
+Yogurt,Dairy,40.06,9.38,65.66000000000001,True,False
+Cheese,Dairy,44.75,4.46,31.22,False,False
+Tomatoes,Produce,24.01,9.71,67.97,True,False
+Flour,Dry Pantry,41.26,2.8,19.599999999999998,False,False
+Prawns,Dairy,38.53,9.15,64.05,True,False
+Cream,Dairy,24.66,2.15,15.049999999999999,False,False
+Tomatoes,Produce,18.82,2.39,16.73,False,False
+Spinach,Produce,4.88,6.44,45.080000000000005,True,False
+Prawns,Meat,9.26,3.48,24.36,True,False
+Milk,Dairy,49.93,8.55,59.85000000000001,True,False
+Spices,Dry Pantry,2.66,8.73,61.11,True,False
+Tomatoes,Produce,15.63,8.11,56.769999999999996,True,False
+Rice,Dry Pantry,45.06,3.56,24.92,False,False
+Milk,Dairy,47.53,4.98,34.86,False,False
+Flour,Produce,7.33,5.56,38.919999999999995,True,False
+Prawns,Meat,11.5,1.76,12.32,True,False
+Butter,Dairy,19.81,8.05,56.35000000000001,True,False
+Paneer,Dairy,41.91,5.44,38.080000000000005,False,False
+Salt,Dry Pantry,48.69,8.33,58.31,True,False
+Mushroom,Produce,45.52,7.96,55.72,True,False
+Potatoes,Produce,11.24,9.12,63.839999999999996,True,False
+Rice,Dry Pantry,13.46,2.36,16.52,True,False
+Paneer,Dairy,38.31,2.7,18.900000000000002,False,False
+Bell Peppers,Produce,13.01,9.55,66.85000000000001,True,False
+Pasta,Dry Pantry,37.89,5.96,41.72,True,False
+Cheese,Dairy,39.55,2.83,19.810000000000002,False,False
+Pasta,Dry Pantry,44.34,7.85,54.949999999999996,True,False
+Bell Peppers,Produce,48.24,9.83,68.81,True,False
+Beef,Meat,5.0,3.71,25.97,True,False
+Flour,Dry Pantry,2.32,0.52,3.64,True,False
+Chicken Breast,Meat,3.34,6.68,46.76,True,False
+Prawns,Meat,48.34,5.85,40.949999999999996,False,False
+Milk,Dairy,18.42,1.96,13.719999999999999,False,False
+Butter,Dairy,16.71,3.64,25.48,True,False
+Cheese,Dairy,46.62,4.97,34.79,False,False
+Salt,Dry Pantry,10.04,6.58,46.06,True,False
+Mushroom,Produce,1.56,5.22,36.54,True,False
+Spices,Dry Pantry,38.66,3.83,26.810000000000002,False,False
+Fish Fillet,Meat,41.05,7.27,50.89,True,False
+Paneer,Dairy,48.16,7.48,52.36,True,False
+Beef,Meat,29.3,7.35,51.449999999999996,True,False
+Spinach,Produce,6.66,1.52,10.64,True,False
+Spinach,Produce,47.95,1.23,8.61,False,True
+Prawns,Meat,6.59,1.12,7.840000000000001,True,False
+Milk,Dairy,32.6,3.21,22.47,False,False
+Cheese,Dairy,24.75,6.17,43.19,True,False
+Yogurt,Dairy,37.51,8.41,58.870000000000005,True,False
+Rice,Dry Pantry,38.84,3.31,23.17,False,False
+Cheese,Dairy,21.28,7.9,55.300000000000004,True,False
+Paneer,Dairy,41.27,8.15,57.050000000000004,True,False
+Spices,Dry Pantry,49.72,9.67,67.69,True,False
+Onions,Produce,30.94,6.57,45.99,True,False
+Yogurt,Dairy,22.89,7.19,50.330000000000005,True,False
+Pasta,Dry Pantry,30.75,4.43,31.009999999999998,True,False
+Fish Fillet,Meat,48.2,3.13,21.91,False,False
+Salt,Dry Pantry,38.98,3.98,27.86,False,False
+Paneer,Dairy,47.61,6.47,45.29,False,False
+Spinach,Produce,8.8,7.16,50.120000000000005,True,False
+Milk,Dairy,5.88,7.95,55.65,True,False
+Butter,Dairy,22.47,4.49,31.43,True,False
+Paneer,Dairy,47.8,5.65,39.550000000000004,False,False
+Chicken Breast,Meat,20.53,4.63,32.41,True,False
+Butter,Dairy,25.79,8.09,56.629999999999995,True,False
+Carrots,Produce,10.63,7.47,52.29,True,False
+Pasta,Dry Pantry,8.31,4.08,28.560000000000002,True,False
+Butter,Dairy,32.04,9.18,64.25999999999999,True,False
+Butter,Dairy,5.29,8.33,58.31,True,False
+Mutton,Meat,32.73,1.36,9.520000000000001,False,True
+Spices,Dry Pantry,45.44,4.74,33.18,False,False
+Beef,Meat,13.0,1.18,8.26,False,False
+Carrots,Produce,45.01,4.47,31.29,False,False
+Yogurt,Dairy,5.99,8.78,61.459999999999994,True,False
+Flour,Dry Pantry,12.27,5.39,37.73,True,False
+Pasta,Dry Pantry,43.61,9.11,63.769999999999996,True,False
+Beef,Meat,27.14,5.61,39.27,True,False
+Potatoes,Dairy,45.84,5.74,40.18,False,False
+Spices,Dry Pantry,36.5,5.21,36.47,False,False
+Lentils,Dry Pantry,37.76,2.07,14.489999999999998,False,False
+Spices,Dry Pantry,41.47,3.06,21.42,False,False
+Milk,Dairy,20.25,5.72,40.04,True,False
+Salt,Dry Pantry,30.1,3.27,22.89,False,False
+Chicken Breast,Meat,45.66,8.31,58.17,True,False
+Bell Peppers,Produce,4.72,6.25,43.75,True,False
+Cream,Dairy,49.82,2.77,19.39,False,False
+Onions,Produce,10.07,7.6,53.199999999999996,True,False
+Spices,Dry Pantry,49.79,6.12,42.84,False,False
+Fish Fillet,Meat,20.41,5.9,41.300000000000004,True,False
+Fish Fillet,Meat,33.15,9.55,66.85000000000001,True,False
+Spices,Dry Pantry,31.42,6.7,46.9,True,False
+Prawns,Meat,11.51,6.31,44.169999999999995,True,False
+Potatoes,Produce,25.11,1.07,7.49,False,True
+Spices,Dry Pantry,8.28,5.62,39.34,True,False
+Rice,Dry Pantry,5.42,2.71,18.97,True,False
+Potatoes,Produce,37.72,3.92,27.439999999999998,False,False
+Paneer,Dairy,36.78,5.5,38.5,True,False
+Butter,Dairy,6.53,5.05,35.35,True,False
+Fish Fillet,Meat,8.87,5.26,36.82,True,False
+Fish Fillet,Meat,4.24,1.92,13.44,True,False
+Cream,Dairy,32.91,5.62,39.34,True,False
+Salt,Dry Pantry,43.76,2.85,19.95,False,False
+Butter,Dairy,31.0,1.02,7.140000000000001,False,True
+Prawns,Meat,45.89,8.07,56.49,True,False
+Spinach,Produce,36.07,5.13,35.91,False,False
+Beef,Meat,29.92,6.89,48.23,True,False
+Mushroom,Produce,15.79,8.81,61.67,True,False
+Yogurt,Dairy,1.8,7.53,52.71,True,False
+Pasta,Dry Pantry,41.1,9.57,66.99000000000001,True,False
+Bell Peppers,Produce,48.35,4.61,32.27,False,False
+Paneer,Dairy,8.71,6.37,44.59,True,False
+Flour,Dry Pantry,36.0,5.52,38.64,True,False
+Pasta,Dry Pantry,46.71,8.76,61.32,True,False
+Butter,Dairy,26.34,6.08,42.56,True,False
+Mutton,Meat,19.17,6.29,44.03,True,False
+Prawns,Meat,33.51,3.48,24.36,False,False
+Chicken Breast,Meat,13.18,2.31,16.17,True,False
+Butter,Dairy,32.05,9.94,69.58,True,False
+Mutton,Meat,42.75,5.17,36.19,False,False
+Flour,Dry Pantry,31.08,1.51,10.57,False,False
+Rice,Dry Pantry,27.62,2.23,15.61,False,False
+Lentils,Dry Pantry,2.79,6.65,46.550000000000004,True,False
+Spices,Dry Pantry,27.51,6.37,44.59,True,False
+Prawns,Meat,30.5,8.23,57.61,True,False
+Potatoes,Produce,48.56,9.14,63.980000000000004,True,False
+Chicken Breast,Meat,44.71,7.69,53.830000000000005,True,False
+Prawns,Meat,40.43,1.33,9.31,False,True
+Cream,Dairy,6.3,8.44,59.08,True,False
+Potatoes,Produce,20.37,5.93,41.51,True,False
+Prawns,Meat,28.12,3.77,26.39,False,False
+Carrots,Produce,37.21,6.76,47.32,True,False
+Bell Peppers,Produce,5.95,3.14,21.98,True,False
+Paneer,Dairy,21.48,8.46,59.220000000000006,True,False
+Milk,Dairy,29.0,2.88,20.16,False,False
+Chicken Breast,Meat,29.55,6.31,44.169999999999995,True,False
+Bell Peppers,Produce,16.02,8.0,56.0,True,False
+Chicken Breast,Meat,19.09,5.71,39.97,True,False
+Fish Fillet,Meat,45.55,0.58,4.06,False,True
+Pasta,Dry Pantry,11.5,2.66,18.62,True,False
+Salt,Dry Pantry,10.09,0.68,4.760000000000001,False,False
+Mushroom,Produce,43.15,1.63,11.41,False,True
+Milk,Dairy,17.08,1.6,11.200000000000001,False,False
+Prawns,Produce,44.49,4.56,31.919999999999998,False,False
+Sugar,Dry Pantry,2.6,3.8,26.599999999999998,True,False
+Milk,Dairy,46.53,8.85,61.949999999999996,True,False
+Bell Peppers,Produce,29.96,8.27,57.89,True,False
+Mutton,Meat,31.1,5.22,36.54,True,False
+Butter,Dairy,38.46,0.64,4.48,False,True
+Yogurt,Dairy,46.83,8.47,59.290000000000006,True,False
+Prawns,Meat,49.36,1.55,10.85,False,True
+Flour,Dry Pantry,8.91,3.2,22.400000000000002,True,False
+Mutton,Meat,15.79,1.86,13.020000000000001,False,False
+Mutton,Meat,3.17,5.69,39.830000000000005,True,False
+Cheese,Dairy,21.62,1.46,10.219999999999999,False,False
+Mutton,Meat,34.3,3.65,25.55,False,False
+Flour,Dry Pantry,33.38,8.33,58.31,True,False
+Cream,Dairy,6.61,6.72,47.04,True,False
+Mushroom,Produce,42.35,9.16,64.12,True,False
+Cream,Dairy,16.91,5.475,38.324999999999996,True,False
+Prawns,Meat,13.0,8.17,57.19,True,False
+Potatoes,Produce,23.23,6.87,48.09,True,False
+Chicken Breast,Meat,24.75,2.35,16.45,False,False
+Tomatoes,Produce,22.64,3.78,26.459999999999997,True,False
+Flour,Dry Pantry,21.54,6.61,46.27,True,False
+Butter,Dairy,33.38,3.34,23.38,False,False
+Cheese,Dairy,15.71,5.72,40.04,True,False
+Mushroom,Produce,14.08,9.4,65.8,True,False
+Onions,Produce,11.6,5.1,35.699999999999996,True,False
+Prawns,Produce,40.19,8.52,59.64,True,False
+Cheese,Dairy,13.33,2.84,19.88,True,False
+Yogurt,Dairy,39.68,2.34,16.38,False,False
+Sugar,Dry Pantry,22.37,2.95,20.650000000000002,False,False
+Spinach,Produce,24.29,3.99,27.93,True,False
+Milk,Dairy,46.39,8.56,59.92,True,False
+Yogurt,Dairy,38.46,6.26,43.82,True,False
+Tomatoes,Produce,44.1,1.27,8.89,False,True
+Yogurt,Dairy,2.66,8.54,59.779999999999994,True,False
+Prawns,Meat,29.16,5.4,37.800000000000004,True,False
+Mutton,Meat,33.12,4.26,29.82,False,False
+Rice,Dry Pantry,28.94,2.35,16.45,False,False
+Pasta,Dry Pantry,34.55,4.45,31.150000000000002,False,False
+Butter,Dairy,5.85,2.05,14.349999999999998,True,False
+Fish Fillet,Meat,31.03,7.73,54.11,True,False
+Pasta,Dry Pantry,10.1,6.54,45.78,True,False
+Butter,Dairy,43.79,0.91,6.37,False,True
+Prawns,Meat,28.95,3.56,24.92,False,False
+Bell Peppers,Produce,24.32,9.02,63.14,True,False
+Fish Fillet,Meat,24.6,2.66,18.62,False,False
+Beef,Meat,26.58,7.17,50.19,True,False
+Flour,Dry Pantry,25.87,6.08,42.56,True,False
+Lentils,Dry Pantry,16.02,2.69,18.83,True,False
+Spinach,Produce,3.17,4.64,32.48,True,False
+Chicken Breast,Meat,4.92,6.78,47.46,True,False
+Lentils,Dry Pantry,8.95,4.82,33.74,True,False
+Potatoes,Produce,25.96,5.74,40.18,True,False
+Mutton,Meat,18.68,3.37,23.59,True,False
+Milk,Dairy,32.53,1.99,13.93,False,False
+Pasta,Dry Pantry,34.25,9.64,67.48,True,False
+Butter,Dairy,19.19,3.5,24.5,True,False
+Flour,Dry Pantry,45.32,6.33,44.31,False,False
+Potatoes,Produce,8.37,2.44,17.08,True,False
+Mushroom,Produce,20.79,6.62,46.34,True,False
+Milk,Dairy,41.12,9.27,64.89,True,False
+Pasta,Dry Pantry,12.35,2.63,18.41,True,False
+Rice,Dry Pantry,13.86,8.7,60.89999999999999,True,False
+Flour,Dry Pantry,6.98,8.66,60.620000000000005,True,False
+Tomatoes,Produce,10.06,1.02,7.140000000000001,False,False
+Pasta,Dry Pantry,47.88,9.77,68.39,True,False
+Potatoes,Produce,7.81,5.78,40.46,True,False
+Butter,Dairy,23.3,3.92,27.439999999999998,True,False
+Tomatoes,Produce,13.14,2.79,19.53,True,False
+Mutton,Meat,39.18,5.61,39.27,True,False
+Fish Fillet,Meat,14.99,1.06,7.42,False,False
+Pasta,Dry Pantry,25.16,8.54,59.779999999999994,True,False
+Milk,Dairy,47.21,4.72,33.04,False,False
+Flour,Dry Pantry,19.98,1.8,12.6,False,False
+Paneer,Dairy,22.12,5.79,40.53,True,False
+Carrots,Produce,17.53,7.06,49.419999999999995,True,False
+Flour,Dry Pantry,44.28,7.37,51.59,True,False
+Rice,Dry Pantry,33.04,8.98,62.86,True,False
+Yogurt,Dairy,35.7,5.93,41.51,True,False
+Prawns,Meat,10.89,6.54,45.78,True,False
+Sugar,Dry Pantry,17.81,2.25,15.75,False,False
+Salt,Dry Pantry,28.83,9.19,64.33,True,False
+Milk,Dairy,29.62,5.28,36.96,True,False
+Rice,Dry Pantry,12.41,4.53,31.71,True,False
+Potatoes,Produce,6.62,5.82,40.74,True,False
+Chicken Breast,Meat,45.79,1.77,12.39,False,True
+Lentils,Dry Pantry,2.8,5.18,36.26,True,False
+Chicken Breast,Meat,28.31,9.51,66.57,True,False
+Spinach,Dairy,37.11,5.17,36.19,False,False
+Spices,Dry Pantry,20.95,1.4,9.799999999999999,False,False
+Beef,Meat,23.07,2.77,19.39,False,False
+Salt,Produce,28.58,5.01,35.07,True,False
+Tomatoes,Produce,23.64,8.14,56.980000000000004,True,False
+Beef,Meat,3.82,7.85,54.949999999999996,True,False
+Sugar,Dry Pantry,34.93,8.59,60.129999999999995,True,False
+Mutton,Meat,28.26,6.07,42.49,True,False
+Butter,Dairy,5.49,2.52,17.64,True,False
+Salt,Dry Pantry,26.49,5.48,38.36,True,False
+Cheese,Dairy,43.5,6.67,46.69,True,False
+Beef,Meat,10.42,1.16,8.12,False,False
+Tomatoes,Produce,2.85,3.88,27.16,True,False
+Milk,Dairy,13.43,6.39,44.73,True,False
+Chicken Breast,Meat,40.19,6.81,47.669999999999995,True,False
+Mutton,Meat,48.51,6.3,44.1,False,False
+Carrots,Produce,3.02,2.2,15.400000000000002,True,False
+Salt,Dry Pantry,13.61,2.27,15.89,True,False
+Spices,Dry Pantry,17.58,5.73,40.11,True,False
+Lentils,Dry Pantry,27.76,1.46,10.219999999999999,False,False
+Beef,Meat,23.83,1.09,7.630000000000001,False,True
+Bell Peppers,Produce,7.79,6.55,45.85,True,False
+Spinach,Produce,25.34,8.21,57.470000000000006,True,False
+Butter,Dairy,33.79,2.26,15.819999999999999,False,False
+Prawns,Meat,26.43,2.2,15.400000000000002,False,False
+Pasta,Dry Pantry,4.94,0.88,6.16,True,False
+Cheese,Dairy,28.34,9.41,65.87,True,False
+Yogurt,Dairy,8.52,4.77,33.39,True,False
+Mushroom,Produce,17.56,7.69,53.830000000000005,True,False
+Sugar,Dry Pantry,36.96,4.5,31.5,False,False
+Chicken Breast,Meat,4.64,2.12,14.84,True,False
+Onions,Produce,36.97,6.1,42.699999999999996,True,False
+Carrots,Produce,46.76,1.96,13.719999999999999,False,True
+Butter,Dairy,35.78,6.94,48.580000000000005,True,False
+Cheese,Dairy,7.0,9.45,66.14999999999999,True,False
+Rice,Dry Pantry,14.2,3.52,24.64,True,False
+Pasta,Dry Pantry,15.77,7.59,53.129999999999995,True,False
+Salt,Dry Pantry,41.76,3.6,25.2,False,False
+Chicken Breast,Meat,34.72,5.03,35.21,True,False
+Mushroom,Produce,22.57,6.56,45.919999999999995,True,False
+Fish Fillet,Meat,13.82,5.37,37.59,True,False
+Pasta,Dry Pantry,15.88,2.49,17.43,True,False
+Tomatoes,Dairy,17.06,6.03,42.21,True,False
+Paneer,Dairy,8.31,5.85,40.949999999999996,True,False
+Cheese,Dairy,5.0,4.22,29.54,True,False
+Beef,Meat,27.67,2.15,15.049999999999999,False,False
+Prawns,Meat,6.58,2.65,18.55,True,False
+Paneer,Dairy,31.87,8.77,61.39,True,False
+Beef,Meat,43.17,7.26,50.82,True,False
+Spinach,Produce,47.44,5.12,35.84,False,False
+Mushroom,Produce,38.61,0.76,5.32,False,True
+Sugar,Dry Pantry,34.15,7.78,54.46,True,False
+Chicken Breast,Meat,24.89,5.12,35.84,True,False
+Bell Peppers,Produce,25.41,1.4,9.799999999999999,False,False
+Mutton,Meat,2.15,8.96,62.720000000000006,True,False
+Yogurt,Dairy,21.67,0.78,5.46,False,True
+Potatoes,Produce,30.62,5.99,41.93,True,False
+Fish Fillet,Meat,7.49,3.17,22.189999999999998,True,False
+Fish Fillet,Meat,14.74,5.17,36.19,True,False
+Fish Fillet,Meat,46.14,1.76,12.32,False,True
+Salt,Dry Pantry,6.76,1.92,13.44,True,False
+Carrots,Produce,49.9,0.54,3.7800000000000002,False,True
+Potatoes,Produce,19.81,3.74,26.18,True,False
+Carrots,Produce,30.68,2.28,15.959999999999999,False,False
+Butter,Dairy,21.31,6.48,45.36,True,False
+Spinach,Produce,27.99,5.75,40.25,True,False
+Lentils,Dry Pantry,26.31,0.59,4.13,False,False
+Flour,Dairy,35.28,6.82,47.74,True,False
+Paneer,Dairy,48.61,7.85,54.949999999999996,True,False
+Lentils,Dry Pantry,46.78,5.32,37.24,False,False
+Spinach,Produce,16.53,3.27,22.89,True,False
+Sugar,Dry Pantry,29.84,2.09,14.629999999999999,False,False
+Paneer,Dairy,8.73,1.37,9.59,True,False
+Onions,Produce,39.41,4.51,31.57,False,False
+Lentils,Dry Pantry,27.51,9.6,67.2,True,False
+Potatoes,Produce,32.93,2.91,20.37,False,False
+Pasta,Dry Pantry,48.15,3.08,21.560000000000002,False,False
+Prawns,Meat,30.91,6.69,46.830000000000005,True,False
+Fish Fillet,Meat,21.63,7.38,51.66,True,False
+Rice,Dry Pantry,47.37,2.61,18.27,False,False
+Butter,Dairy,43.95,2.93,20.51,False,False
+Chicken Breast,Meat,5.29,1.02,7.140000000000001,True,False
+Prawns,Meat,45.29,2.34,16.38,False,False
+Paneer,Dairy,44.23,3.14,21.98,False,False
+Rice,Dry Pantry,5.08,8.83,61.81,True,False
+Cream,Dairy,32.44,6.49,45.43,True,False
+Cream,Dairy,15.0,3.08,21.560000000000002,True,False
+Mutton,Meat,3.42,5.01,35.07,True,False
+Pasta,Dry Pantry,24.1,8.67,60.69,True,False
+Mutton,Meat,44.82,3.06,21.42,False,False
+Prawns,Meat,49.12,2.06,14.42,False,True
+Mutton,Meat,22.73,9.53,66.71,True,False
+Cheese,Dairy,9.32,5.61,39.27,True,False
+Mutton,Meat,19.22,7.62,53.34,True,False
+Rice,Dry Pantry,36.41,1.58,11.06,False,False
+Tomatoes,Produce,14.97,1.16,8.12,False,False
+Onions,Produce,6.48,7.48,52.36,True,False
+Cheese,Dairy,11.57,9.26,64.82,True,False
+Fish Fillet,Meat,27.82,1.74,12.18,False,False
+Yogurt,Dairy,8.3,2.32,16.24,True,False
+Flour,Dry Pantry,47.52,7.91,55.370000000000005,True,False
+Mutton,Meat,2.1,5.61,39.27,True,False
+Carrots,Produce,4.34,5.3,37.1,True,False
+Fish Fillet,Meat,39.16,4.41,30.87,False,False
+Chicken Breast,Dairy,48.79,2.39,16.73,False,False
+Salt,Dry Pantry,37.69,3.75,26.25,False,False
+Beef,Meat,5.24,7.77,54.39,True,False
+Lentils,Dry Pantry,30.3,8.48,59.36,True,False
+Cream,Dairy,42.56,3.9,27.3,False,False
+Tomatoes,Produce,49.27,8.02,56.14,True,False
+Tomatoes,Produce,21.75,9.89,69.23,True,False
+Prawns,Meat,13.24,9.27,64.89,True,False
+Potatoes,Produce,34.62,9.27,64.89,True,False
+Fish Fillet,Meat,22.38,9.85,68.95,True,False
+Cheese,Dairy,47.32,8.71,60.970000000000006,True,False
+Yogurt,Dairy,27.57,8.97,62.790000000000006,True,False
+Butter,Dairy,33.46,1.74,12.18,False,False
+Sugar,Dry Pantry,20.64,5.31,37.169999999999995,True,False
+Mutton,Meat,22.55,5.61,39.27,True,False
+Carrots,Produce,38.46,5.15,36.050000000000004,False,False
+Yogurt,Dairy,6.36,4.84,33.879999999999995,True,False
+Salt,Dry Pantry,46.28,5.86,41.02,False,False
+Yogurt,Dairy,13.33,9.74,68.18,True,False
+Spinach,Produce,41.79,8.31,58.17,True,False
+Onions,Produce,10.71,4.31,30.169999999999998,True,False
+Onions,Produce,24.01,6.23,43.61,True,False
+Cheese,Produce,21.91,6.82,47.74,True,False
+Yogurt,Dairy,44.61,1.34,9.38,False,True
+Spices,Dry Pantry,15.35,2.7,18.900000000000002,True,False
+Rice,Dry Pantry,22.24,3.94,27.58,True,False
+Bell Peppers,Produce,14.92,8.43,59.01,True,False
+Mushroom,Produce,4.1,8.33,58.31,True,False
+Salt,Dry Pantry,16.68,8.35,58.449999999999996,True,False
+Fish Fillet,Meat,37.63,2.17,15.19,False,False
+Bell Peppers,Produce,32.43,7.43,52.01,True,False
+Fish Fillet,Dairy,36.46,6.74,47.18,True,False
+Mutton,Meat,48.69,8.47,59.290000000000006,True,False
+Mushroom,Produce,49.01,2.04,14.280000000000001,False,True
+Lentils,Dry Pantry,3.67,4.04,28.28,True,False
+Mutton,Meat,26.37,5.34,37.379999999999995,True,False
+Potatoes,Produce,27.03,4.2,29.400000000000002,True,False
+Onions,Produce,33.28,7.35,51.449999999999996,True,False
+Carrots,Dairy,9.3,0.84,5.88,False,False
+Onions,Produce,38.69,0.99,6.93,False,True
+Fish Fillet,Meat,38.7,7.82,54.74,True,False
+Paneer,Dairy,22.54,5.1,35.699999999999996,True,False
+Yogurt,Dairy,12.07,4.15,29.050000000000004,True,False
+Paneer,Dairy,4.3,0.8,5.6000000000000005,True,False
+Pasta,Dry Pantry,17.61,2.27,15.89,False,False
+Chicken Breast,Meat,13.28,5.87,41.09,True,False
+Potatoes,Produce,49.79,9.77,68.39,True,False
+Salt,Dry Pantry,39.43,5.88,41.16,True,False
+Prawns,Meat,10.21,1.15,8.049999999999999,False,False
+Bell Peppers,Produce,13.25,6.59,46.129999999999995,True,False
+Rice,Dairy,2.98,3.75,26.25,True,False
+Paneer,Dairy,19.29,1.84,12.88,False,False
+Paneer,Dairy,9.18,1.48,10.36,True,False
+Butter,Dairy,41.1,4.48,31.360000000000003,False,False
+Mushroom,Produce,32.38,9.36,65.52,True,False
+Tomatoes,Produce,12.63,8.28,57.959999999999994,True,False
+Milk,Dairy,28.57,1.46,10.219999999999999,False,False
+Fish Fillet,Meat,42.86,3.16,22.12,False,False
+Yogurt,Dairy,19.64,0.56,3.9200000000000004,False,True
+Rice,Dry Pantry,5.0,3.39,23.73,True,False
+Onions,Produce,23.65,3.06,21.42,False,False
+Rice,Dry Pantry,36.81,1.47,10.29,False,False
+Cream,Dairy,10.97,4.42,30.939999999999998,True,False
+Cheese,Dairy,39.64,3.78,26.459999999999997,False,False
+Paneer,Dairy,20.37,6.19,43.330000000000005,True,False
+Yogurt,Dairy,42.76,4.84,33.879999999999995,False,False
+Flour,Dry Pantry,25.03,6.23,43.61,True,False
+Spices,Dry Pantry,37.67,2.74,19.18,False,False
+Flour,Dry Pantry,19.18,4.12,28.84,True,False
+Butter,Dairy,47.41,6.65,46.550000000000004,False,False
+Cheese,Dairy,28.39,6.61,46.27,True,False
+Sugar,Dry Pantry,37.72,9.29,65.03,True,False
+Mushroom,Produce,2.22,6.49,45.43,True,False
+Prawns,Meat,45.88,5.135,35.945,False,False
+Pasta,Dry Pantry,28.55,1.98,13.86,False,False
+Cream,Dairy,41.04,3.34,23.38,False,False
+Spices,Dry Pantry,42.57,7.41,51.870000000000005,True,False
+Chicken Breast,Meat,30.8,2.35,16.45,False,False
+Mutton,Meat,22.03,1.37,9.59,False,False
+Prawns,Meat,11.88,5.98,41.86,True,False
+Potatoes,Produce,32.99,8.87,62.089999999999996,True,False
+Onions,Produce,10.02,6.36,44.52,True,False
+Sugar,Dry Pantry,26.22,4.5,31.5,True,False
+Lentils,Dry Pantry,39.5,5.23,36.61,False,False
+Salt,Dry Pantry,22.66,0.99,6.93,False,False
+Flour,Dry Pantry,42.28,2.7,18.900000000000002,False,False
+Rice,Dry Pantry,34.68,9.28,64.96,True,False
+Cheese,Dairy,43.06,1.87,13.09,False,True
+Spinach,Produce,5.0,4.79,33.53,True,False
+Salt,Dry Pantry,21.74,6.17,43.19,True,False
+Milk,Dairy,32.08,8.38,58.660000000000004,True,False
+Yogurt,Dairy,15.31,9.47,66.29,True,False
+Spices,Dry Pantry,36.57,6.28,43.96,True,False
+Beef,Meat,38.19,8.9,62.300000000000004,True,False
+Carrots,Produce,47.4,1.31,9.17,False,True
+Chicken Breast,Meat,19.22,5.87,41.09,True,False
+Pasta,Dry Pantry,29.44,9.57,66.99000000000001,True,False
+Salt,Dry Pantry,49.64,8.14,56.980000000000004,True,False
+Milk,Dairy,15.42,4.34,30.38,True,False
+Yogurt,Dairy,47.32,6.91,48.370000000000005,True,False
+Beef,Meat,30.1,9.19,64.33,True,False
+Spices,Dry Pantry,36.72,6.9,48.300000000000004,True,False
+Pasta,Dry Pantry,22.67,2.53,17.709999999999997,False,False
+Yogurt,Dairy,10.74,6.67,46.69,True,False
+Beef,Meat,28.79,2.69,18.83,False,False
+Fish Fillet,Meat,11.01,7.3,51.1,True,False
+Flour,Dry Pantry,42.52,3.83,26.810000000000002,False,False
+Spices,Dry Pantry,24.6,2.58,18.060000000000002,False,False
+Fish Fillet,Meat,18.2,2.22,15.540000000000001,False,False
+Chicken Breast,Meat,48.11,6.08,42.56,False,False
+Fish Fillet,Meat,23.19,1.77,12.39,False,False
+Butter,Dairy,16.35,8.55,59.85000000000001,True,False
+Bell Peppers,Produce,49.44,7.38,51.66,True,False
+Potatoes,Produce,17.94,6.92,48.44,True,False
+Chicken Breast,Meat,34.07,4.98,34.86,True,False
+Milk,Dairy,1.93,2.55,17.849999999999998,True,False
+Salt,Dry Pantry,16.59,4.14,28.979999999999997,True,False
+Potatoes,Produce,38.75,6.76,47.32,True,False
+Cheese,Dairy,45.98,2.41,16.87,False,False
+Mutton,Meat,17.65,5.77,40.39,True,False
+Potatoes,Produce,49.44,3.31,23.17,False,False
+Rice,Dry Pantry,14.88,6.95,48.65,True,False
+Rice,Dry Pantry,28.3,0.5,3.5,False,False
+Mushroom,Produce,43.78,5.43,38.01,False,False
+Pasta,Dry Pantry,35.39,1.28,8.96,False,False
+Mutton,Meat,2.43,5.61,39.27,True,False
+Potatoes,Produce,10.34,6.19,43.330000000000005,True,False
+Cream,Dairy,16.53,3.77,26.39,True,False
+Paneer,Dairy,42.01,3.81,26.67,False,False
+Bell Peppers,Produce,7.72,6.275,43.925000000000004,True,False
+Flour,Dry Pantry,11.63,6.76,47.32,True,False
+Sugar,Dry Pantry,1.23,2.16,15.120000000000001,True,False
+Cheese,Dairy,33.03,7.08,49.56,True,False
+Cheese,Dairy,18.05,8.26,57.82,True,False
+Yogurt,Dairy,46.53,8.38,58.660000000000004,True,False
+Carrots,Produce,36.72,3.11,21.77,False,False
+Potatoes,Produce,19.33,4.9,34.300000000000004,True,False
+Rice,Dry Pantry,19.1,5.5,38.5,True,False
+Sugar,Dry Pantry,7.46,8.22,57.540000000000006,True,False
+Onions,Produce,6.76,5.54,38.78,True,False
+Butter,Dairy,37.49,2.97,20.790000000000003,False,False
+Carrots,Produce,41.9,4.2,29.400000000000002,False,False
+Rice,Dry Pantry,8.98,5.94,41.580000000000005,True,False
+Fish Fillet,Meat,34.17,2.16,15.120000000000001,False,False
+Cheese,Dairy,11.29,7.54,52.78,True,False
+Carrots,Produce,11.58,8.76,61.32,True,False
+Cheese,Dairy,28.16,6.17,43.19,True,False
+Milk,Dairy,20.35,0.63,4.41,False,True
+Sugar,Dry Pantry,13.32,5.76,40.32,True,False
+Rice,Dry Pantry,39.03,2.76,19.32,False,False
+Tomatoes,Produce,30.01,8.39,58.730000000000004,True,False
+Rice,Dry Pantry,37.7,0.99,6.93,False,False
+Tomatoes,Produce,13.78,2.74,19.18,True,False
+Prawns,Meat,18.45,6.83,47.81,True,False
+Yogurt,Dairy,8.2,2.08,14.56,True,False
+Fish Fillet,Meat,1.97,1.65,11.549999999999999,True,False
+Prawns,Meat,39.71,5.73,40.11,True,False
+Cream,Dairy,12.26,7.94,55.580000000000005,True,False
+Cheese,Dairy,27.1,4.31,30.169999999999998,True,False
+Milk,Dairy,5.0,4.31,30.169999999999998,True,False
+Cheese,Dairy,23.05,0.72,5.04,False,True
+Mushroom,Produce,28.71,9.4,65.8,True,False
+Beef,Meat,40.5,2.52,17.64,False,False
+Pasta,Dry Pantry,14.15,4.31,30.169999999999998,True,False
+Rice,Dry Pantry,1.52,2.96,20.72,True,False
+Cream,Dairy,7.94,6.71,46.97,True,False
+Milk,Dairy,6.59,4.77,33.39,True,False
+Prawns,Produce,7.46,3.51,24.57,True,False
+Flour,Dry Pantry,34.8,3.84,26.88,False,False
+Carrots,Produce,5.0,3.93,27.51,True,False
+Lentils,Dry Pantry,31.7,1.62,11.34,False,False
+Cream,Dairy,45.35,2.64,18.48,False,False
+Pasta,Dry Pantry,11.28,8.06,56.42,True,False
+Milk,Dairy,5.0,6.05,42.35,True,False
+Bell Peppers,Produce,5.89,3.06,21.42,True,False
+Flour,Produce,26.04,8.07,56.49,True,False
+Chicken Breast,Meat,32.47,7.68,53.76,True,False
+Chicken Breast,Meat,41.13,8.06,56.42,True,False
+Yogurt,Dairy,47.51,2.64,18.48,False,False
+Fish Fillet,Meat,38.4,5.14,35.98,False,False
+Salt,Dry Pantry,41.02,1.19,8.33,False,False
+Beef,Dairy,3.59,5.61,39.27,True,False
+Cream,Dairy,33.45,9.44,66.08,True,False
+Sugar,Dairy,21.61,8.81,61.67,True,False
+Carrots,Produce,16.86,2.16,15.120000000000001,False,False
+Mutton,Meat,5.81,7.51,52.57,True,False
+Lentils,Dry Pantry,34.55,5.97,41.79,True,False
+Beef,Meat,40.6,5.61,39.27,False,False
+Cheese,Dairy,26.12,5.15,36.050000000000004,True,False
+Cream,Dairy,22.63,2.58,18.060000000000002,False,False
+Cream,Dairy,44.12,7.41,51.870000000000005,True,False
+Cream,Dairy,24.81,0.69,4.83,False,True
+Cheese,Dairy,2.21,6.37,44.59,True,False
+Salt,Dry Pantry,15.64,3.92,27.439999999999998,True,False
+Fish Fillet,Meat,18.22,9.79,68.53,True,False
+Prawns,Meat,14.25,0.75,5.25,False,False
+Onions,Produce,42.93,0.71,4.97,False,True
+Cheese,Dairy,10.83,5.86,41.02,True,False
+Spinach,Produce,32.09,0.54,3.7800000000000002,False,True
+Potatoes,Produce,38.9,7.65,53.550000000000004,True,False
+Yogurt,Dairy,5.68,1.77,12.39,True,False
+Prawns,Produce,44.9,9.71,67.97,True,False
+Salt,Dry Pantry,27.03,5.81,40.669999999999995,True,False
+Beef,Meat,32.31,1.23,8.61,False,True
+Butter,Dairy,44.78,3.66,25.62,False,False
+Rice,Dry Pantry,42.47,5.25,36.75,False,False
+Beef,Meat,27.78,6.23,43.61,True,False
+Rice,Dry Pantry,27.82,5.01,35.07,True,False
+Mushroom,Produce,22.27,0.64,4.48,False,True
+Onions,Produce,48.53,4.68,32.76,False,False
+Cheese,Dairy,12.93,1.7,11.9,False,False
+Milk,Dairy,12.22,6.91,48.370000000000005,True,False
+Cheese,Dairy,47.82,3.01,21.07,False,False
+Prawns,Meat,10.74,6.93,48.51,True,False
+Pasta,Dry Pantry,17.7,4.02,28.139999999999997,True,False
+Beef,Meat,2.97,7.68,53.76,True,False
+Fish Fillet,Meat,28.94,9.18,64.25999999999999,True,False
+Milk,Dairy,14.42,7.7,53.9,True,False
+Carrots,Produce,5.76,7.39,51.73,True,False
+Spices,Dry Pantry,18.09,2.89,20.23,True,False
+Salt,Dry Pantry,43.64,5.6,39.199999999999996,False,False
+Cream,Dairy,37.83,7.79,54.53,True,False
+Prawns,Meat,35.18,0.7,4.8999999999999995,False,True
+Potatoes,Produce,23.13,2.67,18.689999999999998,False,False
+Spices,Dry Pantry,8.33,1.41,9.87,True,False
+Mutton,Meat,7.86,5.69,39.830000000000005,True,False
+Prawns,Meat,27.16,8.43,59.01,True,False
+Prawns,Meat,16.49,7.64,53.48,True,False
+Mutton,Meat,29.45,9.84,68.88,True,False
+Prawns,Meat,25.04,3.88,27.16,True,False
+Lentils,Dry Pantry,33.47,4.3,30.099999999999998,False,False
+Bell Peppers,Produce,33.22,5.8,40.6,True,False
+Prawns,Meat,30.28,8.51,59.57,True,False
+Pasta,Dry Pantry,13.91,8.45,59.14999999999999,True,False
+Fish Fillet,Meat,43.35,4.94,34.580000000000005,False,False
+Butter,Dairy,20.2,7.19,50.330000000000005,True,False
+Spinach,Produce,9.5,6.13,42.91,True,False
+Mushroom,Produce,28.51,3.0,21.0,False,False
+Bell Peppers,Produce,2.93,3.26,22.82,True,False
+Beef,Meat,33.31,7.09,49.629999999999995,True,False
+Potatoes,Produce,33.8,5.86,41.02,True,False
+Milk,Dairy,19.66,1.0,7.0,False,False
+Spices,Dry Pantry,10.67,3.36,23.52,True,False
+Spinach,Produce,43.87,0.81,5.67,False,True
+Beef,Meat,5.0,9.98,69.86,True,False
+Cheese,Dairy,1.07,6.74,47.18,True,False
+Mushroom,Produce,8.04,4.58,32.06,True,False
+Yogurt,Dairy,30.21,3.59,25.13,False,False
+Paneer,Dairy,11.94,5.4,37.800000000000004,True,False
+Pasta,Dry Pantry,45.52,3.32,23.24,False,False
+Prawns,Meat,18.89,9.35,65.45,True,False
+Pasta,Dry Pantry,22.02,5.04,35.28,True,False
+Fish Fillet,Meat,7.69,2.0,14.0,True,False
+Prawns,Meat,49.74,5.54,38.78,False,False
+Cream,Dairy,46.35,9.04,63.279999999999994,True,False
+Rice,Dry Pantry,15.77,6.45,45.15,True,False
+Bell Peppers,Produce,10.76,0.73,5.109999999999999,False,False
+Beef,Meat,12.08,4.58,32.06,True,False
+Beef,Meat,13.95,2.03,14.209999999999999,True,False
+Sugar,Dry Pantry,46.39,0.7,4.8999999999999995,False,False
+Mushroom,Produce,2.44,3.53,24.709999999999997,True,False
+Rice,Dry Pantry,43.12,3.52,24.64,False,False
+Potatoes,Produce,35.87,6.52,45.64,True,False
+Lentils,Dry Pantry,26.14,7.62,53.34,True,False
+Mushroom,Produce,32.99,6.22,43.54,True,False
+Cheese,Dairy,16.88,6.66,46.620000000000005,True,False
+Sugar,Dry Pantry,22.99,0.55,3.8500000000000005,False,False
+Sugar,Dry Pantry,34.47,5.23,36.61,True,False
+Tomatoes,Produce,7.72,8.16,57.120000000000005,True,False
+Mutton,Meat,26.73,2.16,15.120000000000001,False,False
+Rice,Dry Pantry,6.99,3.81,26.67,True,False
+Mushroom,Produce,15.46,4.41,30.87,True,False
+Bell Peppers,Produce,25.71,3.09,21.63,False,False
+Chicken Breast,Meat,19.31,9.45,66.14999999999999,True,False
+Yogurt,Dairy,29.37,7.81,54.669999999999995,True,False
+Salt,Dry Pantry,49.08,5.59,39.129999999999995,False,False
+Cheese,Dairy,42.65,4.32,30.240000000000002,False,False
+Mushroom,Produce,15.23,2.34,16.38,True,False
+Milk,Dairy,49.32,4.98,34.86,False,False
+Butter,Dairy,44.94,6.88,48.16,True,False
+Sugar,Dry Pantry,11.86,6.34,44.379999999999995,True,False
+Fish Fillet,Meat,10.46,0.73,5.109999999999999,False,False
+Spinach,Produce,43.02,1.87,13.09,False,True
+Sugar,Dry Pantry,32.31,5.23,36.61,True,False
+Onions,Produce,23.11,8.09,56.629999999999995,True,False
+Beef,Meat,25.04,8.32,58.24,True,False
+Bell Peppers,Produce,48.36,8.67,60.69,True,False
+Carrots,Produce,40.24,2.63,18.41,False,False
+Mutton,Meat,22.78,2.6,18.2,False,False
+Cream,Dairy,36.95,2.65,18.55,False,False
+Carrots,Produce,42.19,3.17,22.189999999999998,False,False
+Chicken Breast,Meat,15.57,5.95,41.65,True,False
+Cream,Produce,19.51,7.38,51.66,True,False
+Carrots,Dairy,31.64,2.2,15.400000000000002,False,False
+Butter,Dairy,26.23,1.17,8.19,False,True
+Mushroom,Produce,12.1,1.69,11.83,False,False
+Salt,Dry Pantry,4.2,1.87,13.09,True,False
+Mutton,Meat,42.72,9.7,67.89999999999999,True,False
+Butter,Dairy,17.61,2.74,19.18,True,False
+Butter,Dairy,33.07,7.03,49.21,True,False
+Potatoes,Produce,2.21,7.5,52.5,True,False
+Lentils,Dry Pantry,15.05,2.13,14.91,False,False
+Mushroom,Produce,31.85,2.53,17.709999999999997,False,False
+Chicken Breast,Meat,2.03,6.94,48.580000000000005,True,False
+Butter,Dairy,48.94,7.72,54.04,True,False
+Chicken Breast,Meat,38.18,2.02,14.14,False,False
+Beef,Meat,35.01,2.14,14.98,False,False
+Rice,Dry Pantry,15.48,9.25,64.75,True,False
+Butter,Dairy,7.56,3.01,21.07,True,False
+Fish Fillet,Meat,34.54,5.08,35.56,True,False
+Cheese,Dairy,39.2,3.85,26.95,False,False
+Flour,Dry Pantry,10.01,0.72,5.04,False,False
+Bell Peppers,Produce,23.77,6.3,44.1,True,False
+Spices,Dry Pantry,42.15,9.19,64.33,True,False
+Prawns,Meat,29.86,5.17,36.19,True,False
+Chicken Breast,Meat,38.28,5.84,40.879999999999995,True,False
+Pasta,Dry Pantry,41.04,1.25,8.75,False,False
+Onions,Produce,19.77,1.95,13.65,False,False
+Carrots,Produce,19.46,2.04,14.280000000000001,False,False
+Spinach,Produce,32.93,5.38,37.66,True,False
+Butter,Dairy,42.51,1.38,9.66,False,True
+Spices,Dry Pantry,28.88,4.66,32.620000000000005,True,False
+Potatoes,Produce,31.19,4.7,32.9,True,False
+Bell Peppers,Produce,1.17,0.72,5.04,True,False
+Fish Fillet,Meat,8.77,7.42,51.94,True,False
+Lentils,Dry Pantry,16.73,1.49,10.43,False,False
+Lentils,Dry Pantry,19.77,5.11,35.77,True,False
+Spices,Dry Pantry,27.31,3.68,25.76,False,False
+Paneer,Dairy,37.29,4.32,30.240000000000002,False,False
+Salt,Dry Pantry,30.64,0.88,6.16,False,False
+Fish Fillet,Meat,6.47,4.63,32.41,True,False
+Cream,Dairy,43.6,4.89,34.23,False,False
+Potatoes,Produce,30.62,3.61,25.27,False,False
+Butter,Dairy,39.31,3.91,27.37,False,False
+Mutton,Meat,31.41,7.92,55.44,True,False
+Onions,Produce,39.22,6.05,42.35,True,False
+Cream,Dairy,35.48,5.475,38.324999999999996,True,False
+Butter,Dairy,29.67,1.02,7.140000000000001,False,True
+Carrots,Produce,9.55,2.02,14.14,True,False
+Beef,Meat,36.52,3.5,24.5,False,False
+Cheese,Dairy,30.42,3.84,26.88,False,False
+Potatoes,Produce,48.28,1.7,11.9,False,True
+Prawns,Meat,28.03,2.17,15.19,False,False
+Onions,Produce,27.03,5.88,41.16,True,False
+Milk,Dairy,37.34,2.83,19.810000000000002,False,False
+Prawns,Meat,25.64,4.48,31.360000000000003,True,False
+Beef,Meat,40.47,8.06,56.42,True,False
+Onions,Produce,33.15,0.55,3.8500000000000005,False,True
+Flour,Dry Pantry,8.15,9.61,67.27,True,False
+Spinach,Produce,41.98,8.03,56.209999999999994,True,False
+Fish Fillet,Meat,23.28,5.14,35.98,True,False
+Salt,Dry Pantry,43.82,3.45,24.150000000000002,False,False
+Sugar,Dry Pantry,15.44,7.12,49.84,True,False
+Cream,Dairy,17.26,1.68,11.76,False,False
+Chicken Breast,Meat,22.4,1.51,10.57,False,False
+Potatoes,Produce,23.37,9.92,69.44,True,False
+Cheese,Dairy,8.98,1.06,7.42,False,False
+Cream,Dairy,4.11,4.76,33.32,True,False
+Pasta,Dry Pantry,1.39,9.63,67.41000000000001,True,False
+Potatoes,Produce,33.09,8.42,58.94,True,False
+Lentils,Dry Pantry,7.87,3.49,24.43,True,False
+Bell Peppers,Produce,31.3,5.01,35.07,True,False
+Prawns,Meat,15.47,0.87,6.09,False,False
+Milk,Dairy,33.74,8.18,57.26,True,False
+Tomatoes,Produce,48.47,6.02,42.14,False,False
+Sugar,Dry Pantry,37.38,7.78,54.46,True,False
+Cheese,Dairy,35.53,4.83,33.81,False,False
+Cheese,Dairy,48.52,6.73,47.11,False,False
+Potatoes,Produce,17.99,4.72,33.04,True,False
+Paneer,Dairy,27.58,5.72,40.04,True,False
+Potatoes,Produce,43.3,4.26,29.82,False,False
+Tomatoes,Produce,5.88,1.0,7.0,True,False
+Potatoes,Produce,25.48,9.96,69.72,True,False
+Rice,Dry Pantry,43.67,1.93,13.51,False,False
+Cheese,Dairy,3.16,1.71,11.969999999999999,True,False
+Beef,Meat,13.76,6.48,45.36,True,False
+Tomatoes,Produce,40.42,5.94,41.580000000000005,True,False
+Yogurt,Dairy,14.93,5.05,35.35,True,False
+Tomatoes,Produce,6.85,3.13,21.91,True,False
+Milk,Dairy,42.61,6.66,46.620000000000005,True,False
+Butter,Dairy,15.72,9.85,68.95,True,False
+Milk,Dairy,39.3,6.29,44.03,True,False
+Milk,Dairy,10.93,7.65,53.550000000000004,True,False
+Cheese,Dairy,40.55,3.08,21.560000000000002,False,False
+Tomatoes,Produce,2.56,6.6,46.199999999999996,True,False
+Cream,Dairy,29.33,6.23,43.61,True,False
+Bell Peppers,Produce,7.03,7.44,52.080000000000005,True,False
+Flour,Dry Pantry,39.7,4.02,28.139999999999997,False,False
+Spices,Dry Pantry,27.94,8.34,58.379999999999995,True,False
+Milk,Produce,24.63,1.74,12.18,False,False
+Spinach,Produce,16.2,6.73,47.11,True,False
+Spinach,Produce,34.52,8.55,59.85000000000001,True,False
+Fish Fillet,Meat,44.98,8.29,58.029999999999994,True,False
+Butter,Dairy,44.58,4.49,31.43,False,False
+Salt,Dry Pantry,2.92,4.18,29.259999999999998,True,False
+Carrots,Produce,14.87,4.39,30.729999999999997,True,False
+Lentils,Dry Pantry,13.05,9.84,68.88,True,False
+Onions,Produce,25.97,1.36,9.520000000000001,False,False
+Rice,Dry Pantry,45.05,4.73,33.11,False,False
+Carrots,Produce,49.6,3.2,22.400000000000002,False,False
+Lentils,Dry Pantry,24.51,5.82,40.74,True,False
+Yogurt,Dairy,32.03,5.54,38.78,True,False
+Spinach,Produce,30.65,5.26,36.82,True,False
+Salt,Dry Pantry,47.72,2.77,19.39,False,False
+Bell Peppers,Produce,24.08,9.88,69.16000000000001,True,False
+Bell Peppers,Produce,22.01,9.22,64.54,True,False
+Carrots,Produce,14.52,1.09,7.630000000000001,False,False
+Salt,Dry Pantry,47.31,1.13,7.909999999999999,False,False
+Cheese,Dairy,46.76,1.75,12.25,False,True
+Milk,Dairy,11.66,1.82,12.74,True,False
+Mutton,Meat,21.5,4.38,30.66,True,False
+Yogurt,Dairy,23.6,5.72,40.04,True,False
+Mushroom,Produce,29.35,7.44,52.080000000000005,True,False
+Beef,Meat,44.19,4.48,31.360000000000003,False,False
+Milk,Dairy,3.23,6.59,46.129999999999995,True,False
+Lentils,Dry Pantry,34.77,7.45,52.15,True,False
+Beef,Meat,18.36,7.83,54.81,True,False
+Spices,Dry Pantry,34.01,1.63,11.41,False,False
+Mushroom,Produce,6.75,10.0,70.0,True,False
+Paneer,Dairy,5.0,5.87,41.09,True,False
+Sugar,Dry Pantry,19.58,2.68,18.76,False,False
+Spinach,Produce,23.35,4.01,28.07,True,False
+Tomatoes,Produce,48.52,0.71,4.97,False,True
+Prawns,Meat,8.05,6.28,43.96,True,False
+Cream,Dairy,33.85,5.33,37.31,True,False
+Mutton,Meat,20.25,6.36,44.52,True,False
+Yogurt,Dairy,39.78,1.12,7.840000000000001,False,True
+Chicken Breast,Meat,48.93,5.9,41.300000000000004,False,False
+Beef,Meat,4.64,4.89,34.23,True,False
+Chicken Breast,Meat,37.97,7.93,55.51,True,False
+Mutton,Meat,32.7,0.92,6.44,False,True
+Chicken Breast,Meat,8.7,2.15,15.049999999999999,True,False
+Sugar,Dry Pantry,15.04,6.5,45.5,True,False
+Bell Peppers,Dairy,27.24,8.0,56.0,True,False
+Chicken Breast,Meat,20.37,1.67,11.69,False,False
+Paneer,Dairy,19.53,1.76,12.32,False,False
+Milk,Dairy,1.47,1.81,12.67,True,False
+Cheese,Dairy,27.46,1.92,13.44,False,False
+Butter,Dairy,29.6,8.07,56.49,True,False
+Chicken Breast,Meat,36.63,1.25,8.75,False,True
+Cream,Dairy,48.56,8.66,60.620000000000005,True,False
+Spinach,Produce,30.5,8.26,57.82,True,False
+Milk,Dairy,15.91,5.18,36.26,True,False
+Yogurt,Dairy,28.14,6.09,42.629999999999995,True,False
+Mushroom,Produce,27.43,6.11,42.77,True,False
+Carrots,Produce,44.6,1.99,13.93,False,True
+Butter,Dairy,27.02,5.05,35.35,True,False
+Salt,Dry Pantry,19.0,0.62,4.34,False,False
+Bell Peppers,Produce,23.62,0.98,6.859999999999999,False,True
+Beef,Meat,35.57,4.45,31.150000000000002,False,False
+Fish Fillet,Meat,42.73,8.39,58.730000000000004,True,False
+Cheese,Dairy,5.11,2.02,14.14,True,False
+Prawns,Meat,34.98,8.03,56.209999999999994,True,False
+Fish Fillet,Meat,36.98,8.68,60.76,True,False
+Beef,Meat,1.5,9.51,66.57,True,False
+Rice,Dry Pantry,20.43,4.05,28.349999999999998,True,False
+Bell Peppers,Produce,26.47,7.16,50.120000000000005,True,False
+Tomatoes,Produce,3.05,5.94,41.580000000000005,True,False
+Prawns,Meat,24.78,9.92,69.44,True,False
+Mutton,Meat,32.19,6.4,44.800000000000004,True,False
+Spinach,Produce,49.14,2.09,14.629999999999999,False,True
+Sugar,Dry Pantry,1.41,9.26,64.82,True,False
+Potatoes,Produce,42.26,8.65,60.550000000000004,True,False
+Rice,Dry Pantry,28.31,9.22,64.54,True,False
+Beef,Meat,28.07,4.58,32.06,True,False
+Rice,Dry Pantry,10.26,1.02,7.140000000000001,False,False
+Mutton,Meat,5.0,9.66,67.62,True,False
+Mutton,Meat,7.03,2.42,16.939999999999998,True,False
+Fish Fillet,Meat,34.41,4.31,30.169999999999998,False,False
+Salt,Dry Pantry,6.8,0.56,3.9200000000000004,False,False
+Paneer,Dairy,15.31,3.11,21.77,True,False
+Cream,Dairy,46.65,4.2,29.400000000000002,False,False
+Flour,Dry Pantry,30.91,9.6,67.2,True,False
+Cheese,Dairy,38.98,8.32,58.24,True,False
+Mutton,Meat,5.47,2.86,20.02,True,False
+Spinach,Produce,14.96,4.66,32.620000000000005,True,False
+Pasta,Dry Pantry,25.73,5.65,39.550000000000004,True,False
+Salt,Dry Pantry,16.33,6.31,44.169999999999995,True,False
+Potatoes,Produce,17.08,8.71,60.970000000000006,True,False
+Sugar,Dry Pantry,26.97,4.19,29.330000000000002,True,False
+Butter,Dairy,10.73,2.4,16.8,True,False
+Salt,Dry Pantry,37.65,8.49,59.43,True,False
+Cheese,Dairy,20.11,3.54,24.78,True,False
+Sugar,Dry Pantry,32.08,8.43,59.01,True,False
+Prawns,Meat,43.96,8.29,58.029999999999994,True,False
+Beef,Meat,47.42,2.41,16.87,False,False
+Onions,Produce,19.32,2.03,14.209999999999999,False,False
+Mutton,Meat,16.72,2.33,16.310000000000002,False,False
+Milk,Dairy,1.59,1.43,10.01,True,False
+Onions,Dairy,14.57,1.3,9.1,False,False
+Spinach,Produce,19.27,3.19,22.33,True,False
+Mushroom,Produce,17.8,7.03,49.21,True,False
+Chicken Breast,Meat,49.42,4.51,31.57,False,False
+Prawns,Dairy,19.38,1.22,8.54,False,False
+Mushroom,Produce,8.15,2.98,20.86,True,False
+Salt,Dry Pantry,38.41,2.22,15.540000000000001,False,False
+Fish Fillet,Meat,4.08,6.44,45.080000000000005,True,False
+Tomatoes,Produce,28.37,0.62,4.34,False,True
+Tomatoes,Produce,33.39,0.74,5.18,False,True
+Prawns,Meat,42.71,4.97,34.79,False,False
+Mushroom,Produce,12.86,3.02,21.14,True,False
+Spices,Dry Pantry,15.46,8.77,61.39,True,False
+Cream,Dairy,32.72,1.13,7.909999999999999,False,True
+Carrots,Produce,3.83,6.5,45.5,True,False
+Rice,Dry Pantry,38.07,8.2,57.39999999999999,True,False
+Cream,Dairy,13.2,7.83,54.81,True,False

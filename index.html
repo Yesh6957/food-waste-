@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yesh Waste Manage AI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500&display=swap"
+        rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        acc: {
+                            light: '#f2f4ef',
+                            dark: '#22332f',
+                            card: '#2b3e39',
+                            text: '#15221e',
+                            muted: '#5c6b65'
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Playfair Display', 'serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        body {
+            background-color: #f2f4ef;
+            color: #15221e;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f2f4ef;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #22332f;
+            border-radius: 4px;
+        }
+
+        .scribble-underline {
+            position: relative;
+            display: inline-block;
+        }
+
+        .scribble-underline::after {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 4px;
+            bottom: 2px;
+            left: 0;
+            background-color: #2b3e39;
+            border-radius: 2px;
+            z-index: -1;
+            opacity: 0.3;
+        }
+
+        .btn-solid {
+            background-color: #22332f;
+            color: #f2f4ef;
+            padding: 0.75rem 1.5rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border: 1px solid #22332f;
+        }
+
+        .btn-solid:hover {
+            background-color: #15221e;
+        }
+
+        .btn-outline {
+            background-color: transparent;
+            color: #22332f;
+            padding: 0.75rem 1.5rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            border: 1px solid #22332f;
+            transition: all 0.3s ease;
+        }
+
+        .btn-outline:hover {
+            background-color: #22332f;
+            color: #f2f4ef;
+        }
+
+        .btn-light {
+            background-color: #f2f4ef;
+            color: #22332f;
+            padding: 0.75rem 1.5rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .btn-light:hover {
+            background-color: #e5e8e1;
+        }
+
+        .markdown-dark h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+            color: #f2f4ef;
+            font-weight: 500;
+        }
+
+        .markdown-dark ul {
+            padding-left: 1.5rem;
+            list-style-type: disc;
+            margin-bottom: 1rem;
+            color: #cbd5d1;
+        }
+
+        .markdown-dark strong {
+            color: #f2f4ef;
+            font-weight: 500;
+        }
+    </style>
+</head>
+
+<body class="font-sans antialiased selection:bg-acc-dark selection:text-acc-light">
+
+    <div class="fixed top-6 w-full z-50 flex justify-center px-4 md:px-8 pointer-events-none">
+        <header
+            class="w-full max-w-7xl bg-white/40 backdrop-blur-md border border-white/50 shadow-[0_4px_30px_rgba(0,0,0,0.05)] rounded-full py-4 px-8 flex justify-between items-center pointer-events-auto transition-all duration-300">
+            <div class="text-sm font-bold text-acc-text tracking-widest uppercase">
+                Yesh.AI <span class="font-normal text-acc-muted tracking-normal lowercase">waste manager</span>
+            </div>
+            <nav class="hidden md:flex space-x-8 text-xs font-medium text-acc-text uppercase tracking-wide">
+                <a href="#hero" class="hover:text-acc-muted transition-colors">Home</a>
+                <a href="#inventory" class="hover:text-acc-muted transition-colors">Critical</a>
+                <a href="#forecasting" class="hover:text-acc-muted transition-colors">Forecasts</a>
+                <a href="#ai-engine" class="hover:text-acc-muted transition-colors">AI Chef</a>
+            </nav>
+            <a href="#inventory" class="btn-solid hidden md:inline-block !py-2 !px-6">Initialize System</a>
+        </header>
+    </div>
+
+    <section id="hero" class="bg-acc-light pt-36 pb-20">
+        <div class="container mx-auto px-8 max-w-7xl grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+
+            <div class="pr-0 md:pr-10">
+                <p class="text-xs uppercase tracking-widest text-acc-muted mb-6 font-semibold">Kitchen Intelligence</p>
+                <h1 class="text-5xl md:text-6xl font-serif text-acc-text mb-6 leading-tight">
+                    Beyond Expiry Dates: <br>Tailored <span class="scribble-underline italic">Intelligence</span> For
+                    Your Kitchen
+                </h1>
+                <p class="text-sm text-acc-muted mb-10 font-light leading-relaxed max-w-md">
+                    This is a completely autonomous AI hybrid engine. Built with a robust XGBoost pipeline, it handles
+                    messy, real-world data and mathematically engineers explainable waste-risk probabilities.
+                </p>
+                <div class="flex gap-4">
+                    <a href="#inventory" class="btn-solid">Predictive Data</a>
+                    <a href="#ai-engine" class="btn-outline bg-white">Consult AI</a>
+                </div>
+            </div>
+
+            <div class="relative h-[500px] w-full rounded-tl-[4rem] rounded-br-[4rem] overflow-hidden shadow-2xl">
+                <img src="https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=2000"
+                    alt="Kitchen Management" class="absolute inset-0 w-full h-full object-cover">
+            </div>
+
+        </div>
+    </section>
+
+    <section id="inventory" class="bg-acc-dark py-24 text-acc-light">
+        <div class="container mx-auto px-8 max-w-7xl">
+            <div class="text-center mb-16">
+                <p class="text-xs uppercase tracking-widest text-[#a0b0a9] mb-4">Critical Data</p>
+                <h2 class="text-4xl font-serif text-acc-light">
+                    Expert Inventory Support At<br><span class="italic text-[#cbd5d1]">Every Operational Stage</span>
+                </h2>
+            </div>
+
+            <div class="flex justify-between items-end mb-6">
+                <p class="text-sm font-light text-[#a0b0a9] max-w-md">Top 20 critical items requiring immediate
+                    utilization based on ML explainability metrics.</p>
+                <button onclick="toggleModal(true)" class="btn-light text-xs uppercase tracking-wide">
+                    + Add Inventory
+                </button>
+            </div>
+
+            <div class="bg-acc-card rounded-2xl overflow-hidden shadow-xl border border-[#3b524b]">
+                <table class="w-full text-left border-collapse">
+                    <thead
+                        class="bg-[#243431] text-xs uppercase tracking-wider text-[#a0b0a9] border-b border-[#3b524b]">
+                        <tr>
+                            <th class="p-6 font-medium">Ingredient</th>
+                            <th class="p-6 font-medium">Quantity</th>
+                            <th class="p-6 font-medium">Time to Expiry</th>
+                            <th class="p-6 font-medium text-right">ML Risk Reason</th>
+                        </tr>
+                    </thead>
+                    <tbody id="inventory-table" class="divide-y divide-[#3b524b] text-sm font-light">
+                        <tr>
+                            <td colspan="4" class="p-8 text-center text-[#a0b0a9] italic">Retrieving intelligence...
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <section id="forecasting" class="bg-acc-light py-24 text-acc-text">
+        <div class="container mx-auto px-8 max-w-7xl grid grid-cols-1 lg:grid-cols-12 gap-16 items-start">
+
+            <div class="lg:col-span-4">
+                <p class="text-xs uppercase tracking-widest text-acc-muted mb-4 font-semibold">Demand Forecast</p>
+                <h2 class="text-3xl font-serif text-acc-text mb-6 leading-tight">
+                    Anticipate Shortages.<br>Mitigate Overstocks.
+                </h2>
+                <p class="text-sm text-acc-muted mb-10 font-light leading-relaxed">
+                    Our heuristic models track consumption rates to identify structural anomalies in your purchasing
+                    pipeline before they impact the bottom line.
+                </p>
+
+                <div class="mb-8">
+                    <h3 class="font-serif text-xl mb-4 flex items-center gap-2">
+                        <span class="w-2 h-2 rounded-full bg-red-500"></span> Supply Shortages
+                    </h3>
+                    <ul id="shortage-list"
+                        class="space-y-3 font-light text-sm text-acc-muted border-l border-gray-300 pl-4">
+                        <li class="italic">Loading projections...</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h3 class="font-serif text-xl mb-4 flex items-center gap-2">
+                        <span class="w-2 h-2 rounded-full bg-yellow-500"></span> Overstock Alerts
+                    </h3>
+                    <ul id="overstock-list"
+                        class="space-y-3 font-light text-sm text-acc-muted border-l border-gray-300 pl-4">
+                        <li class="italic">Loading projections...</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="lg:col-span-8 bg-white p-8 rounded-3xl shadow-sm border border-gray-200">
+                <h3 class="font-serif text-2xl text-acc-text mb-2">Volume Risk Timeline</h3>
+                <p class="text-acc-muted font-light text-xs tracking-wide uppercase mb-8">Kilograms/Liters at risk vs.
+                    Impending Expiry Days</p>
+                <div class="w-full h-80">
+                    <canvas id="areaChart"></canvas>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section id="ai-engine" class="bg-acc-dark py-24 text-acc-light">
+        <div class="container mx-auto px-8 max-w-5xl text-center">
+            <h2 class="text-4xl font-serif text-acc-light mb-6">Generative Kitchen Integration</h2>
+            <p class="text-[#a0b0a9] font-light text-sm mb-10 max-w-2xl mx-auto leading-relaxed">
+                Transform the critical inventory flagged by our ML model into immediate, high-margin culinary specials.
+                The Gemini LLM provides full operational reasoning for every dish generated.
+            </p>
+
+            <button onclick="generateRecipes()" id="gen-btn" class="btn-light mb-12 shadow-lg">
+                Consult Gemini AI Chef
+            </button>
+
+            <div id="recipe-output"
+                class="bg-acc-card text-left rounded-3xl p-10 text-[#cbd5d1] font-light markdown-dark border border-[#3b524b] shadow-2xl min-h-[300px]">
+                <div class="h-full flex flex-col items-center justify-center text-[#7c9288] italic py-10">
+                    <p class="text-lg font-serif">System idle. Ready to engineer menus.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-acc-light py-12 text-center text-acc-text border-t border-gray-200">
+        <div class="container mx-auto px-8">
+            <h3 class="text-xl font-serif mb-2">Developed by Yesh</h3>
+            <p class="text-xs uppercase tracking-widest text-acc-muted mb-6">Full Stack & AI/ML Engineer | MCA 2026</p>
+            <p class="text-xs text-acc-muted/60 font-light">&copy; 2026 Yeshwanth. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <div id="item-modal"
+        class="fixed inset-0 bg-acc-dark/80 backdrop-blur-sm z-[100] hidden flex items-center justify-center p-4">
+        <div class="bg-acc-light p-10 rounded-[2rem] w-full max-w-md shadow-2xl">
+            <div class="flex justify-between items-center mb-8 pb-4 border-b border-gray-200">
+                <h3 class="text-2xl font-serif text-acc-text">Log Inventory</h3>
+                <button onclick="toggleModal(false)"
+                    class="text-acc-muted hover:text-acc-text transition-colors text-2xl font-light">&times;</button>
+            </div>
+
+            <form id="add-item-form" onsubmit="submitNewItem(event)">
+                <div class="mb-5">
+                    <label class="block text-xs uppercase tracking-widest text-acc-muted mb-2">Ingredient Name</label>
+                    <input type="text" id="itemName" required
+                        class="w-full bg-white border border-gray-300 rounded-lg p-3 text-acc-text focus:outline-none focus:border-acc-dark transition-colors font-light shadow-sm">
+                </div>
+                <div class="mb-5">
+                    <label class="block text-xs uppercase tracking-widest text-acc-muted mb-2">Quantity (kg/L)</label>
+                    <input type="number" id="itemQty" step="0.01" required
+                        class="w-full bg-white border border-gray-300 rounded-lg p-3 text-acc-text focus:outline-none focus:border-acc-dark transition-colors font-light shadow-sm">
+                </div>
+                <div class="mb-5">
+                    <label class="block text-xs uppercase tracking-widest text-acc-muted mb-2">Category</label>
+                    <select id="itemCat" required
+                        class="w-full bg-white border border-gray-300 rounded-lg p-3 text-acc-text focus:outline-none focus:border-acc-dark transition-colors font-light shadow-sm">
+                        <option value="Produce">Produce</option>
+                        <option value="Dairy">Dairy</option>
+                        <option value="Meat">Meat</option>
+                        <option value="Dry Pantry">Dry Pantry</option>
+                    </select>
+                </div>
+                <div class="mb-10">
+                    <label class="block text-xs uppercase tracking-widest text-acc-muted mb-2">Expiry Date</label>
+                    <input type="date" id="itemExp" required
+                        class="w-full bg-white border border-gray-300 rounded-lg p-3 text-acc-text focus:outline-none focus:border-acc-dark transition-colors font-light shadow-sm">
+                </div>
+                <div class="flex justify-end gap-4">
+                    <button type="button" onclick="toggleModal(false)"
+                        class="text-xs uppercase tracking-widest text-acc-muted hover:text-acc-text transition-colors font-semibold">Cancel</button>
+                    <button type="submit" class="btn-solid">Save to Database</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        window.onload = async () => {
+            fetchTableData();
+            fetchForecasts();
+            fetchChartData();
+        };
+
+        async function fetchTableData() {
+            try {
+                const res = await fetch('/inventory/high-risk');
+                const data = await res.json();
+                const tbody = document.getElementById('inventory-table');
+                tbody.innerHTML = '';
+                data.forEach(item => {
+                    let reason = item.days_to_expiry <= 2
+                        ? `<span class="text-[#f5a3a3]">Imminent Expiry</span>`
+                        : `Stock Ratio > 1.0 <span class="text-[#a0b0a9]">(${item.waste_risk_ratio.toFixed(1)}x)</span>`;
+
+                    tbody.innerHTML += `
+                        <tr class="hover:bg-[#243431] transition-colors">
+                            <td class="p-6 font-medium text-acc-light">${item.ingredient_name} <span class="ml-2 text-[10px] text-[#a0b0a9] uppercase tracking-wider">${item.category}</span></td>
+                            <td class="p-6 text-[#cbd5d1]">${item.quantity}</td>
+                            <td class="p-6 ${item.days_to_expiry <= 2 ? 'text-[#f5a3a3] font-medium' : 'text-[#cbd5d1]'}">${item.days_to_expiry} days</td>
+                            <td class="p-6 text-right text-[#cbd5d1]">${reason}</td>
+                        </tr>
+                    `;
+                });
+            } catch (e) { console.error("Table load failed"); }
+        }
+
+        async function fetchForecasts() {
+            try {
+                const res = await fetch('/inventory/anomalies');
+                const data = await res.json();
+
+                const sList = document.getElementById('shortage-list');
+                sList.innerHTML = '';
+                data.shortages.forEach(item => {
+                    sList.innerHTML += `<li class="flex justify-between">
+                        <span class="text-acc-text font-medium">${item.ingredient_name}</span> 
+                        <span>Current: <strong class="text-red-500">${item.quantity}</strong> / Req: ${item.projected_7d_demand.toFixed(1)}</span>
+                    </li>`;
+                });
+
+                const oList = document.getElementById('overstock-list');
+                oList.innerHTML = '';
+                data.overstocks.forEach(item => {
+                    oList.innerHTML += `<li class="flex justify-between">
+                        <span class="text-acc-text font-medium">${item.ingredient_name}</span> 
+                        <span>Stock Piled: <strong class="text-yellow-600">${item.quantity}</strong></span>
+                    </li>`;
+                });
+            } catch (e) { console.error("Forecast load failed"); }
+        }
+
+        async function fetchChartData() {
+            try {
+                const res = await fetch('/inventory/chart-data');
+                const data = await res.json();
+
+                const ctx = document.getElementById('areaChart').getContext('2d');
+
+                let gradient = ctx.createLinearGradient(0, 0, 0, 400);
+                gradient.addColorStop(0, 'rgba(34, 51, 47, 0.15)');
+                gradient.addColorStop(1, 'rgba(34, 51, 47, 0.0)');
+
+                new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: data.labels,
+                        datasets: [{
+                            label: 'Volume at Risk',
+                            data: data.values,
+                            fill: true,
+                            backgroundColor: gradient,
+                            borderColor: '#22332f',
+                            borderWidth: 2,
+                            tension: 0.4,
+                            pointBackgroundColor: '#f2f4ef',
+                            pointBorderColor: '#22332f',
+                            pointHoverBackgroundColor: '#22332f',
+                            pointHoverRadius: 6
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { display: false },
+                            tooltip: {
+                                backgroundColor: '#22332f',
+                                titleFont: { family: 'Playfair Display' },
+                                bodyFont: { family: 'Inter' }
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                grid: { color: 'rgba(34, 51, 47, 0.05)' },
+                                ticks: { color: '#5c6b65', font: { family: 'Inter', size: 11 } }
+                            },
+                            x: {
+                                grid: { display: false },
+                                ticks: { color: '#5c6b65', font: { family: 'Inter', size: 11 } }
+                            }
+                        }
+                    }
+                });
+            } catch (e) { console.error("Chart load failed"); }
+        }
+
+        function toggleModal(show) {
+            const modal = document.getElementById('item-modal');
+            show ? modal.classList.remove('hidden') : modal.classList.add('hidden');
+        }
+
+        async function submitNewItem(e) {
+            e.preventDefault();
+            const payload = {
+                ingredient_name: document.getElementById('itemName').value,
+                quantity: parseFloat(document.getElementById('itemQty').value),
+                category: document.getElementById('itemCat').value,
+                expiry_date: document.getElementById('itemExp').value
+            };
+
+            await fetch('/inventory/add', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            const tbody = document.getElementById('inventory-table');
+            const newRowHtml = `
+                <tr class="bg-[#243431] transition-colors">
+                    <td class="p-6 font-medium text-acc-light">${payload.ingredient_name} <span class="ml-2 border border-acc-light text-acc-light text-[10px] uppercase px-2 py-1 rounded-sm">New</span></td>
+                    <td class="p-6 text-[#cbd5d1]">${payload.quantity}</td>
+                    <td class="p-6 text-[#cbd5d1]">Exp: ${payload.expiry_date}</td>
+                    <td class="p-6 text-right text-[#a0b0a9] italic">Awaiting Batch Sync</td>
+                </tr>
+            `;
+            tbody.insertAdjacentHTML('afterbegin', newRowHtml);
+
+            toggleModal(false);
+            document.getElementById('add-item-form').reset();
+        }
+
+        async function generateRecipes() {
+            const btn = document.getElementById('gen-btn');
+            const output = document.getElementById('recipe-output');
+
+            btn.innerText = "Executing Reasoning...";
+            btn.classList.add('opacity-80');
+            output.innerHTML = "<div class='flex flex-col items-center justify-center h-full'><div class='w-8 h-8 border-2 border-acc-light border-t-transparent rounded-full animate-spin mb-4'></div><p class='text-[#7c9288] italic font-serif'>Consulting generative models...</p></div>";
+
+            try {
+                const res = await fetch('/recommendations/generate', { method: 'POST' });
+                const data = await res.json();
+                output.innerHTML = marked.parse(data.markdown);
+            } catch (e) {
+                output.innerHTML = "<p class='text-[#f5a3a3] italic text-center'>Error generating intelligence. Check API connection.</p>";
+            }
+
+            btn.innerText = "Consult Gemini AI Chef";
+            btn.classList.remove('opacity-80');
+        }
+    </script>
+</body>
+
+</html>

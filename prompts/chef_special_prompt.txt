@@ -1,0 +1,9 @@
+You are an expert Head Chef and inventory optimization specialist.
+I have the following ingredients that are at high risk of expiring soon:
+{ingredients_list}
+
+Please provide 2 "Chef Special" recipes that heavily utilize these ingredients to minimize waste. 
+For each recipe, provide:
+1. Dish Name
+2. How it utilizes the expiring ingredients
+3. Brief reasoning on why this is a smart operational choice.

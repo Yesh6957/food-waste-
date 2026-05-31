@@ -1,0 +1,1226 @@
+ingredient_name,quantity,expiry_date,category,daily_consumption,supplier,wastage_history,storage_type
+Yogurt,9.24,2026-06-02,Dairy,1.87,AgroFresh,0.77,Refrigerated
+Potatoes,35.16,2026-06-07,Produce,7.36,Local Mandi,1.49,Refrigerated
+Prawns,8.25,2026-06-03,Meat,8.61,Prime Meats,1.86,Frozen
+Rice,1.32,2026-11-16,Dry Pantry,6.57,Prime Meats,0.87,Ambient
+Mutton,49.85,2026-06-05,Meat,4.64,AgroFresh,2.35,Frozen
+Spinach,49.1,2026-06-10,Produce,7.99,Prime Meats,3.67,Refrigerated
+Rice,16.59,2027-01-11,Dry Pantry,4.99,Prime Meats,4.94,Ambient
+Chicken Breast,27.19,2026-05-31,Meat,3.84,AgroFresh,0.68,Frozen
+Mutton,8.94,2026-06-01,Meat,9.38,Local Mandi,4.74,Frozen
+Cheese,4.93,2026-05-31,Dairy,7.63,AgroFresh,1.33,Refrigerated
+Milk,41.92,2026-05-29,Dairy ,1.73,Metro Wholesale,0.54,Refrigerated
+Cream,19.73,2026-06-07,Dairy,9.63,Metro Wholesale,2.09,Refrigerated
+Yogurt,34.16,2026-06-09,Dairy,1.76,AgroFresh,2.3,Refrigerated
+Sugar,6.6,2027-02-19,Dry Pantry,3.84,DairyCo,0.86,Ambient
+Milk,49.86,2026-06-08,Dairy,2.38,Prime Meats,4.05,Refrigerated
+Fish Fillet,45.79,2026-06-03,Meat,0.77,DairyCo,2.82,Frozen
+Fish Fillet,38.3,2026-06-04,Meat,4.1,Local Mandi,4.17,Frozen
+Fish Fillet,36.89,2026-06-07,Meat,3.12,DairyCo,0.8,Frozen
+Spinach,11.31,2026-06-13,Produce,8.96,Local Mandi,4.4,Refrigerated
+Sugar,23.87,2027-03-11,Dry Pantry,8.85,AgroFresh,0.45,Ambient
+Yogurt,48.05,,Dairy,1.44,Metro Wholesale,3.13,Refrigerated
+Beef,41.26,2026-06-07,Meat,8.13,Metro Wholesale,2.2,Frozen
+Prawns,4.87,,Meat,9.61,DairyCo,1.22,Frozen
+Prawns,13.51,2026-06-05,Meat,0.59,Local Mandi,3.39,Frozen
+Sugar,38.15,2027-05-26,Dry Pantry,7.06,Prime Meats,2.24,Ambient
+Prawns,39.27,2026-06-07,Meat,9.42,DairyCo,4.83,Frozen
+Cream,3.47,2026-06-10,Dairy,9.49,Prime Meats,4.81,Refrigerated
+Spinach,16.28,2026-06-05,Produce,4.83,DairyCo,2.41,Refrigerated
+Carrots,15.78,2026-06-11,Produce,9.24,Prime Meats,3.84,Refrigerated
+Lentils,35.21,2026-08-23,Dry Pantry,2.26,Metro Wholesale,4.17,Ambient
+Yogurt,2.26,2026-06-08,Dairy,3.46,Prime Meats,1.98,Refrigerated
+Chicken Breast,16.19,2026-06-01,Meat,5.36,Metro Wholesale,2.68,Frozen
+Beef,1.8,2026-06-02,Meat,1.78,AgroFresh,1.5,Frozen
+Lentils,-5.0,2026-10-14,Dry Pantry,5.59,Prime Meats,1.54,Ambient
+Prawns,24.8,2026-06-04,Meat,4.19,Metro Wholesale,4.2,Frozen
+Lentils,28.86,2026-07-23,Dry Pantry,5.73,DairyCo,0.54,Ambient
+Prawns,37.99,2026-06-06,Meat,4.43,Prime Meats,0.89,Frozen
+Sugar,6.01,2027-01-07,Dry Pantry,5.36,DairyCo,3.24,Ambient
+Fish Fillet,29.06,2026-06-06,prodce,9.55,AgroFresh,0.68,Frozen
+Prawns,5.16,2026-06-01,Meat,6.51,Metro Wholesale,0.18,Frozen
+Sugar,14.15,2027-01-06,Dry Pantry,7.46,Local Mandi,0.91,Ambient
+Mushroom,15.97,2026-06-02,Produce,5.97,Metro Wholesale,1.25,Refrigerated
+Spices,13.92,,Dry Pantry,5.24,Prime Meats,3.45,Ambient
+Cheese,29.15,2026-06-03,Dairy,4.69,Metro Wholesale,1.03,Refrigerated
+Prawns,35.42,2026-05-30,Meat,4.56,Metro Wholesale,3.96,Frozen
+Mutton,38.31,2026-06-05,Meat,6.92,Metro Wholesale,2.89,Frozen
+Milk,27.08,2026-05-29,Dairy,4.41,DairyCo,3.61,Refrigerated
+Paneer,11.1,2026-05-29,Dairy,1.46,Prime Meats,2.99,Refrigerated
+Spices,33.23,2027-03-06,Dry Pantry,7.57,Local Mandi,3.09,Ambient
+Pasta,21.49,2026-10-20,Dry Pantry,7.72,Local Mandi,3.02,Ambient
+Potatoes,12.69,2026-05-30,Produce,1.92,Metro Wholesale,3.99,Refrigerated
+Spices,21.19,2027-02-02,Dry Pantry,1.38,Metro Wholesale,2.38,Ambient
+Cream,11.93,2026-06-07,Dairy,2.69,Metro Wholesale,1.2,Refrigerated
+Paneer,38.39,2026-05-31,Dairy,6.69,Local Mandi,2.84,Refrigerated
+Carrots,27.3,2026-06-13,Produce,2.06,AgroFresh,3.4,Refrigerated
+Chicken Breast,14.3,2026-06-01,Meat,1.32,Local Mandi,2.26,Frozen
+Prawns,5.77,2026-06-03,Meat,,Prime Meats,1.76,Frozen
+Onions,46.63,2026-06-12,Produce,8.65,Metro Wholesale,1.61,Refrigerated
+Mutton,45.18,2026-05-30,Meat,5.6,Metro Wholesale,4.6,Frozen
+Cheese,46.28,2026-06-09,Dairy,6.73,Prime Meats,1.07,Refrigerated
+Rice,49.63,2026-09-02,Dry Pantry,8.74,Metro Wholesale,1.25,Ambient
+Prawns,30.83,2026-06-06,prodce,3.51,DairyCo,4.98,Frozen
+Sugar,36.6,2026-10-10,Dry Pantry,1.07,Local Mandi,2.31,Ambient
+Chicken Breast,32.59,2026-05-30,Meat,9.79,DairyCo,2.97,Frozen
+Mushroom,7.79,2026-06-05,Produce,5.64,Metro Wholesale,1.54,Refrigerated
+Cream,9.5,2026-06-09,Dairy,5.78,Prime Meats,3.81,Refrigerated
+Bell Peppers,30.11,2026-06-09,Produce,4.4,Prime Meats,2.39,Refrigerated
+Fish Fillet,31.12,2026-05-31,Meat,2.58,Prime Meats,0.77,Frozen
+Fish Fillet,47.4,2026-06-02,Meat,8.13,DairyCo,4.07,Frozen
+Onions,45.16,2026-06-14,Produce,7.08,Local Mandi,0.23,Refrigerated
+Onions,33.86,2026-06-03,prodce,0.78,Local Mandi,4.74,Refrigerated
+Cream,42.56,2026-06-04,Dairy,8.1,Prime Meats,0.23,Refrigerated
+Cream,12.06,2026-05-30,Dairy,7.05,Metro Wholesale,0.98,Refrigerated
+Carrots,20.24,2026-06-02,Produce,6.63,Metro Wholesale,2.7,Refrigerated
+Cream,11.68,2026-06-04,Dairy,1.19,Local Mandi,3.5,Refrigerated
+Pasta,33.26,2026-09-06,Dry Pantry,9.58,Prime Meats,0.02,Ambient
+Cream,42.37,2026-06-03,Dairy,1.4,Local Mandi,0.34,Refrigerated
+Sugar,16.98,2027-02-19,Dry Pantry,3.12,AgroFresh,3.93,Ambient
+Butter,19.29,2026-06-06,Dairy,9.87,Local Mandi,3.77,Refrigerated
+Salt,23.58,2026-07-14,Dry Pantry,6.07,Prime Meats,0.58,Ambient
+Milk,27.34,2026-05-31,Dairy,5.31,Local Mandi,4.4,Refrigerated
+Pasta,2.6,2027-04-12,Dry Pantry,1.99,Local Mandi,4.61,Ambient
+Milk,9.13,2026-06-09,Dairy,3.42,DairyCo,4.61,Refrigerated
+Lentils,31.84,2027-03-28,Dry Pantry,2.83,Prime Meats,3.94,Ambient
+Mushroom,27.2,,Produce,7.96,DairyCo,1.5,Refrigerated
+Onions,34.58,2026-06-01,Produce,1.98,AgroFresh,3.7,Refrigerated
+Lentils,3.96,2027-05-11,Dry Pantry,6.56,Prime Meats,3.3,Ambient
+Lentils,34.77,2026-10-15,Dry Pantry,0.61,Prime Meats,2.91,Ambient
+Beef,32.01,2026-05-31,Meat,2.08,Metro Wholesale,4.07,Frozen
+Beef,27.58,2026-05-30,Meat,8.05,DairyCo,4.4,Frozen
+Chicken Breast,42.22,2026-06-02,Meat,7.72,Metro Wholesale,0.88,Frozen
+Beef,15.5,2026-05-29,Meat,7.14,Prime Meats,1.37,Frozen
+Rice,43.63,2027-03-09,Dry Pantry,5.91,Metro Wholesale,2.76,Ambient
+Carrots,46.41,2026-06-08,Produce,8.75,AgroFresh,1.72,Refrigerated
+Spinach,34.49,2026-05-31,Produce,1.89,Local Mandi,1.02,Refrigerated
+Prawns,26.45,2026-06-06,Meat,1.91,Metro Wholesale,1.64,Frozen
+Chicken Breast,36.76,2026-06-04,Dairy ,5.59,AgroFresh,2.76,Frozen
+Chicken Breast,23.47,2026-06-06,Meat,8.63,AgroFresh,3.04,Frozen
+Flour,24.23,2026-09-23,Dry Pantry,0.71,Metro Wholesale,3.69,Ambient
+Cream,48.39,2026-06-01,Dairy,8.28,DairyCo,3.42,Refrigerated
+Mushroom,23.89,2026-06-14,Produce,1.6,AgroFresh,2.21,Refrigerated
+Chicken Breast,20.46,2026-06-04,Meat,7.55,AgroFresh,2.3,Frozen
+Spinach,9.0,2026-06-12,Produce,3.09,Local Mandi,0.24,Refrigerated
+Flour,48.43,2027-03-27,Dry Pantry,5.38,AgroFresh,3.47,Ambient
+Rice,48.34,2027-05-12,Dry Pantry,2.13,Prime Meats,4.16,Ambient
+Sugar,23.19,2027-03-08,Dry Pantry,7.15,Metro Wholesale,1.6,Ambient
+Pasta,5.63,2027-04-17,Dry Pantry,6.78,Local Mandi,1.78,Ambient
+Sugar,22.42,2027-05-26,Dairy ,2.87,Prime Meats,4.14,Ambient
+Rice,6.12,2027-04-01,Dry Pantry,1.0,Metro Wholesale,0.79,Ambient
+Rice,30.31,2027-05-01,Dry Pantry,7.01,Prime Meats,1.64,Ambient
+Potatoes,9.86,2026-05-31,Produce,5.51,Local Mandi,4.92,Refrigerated
+Onions,28.75,2026-06-03,Produce,5.88,Prime Meats,4.7,Refrigerated
+Yogurt,7.75,,Dairy ,3.99,Local Mandi,1.25,Refrigerated
+Onions,41.01,2026-06-08,Produce,4.87,Metro Wholesale,1.11,Refrigerated
+Rice,21.31,2027-04-27,Dry Pantry,1.91,DairyCo,3.79,Ambient
+Prawns,12.07,2026-06-04,Meat,4.37,Metro Wholesale,4.28,Frozen
+Mutton,47.41,2026-06-06,Meat,1.61,Prime Meats,3.87,Frozen
+Chicken Breast,16.51,2026-06-01,Meat,4.53,Local Mandi,4.4,Frozen
+Rice,2.01,2027-01-14,Dry Pantry,2.48,Prime Meats,1.42,Ambient
+Chicken Breast,18.95,2026-05-30,Meat,6.26,AgroFresh,4.65,Frozen
+Butter,41.7,2026-06-05,Dairy,6.77,Local Mandi,2.97,Refrigerated
+Cheese,42.76,2026-06-04,Dairy,8.66,Local Mandi,3.13,Refrigerated
+Salt,44.93,,Dry Pantry,1.83,DairyCo,0.43,Ambient
+Lentils,46.83,2026-09-26,Dry Pantry,9.92,Metro Wholesale,1.18,Ambient
+Spices,33.51,2027-03-17,Dry Pantry,1.12,Prime Meats,3.76,Ambient
+Cream,25.37,2026-06-04,Dairy,3.31,Prime Meats,1.94,Refrigerated
+Bell Peppers,30.16,2026-06-01,Produce,,AgroFresh,1.94,Refrigerated
+Potatoes,26.84,2026-06-01,Produce,6.65,Local Mandi,2.34,Refrigerated
+Milk,43.08,2026-05-29,Dairy,0.62,Prime Meats,1.82,Refrigerated
+Chicken Breast,28.18,2026-06-05,Meat,1.85,Metro Wholesale,3.16,Frozen
+Onions,6.04,2026-06-04,Produce,2.93,DairyCo,0.76,Refrigerated
+Prawns,40.38,2026-06-07,Meat,5.74,AgroFresh,0.33,Frozen
+Mushroom,29.45,2026-06-10,Produce,9.54,Metro Wholesale,3.36,Refrigerated
+Flour,46.52,2026-10-10,Dry Pantry,7.68,Local Mandi,1.99,Ambient
+Spinach,7.23,2026-05-31,Produce,7.08,Local Mandi,0.68,Refrigerated
+Bell Peppers,20.65,2026-06-11,Dairy ,1.06,AgroFresh,4.93,Refrigerated
+Pasta,28.63,2026-12-04,Dry Pantry,5.81,AgroFresh,1.98,Ambient
+Butter,26.68,2026-05-30,Dairy,9.96,Local Mandi,3.09,Refrigerated
+Beef,24.67,2026-05-31,Meat,7.43,AgroFresh,1.88,Frozen
+Butter,34.09,2026-06-07,Dairy,5.05,Metro Wholesale,3.24,Refrigerated
+Sugar,28.02,2026-11-09,Dry Pantry,3.77,AgroFresh,1.43,Ambient
+Beef,16.38,2026-06-02,Meat,8.56,DairyCo,1.55,Frozen
+Sugar,3.0,2027-05-27,Dry Pantry,3.98,DairyCo,3.52,Ambient
+Onions,37.58,2026-06-12,Produce,7.77,Prime Meats,1.59,Refrigerated
+Mutton,15.6,2026-06-03,Meat,8.93,AgroFresh,2.77,Frozen
+Butter,8.66,2026-06-09,Dairy,2.59,Prime Meats,3.98,Refrigerated
+Milk,41.16,2026-06-06,Dairy,7.75,Metro Wholesale,3.58,Refrigerated
+Lentils,23.09,2027-04-28,Dry Pantry,2.2,Metro Wholesale,4.41,Ambient
+Mushroom,25.49,2026-06-08,Produce,9.53,Local Mandi,2.09,Refrigerated
+Sugar,24.32,,Dry Pantry,6.55,AgroFresh,2.5,Ambient
+Tomatoes,8.53,2026-05-31,prodce,3.56,DairyCo,4.22,Refrigerated
+Bell Peppers,34.34,2026-06-11,Produce,6.17,Prime Meats,2.98,Refrigerated
+Sugar,37.63,2027-05-04,Dry Pantry,5.69,Metro Wholesale,2.44,Ambient
+Carrots,6.04,2026-06-02,Produce,8.27,Local Mandi,2.78,Refrigerated
+Spices,14.83,,Dry Pantry,8.53,AgroFresh,2.77,Ambient
+Onions,12.5,2026-06-01,Produce,3.46,AgroFresh,4.34,Refrigerated
+Prawns,39.84,2026-05-29,Meat,8.93,DairyCo,4.41,Frozen
+Potatoes,33.16,2026-06-04,Produce,9.05,AgroFresh,3.48,Refrigerated
+Chicken Breast,25.61,2026-06-04,Meat,7.13,Metro Wholesale,0.54,Frozen
+Flour,7.48,2027-04-18,Dry Pantry,1.28,AgroFresh,2.74,Ambient
+Rice,5.47,2027-02-06,Dry Pantry,1.31,AgroFresh,3.72,Ambient
+Mutton,5.41,2026-06-02,Meat,6.33,Metro Wholesale,1.17,Frozen
+Lentils,49.44,2027-01-19,Dry Pantry,5.99,Metro Wholesale,4.27,Ambient
+Salt,7.19,2026-09-25,Dry Pantry,5.5,AgroFresh,0.18,Ambient
+Mushroom,38.51,2026-06-12,Produce,0.81,DairyCo,3.83,Refrigerated
+Spinach,24.26,2026-06-09,Produce,8.74,AgroFresh,4.67,Refrigerated
+Cheese,46.61,2026-06-08,Dairy,8.47,Local Mandi,3.96,Refrigerated
+Onions,13.56,2026-06-11,Produce,3.35,DairyCo,4.59,Refrigerated
+Prawns,44.16,2026-05-29,Meat,5.1,DairyCo,4.0,Frozen
+Lentils,32.33,2026-07-29,Dry Pantry,8.02,AgroFresh,3.36,Ambient
+Pasta,13.87,2027-02-07,Dry Pantry,5.54,AgroFresh,1.44,Ambient
+Mushroom,11.24,2026-06-01,Dairy ,1.05,Prime Meats,3.62,Refrigerated
+Spices,28.95,2027-02-17,Dry Pantry,6.04,Prime Meats,3.86,Ambient
+Rice,46.96,2027-05-28,Dry Pantry,6.59,AgroFresh,4.27,Ambient
+Fish Fillet,8.94,2026-05-29,Meat,1.2,Prime Meats,1.94,Frozen
+Mutton,48.47,2026-06-06,Meat,6.0,AgroFresh,3.74,Frozen
+Tomatoes,15.06,2026-06-03,Produce,8.38,Prime Meats,2.24,Refrigerated
+Prawns,30.07,2026-06-06,Meat,7.12,Prime Meats,2.29,Frozen
+Rice,13.96,2027-01-04,Dry Pantry,1.67,Local Mandi,2.92,Ambient
+Milk,4.69,2026-05-31,Dairy,,DairyCo,0.18,Refrigerated
+Chicken Breast,28.28,2026-05-31,Meat,6.12,Prime Meats,2.78,Frozen
+Butter,19.3,2026-05-30,Dairy,9.33,Local Mandi,0.77,Refrigerated
+Tomatoes,19.2,2026-06-08,Produce,9.91,Local Mandi,2.43,Refrigerated
+Bell Peppers,17.49,2026-06-02,Produce,1.38,Local Mandi,4.24,Refrigerated
+Prawns,35.4,2026-06-06,Meat,9.17,Metro Wholesale,3.81,Frozen
+Salt,19.34,2027-05-21,Dry Pantry,6.2,Metro Wholesale,4.61,Ambient
+Mutton,13.23,2026-06-02,Meat,1.14,AgroFresh,3.6,Frozen
+Cheese,40.89,2026-06-08,Dairy,1.47,DairyCo,4.32,Refrigerated
+Cheese,47.14,,Dairy,6.88,DairyCo,1.59,Refrigerated
+Onions,49.08,2026-06-02,Produce,2.77,Prime Meats,3.69,Refrigerated
+Potatoes,30.02,2026-06-05,Produce,4.19,Metro Wholesale,1.39,Refrigerated
+Spinach,28.35,2026-06-08,Produce,2.64,Local Mandi,3.52,Refrigerated
+Fish Fillet,37.58,2026-06-04,Meat,4.13,Metro Wholesale,3.0,Frozen
+Cheese,39.64,2026-06-03,Dairy,0.82,Metro Wholesale,0.45,Refrigerated
+Carrots,30.13,2026-06-12,Produce,6.38,DairyCo,2.83,Refrigerated
+Lentils,20.72,2026-09-03,Dry Pantry,3.31,Metro Wholesale,2.1,Ambient
+Potatoes,11.36,2026-06-14,Produce,8.33,DairyCo,4.34,Refrigerated
+Lentils,8.63,2027-03-24,Dry Pantry,0.6,Metro Wholesale,1.72,Ambient
+Mutton,13.38,2026-06-04,Meat,1.96,Prime Meats,0.37,Frozen
+Milk,37.05,2026-06-04,Dairy,5.24,DairyCo,0.59,Refrigerated
+Carrots,16.81,2026-06-08,Produce,3.5,Local Mandi,3.43,Refrigerated
+Pasta,37.48,2026-12-27,Dry Pantry,0.67,Local Mandi,3.13,Ambient
+Paneer,10.45,2026-05-29,Dairy,8.41,Metro Wholesale,0.17,Refrigerated
+Cream,16.88,2026-06-06,Dairy,7.19,Local Mandi,4.17,Refrigerated
+Milk,16.24,2026-06-07,Dairy,0.92,AgroFresh,1.67,Refrigerated
+Mushroom,48.14,2026-05-31,Produce,9.3,AgroFresh,1.49,Refrigerated
+Onions,1.57,2026-06-03,Produce,6.66,Prime Meats,3.29,Refrigerated
+Chicken Breast,2.07,2026-05-31,Meat,6.07,AgroFresh,4.23,Frozen
+Bell Peppers,37.51,2026-06-10,Dairy ,2.64,Local Mandi,2.52,Refrigerated
+Spices,25.79,2026-08-19,Dry Pantry,7.46,Metro Wholesale,3.24,Ambient
+Chicken Breast,43.2,2026-06-01,prodce,8.72,Prime Meats,3.51,Frozen
+Sugar,23.4,2027-04-24,Dry Pantry,2.79,Local Mandi,0.24,Ambient
+Mushroom,33.74,2026-06-10,Produce,5.47,AgroFresh,4.77,Refrigerated
+Cheese,12.85,2026-06-05,prodce,1.66,Metro Wholesale,0.7,Refrigerated
+Cheese,9.35,2026-06-10,Dairy,3.2,DairyCo,1.36,Refrigerated
+Potatoes,41.7,2026-06-02,Produce,1.5,Local Mandi,0.57,Refrigerated
+Paneer,4.36,2026-06-01,Dairy,1.15,Prime Meats,0.6,Refrigerated
+Beef,38.38,2026-06-03,Meat,2.24,AgroFresh,1.11,Frozen
+Prawns,5.93,2026-05-29,Meat,7.82,DairyCo,4.89,Frozen
+Chicken Breast,40.62,2026-06-03,Meat,4.98,DairyCo,5.0,Frozen
+Potatoes,6.24,,Produce,3.39,Local Mandi,4.21,Refrigerated
+Prawns,11.06,2026-05-29,Meat,2.25,Local Mandi,0.05,Frozen
+Prawns,44.34,2026-05-30,Meat,2.76,Local Mandi,1.65,Frozen
+Prawns,24.08,2026-06-02,Meat,9.0,AgroFresh,3.21,Frozen
+Beef,35.11,2026-06-07,Meat,1.8,DairyCo,1.2,Frozen
+Paneer,25.69,2026-06-09,Dairy,3.25,DairyCo,1.59,Refrigerated
+Flour,46.36,2026-08-20,Dry Pantry,0.89,DairyCo,1.88,Ambient
+Paneer,30.09,2026-06-05,Dairy,5.43,AgroFresh,0.04,Refrigerated
+Yogurt,47.64,2026-06-04,Dairy,4.12,Local Mandi,0.89,Refrigerated
+Cheese,30.11,2026-06-05,Dairy,6.33,AgroFresh,2.16,Refrigerated
+Onions,1.31,2026-06-06,Produce,4.4,DairyCo,1.73,Refrigerated
+Chicken Breast,23.05,2026-06-03,Meat,6.96,Metro Wholesale,4.39,Frozen
+Bell Peppers,17.04,2026-06-09,Produce,5.99,Metro Wholesale,3.82,Refrigerated
+Cheese,39.6,2026-05-30,Dairy,0.91,Metro Wholesale,4.04,Refrigerated
+Beef,28.55,2026-06-05,Meat,6.72,Local Mandi,1.82,Frozen
+Onions,43.3,2026-06-08,Produce,8.11,Local Mandi,3.99,Refrigerated
+Butter,43.4,2026-06-10,Dairy,1.62,Metro Wholesale,1.05,Refrigerated
+Onions,14.47,2026-06-03,Produce,4.74,AgroFresh,3.07,Refrigerated
+Spinach,15.66,2026-06-03,Produce,6.84,Prime Meats,2.6,Refrigerated
+Prawns,42.37,2026-05-30,Meat,4.37,DairyCo,2.33,Frozen
+Bell Peppers,23.28,2026-06-14,Produce,1.66,Prime Meats,1.15,Refrigerated
+Bell Peppers,14.95,2026-06-14,Produce,3.59,Prime Meats,4.45,Refrigerated
+Tomatoes,29.82,2026-06-03,Produce,7.59,Local Mandi,4.67,Refrigerated
+Tomatoes,20.65,2026-06-07,Produce,,Metro Wholesale,0.45,Refrigerated
+Milk,11.14,2026-05-30,Dairy,6.56,Prime Meats,4.22,Refrigerated
+Pasta,3.15,2026-10-06,Dry Pantry,9.03,Local Mandi,2.57,Ambient
+Potatoes,19.91,2026-06-01,Produce,2.79,DairyCo,4.44,Refrigerated
+Cream,48.64,2026-06-09,Dairy,6.53,Local Mandi,4.25,Refrigerated
+Chicken Breast,5.43,2026-06-02,Meat,8.17,DairyCo,0.2,Frozen
+Milk,1.92,2026-06-04,Dairy,5.1,AgroFresh,0.98,Refrigerated
+Lentils,8.65,2027-04-05,Dry Pantry,9.72,DairyCo,1.66,Ambient
+Fish Fillet,41.18,2026-06-04,Meat,2.15,Prime Meats,2.78,Frozen
+Rice,22.47,,Dry Pantry,7.12,AgroFresh,1.5,Ambient
+Yogurt,32.47,2026-06-10,Dairy,0.86,DairyCo,1.91,Refrigerated
+Beef,33.53,2026-05-30,Meat,6.38,Metro Wholesale,3.36,Frozen
+Prawns,31.93,2026-05-30,Meat,,AgroFresh,0.81,Frozen
+Beef,49.58,2026-06-03,Meat,3.58,Prime Meats,3.82,Frozen
+Beef,2.34,2026-05-31,Meat,5.11,DairyCo,0.38,Frozen
+Sugar,17.54,2027-05-03,Dry Pantry,2.0,Prime Meats,4.67,Ambient
+Butter,43.66,2026-06-01,Dairy,7.59,Local Mandi,3.9,Refrigerated
+Lentils,12.49,2026-08-14,Dry Pantry,0.62,AgroFresh,4.18,Ambient
+Salt,9.93,2027-02-19,Dry Pantry,1.78,AgroFresh,1.47,Ambient
+Cream,36.67,2026-05-30,Dairy,8.3,Metro Wholesale,2.25,Refrigerated
+Mutton,19.61,2026-06-05,Meat,8.42,DairyCo,3.27,Frozen
+Yogurt,18.19,2026-06-06,Dairy,3.17,Metro Wholesale,1.62,Refrigerated
+Pasta,2.76,2026-12-02,Dairy ,2.18,Metro Wholesale,2.46,Ambient
+Bell Peppers,10.23,2026-06-02,Produce,9.02,Prime Meats,2.3,Refrigerated
+Pasta,16.49,2027-05-30,Dairy ,9.82,AgroFresh,0.51,Ambient
+Mutton,31.27,2026-06-03,Meat,9.12,DairyCo,3.42,Frozen
+Beef,45.18,2026-05-29,Meat,6.63,Prime Meats,1.38,Frozen
+Yogurt,7.66,2026-06-09,Dairy,7.74,Local Mandi,2.79,Refrigerated
+Lentils,21.52,2026-10-12,Dry Pantry,4.42,Prime Meats,2.51,Ambient
+Fish Fillet,31.03,2026-06-06,Meat,2.97,Local Mandi,1.19,Frozen
+Mushroom,43.7,2026-06-09,Produce,4.49,Local Mandi,1.3,Refrigerated
+Paneer,42.37,2026-06-10,Dairy,3.65,DairyCo,3.0,Refrigerated
+Mushroom,25.08,2026-06-01,Dairy ,8.95,Prime Meats,4.01,Refrigerated
+Rice,1.51,2026-12-12,prodce,1.77,Prime Meats,3.43,Ambient
+Lentils,32.31,2026-08-31,Dry Pantry,7.16,DairyCo,4.33,Ambient
+Prawns,45.08,,Meat,4.79,Metro Wholesale,0.32,Frozen
+Fish Fillet,48.12,2026-06-04,Meat,4.75,AgroFresh,3.63,Frozen
+Chicken Breast,10.23,2026-05-30,Meat,8.9,AgroFresh,1.95,Frozen
+Salt,39.76,2026-09-19,Dry Pantry,5.36,Prime Meats,2.75,Ambient
+Cream,2.5,2026-06-07,Dairy,4.04,Prime Meats,0.89,Refrigerated
+Cheese,14.94,2026-06-06,Dairy,9.9,DairyCo,2.47,Refrigerated
+Potatoes,16.03,2026-06-03,Produce,7.04,Metro Wholesale,3.64,Refrigerated
+Cheese,15.06,2026-06-07,Dairy,4.58,DairyCo,3.27,Refrigerated
+Tomatoes,47.51,2026-06-04,Produce,4.77,Metro Wholesale,4.04,Refrigerated
+Rice,17.36,2027-02-06,Dry Pantry,1.48,Prime Meats,4.24,Ambient
+Mutton,39.17,2026-05-30,Meat,1.64,Prime Meats,3.07,Frozen
+Mutton,24.89,2026-06-02,Meat,,Local Mandi,1.4,Frozen
+Fish Fillet,16.84,2026-06-04,Meat,9.72,DairyCo,4.12,Frozen
+Chicken Breast,3.25,2026-06-02,Meat,8.06,Local Mandi,1.87,Frozen
+Mutton,41.03,2026-06-07,Meat,8.95,DairyCo,3.82,Frozen
+Beef,46.03,2026-05-31,Dairy ,7.05,Prime Meats,4.15,Frozen
+Rice,12.94,2027-04-29,Dry Pantry,1.71,Metro Wholesale,0.67,Ambient
+Cheese,29.21,2026-06-09,Dairy,5.95,Prime Meats,1.45,Refrigerated
+Spinach,38.89,2026-06-02,Produce,9.0,Metro Wholesale,3.7,Refrigerated
+Chicken Breast,8.27,2026-05-31,Meat,3.2,DairyCo,4.62,Frozen
+Mushroom,48.47,2026-06-10,Produce,7.09,Metro Wholesale,3.33,Refrigerated
+Mutton,16.72,2026-05-29,Meat,6.14,Local Mandi,0.85,Frozen
+Cream,26.16,2026-05-30,Dairy,1.06,Local Mandi,0.22,Refrigerated
+Prawns,14.98,2026-06-06,Meat,7.12,Prime Meats,0.77,Frozen
+Yogurt,32.71,2026-05-30,Dairy,6.45,Prime Meats,0.99,Refrigerated
+Lentils,9.91,2027-04-18,Dry Pantry,8.83,Metro Wholesale,0.1,Ambient
+Rice,6.43,2027-05-01,Dry Pantry,9.1,DairyCo,0.08,Ambient
+Bell Peppers,33.19,2026-06-08,Produce,8.14,Metro Wholesale,0.17,Refrigerated
+Potatoes,15.64,2026-05-31,Dairy ,4.25,DairyCo,2.86,Refrigerated
+Carrots,27.17,2026-05-30,Produce,9.12,AgroFresh,3.21,Refrigerated
+Flour,16.5,2026-08-10,Dry Pantry,7.3,Prime Meats,1.66,Ambient
+Salt,36.22,2027-01-25,Dry Pantry,5.49,DairyCo,0.37,Ambient
+Paneer,37.31,2026-05-30,Dairy,9.73,DairyCo,1.08,Refrigerated
+Paneer,44.4,2026-06-02,Dairy,3.5,DairyCo,1.99,Refrigerated
+Chicken Breast,25.88,2026-06-06,Meat,5.63,AgroFresh,3.31,Frozen
+Salt,1.4,2026-07-07,Dry Pantry,1.36,Prime Meats,1.09,Ambient
+Salt,19.16,2026-12-21,Dry Pantry,5.31,AgroFresh,4.25,Ambient
+Yogurt,14.02,2026-05-30,Dairy,0.89,Local Mandi,0.39,Refrigerated
+Salt,37.66,2027-04-17,Dry Pantry,2.15,Local Mandi,2.03,Ambient
+Bell Peppers,11.02,2026-06-13,Produce,2.18,DairyCo,2.45,Refrigerated
+Milk,41.34,2026-06-07,Dairy,4.98,Prime Meats,0.44,Refrigerated
+Tomatoes,7.49,2026-06-04,Produce,7.4,AgroFresh,2.08,Refrigerated
+Cheese,11.84,2026-06-03,Dairy,2.53,Local Mandi,1.8,Refrigerated
+Spices,43.25,2027-02-05,prodce,4.68,DairyCo,0.68,Ambient
+Salt,9.29,2026-12-13,Dry Pantry,6.34,Metro Wholesale,0.14,Ambient
+Paneer,2.42,2026-05-29,Dairy,9.08,AgroFresh,1.92,Refrigerated
+Beef,25.59,2026-05-31,Dairy ,3.09,Local Mandi,4.57,Frozen
+Tomatoes,9.44,2026-06-08,Produce,0.97,AgroFresh,2.28,Refrigerated
+Yogurt,32.85,2026-06-09,Dairy,4.68,Metro Wholesale,3.14,Refrigerated
+Butter,9.46,2026-05-30,Dairy,7.28,Local Mandi,3.34,Refrigerated
+Carrots,25.95,2026-05-31,Produce,5.25,AgroFresh,0.69,Refrigerated
+Prawns,8.15,2026-06-02,Meat,2.09,Prime Meats,1.5,Frozen
+Bell Peppers,49.41,2026-06-14,Produce,8.88,DairyCo,1.55,Refrigerated
+Carrots,33.32,2026-06-09,Produce,3.01,Prime Meats,2.98,Refrigerated
+Prawns,41.55,2026-05-31,Meat,3.9,AgroFresh,0.62,Frozen
+Carrots,32.27,2026-06-02,Produce,7.23,AgroFresh,4.28,Refrigerated
+Cheese,11.29,,Dairy,2.87,Local Mandi,3.9,Refrigerated
+Flour,48.44,2027-03-10,Dry Pantry,8.34,Local Mandi,1.61,Ambient
+Rice,26.77,2026-09-11,Dry Pantry,4.84,Prime Meats,4.35,Ambient
+Mutton,35.78,2026-05-30,Meat,0.77,Metro Wholesale,0.64,Frozen
+Butter,22.59,2026-06-08,Dairy,1.1,Local Mandi,0.06,Refrigerated
+Milk,26.51,2026-06-02,Dairy,6.76,AgroFresh,2.89,Refrigerated
+Prawns,6.59,2026-06-01,Meat,7.71,AgroFresh,1.71,Frozen
+Chicken Breast,-5.0,2026-06-01,Meat,2.14,Prime Meats,4.95,Frozen
+Spices,15.8,2027-03-04,Dry Pantry,9.99,AgroFresh,1.19,Ambient
+Mutton,23.77,2026-06-04,Meat,5.35,Local Mandi,2.51,Frozen
+Potatoes,15.49,2026-06-10,Produce,3.0,Prime Meats,0.0,Refrigerated
+Lentils,10.26,2026-07-03,Dry Pantry,,DairyCo,2.61,Ambient
+Rice,7.19,2027-05-26,Dry Pantry,2.74,Local Mandi,1.81,Ambient
+Beef,38.34,2026-05-30,Meat,5.32,Local Mandi,4.21,Frozen
+Spices,33.84,2026-11-12,Dry Pantry,6.43,Local Mandi,4.83,Ambient
+Fish Fillet,37.01,2026-06-07,Meat,6.51,Metro Wholesale,1.63,Frozen
+Butter,44.13,2026-06-05,Dairy,1.63,Local Mandi,4.26,Refrigerated
+Paneer,23.58,2026-06-06,Dairy,7.82,Metro Wholesale,2.36,Refrigerated
+Spices,5.69,2026-09-01,Dry Pantry,4.74,AgroFresh,4.87,Ambient
+Onions,33.33,2026-06-04,Produce,9.5,Local Mandi,2.64,Refrigerated
+Carrots,26.53,2026-06-04,Produce,7.01,Metro Wholesale,1.34,Refrigerated
+Prawns,26.75,2026-05-31,Meat,3.48,Prime Meats,4.56,Frozen
+Butter,18.33,2026-06-10,Dairy,6.82,Prime Meats,4.34,Refrigerated
+Chicken Breast,22.69,2026-06-06,Meat,7.82,AgroFresh,0.42,Frozen
+Tomatoes,40.47,2026-06-11,Produce,8.12,Local Mandi,3.4,Refrigerated
+Fish Fillet,23.88,2026-06-05,Meat,9.39,Local Mandi,3.85,Frozen
+Bell Peppers,32.25,2026-06-14,Produce,7.78,Metro Wholesale,1.37,Refrigerated
+Carrots,48.54,2026-06-01,Produce,8.62,Prime Meats,4.28,Refrigerated
+Yogurt,40.06,2026-06-02,Dairy,9.38,Metro Wholesale,0.54,Refrigerated
+Cheese,44.75,2026-06-05,Dairy,4.46,AgroFresh,2.47,Refrigerated
+Tomatoes,24.01,2026-06-09,Produce,9.71,DairyCo,3.46,Refrigerated
+Flour,41.26,2027-04-19,Dry Pantry,2.8,AgroFresh,0.95,Ambient
+Prawns,38.53,2026-05-30,Dairy ,9.15,Local Mandi,2.99,Frozen
+Cream,24.66,2026-05-31,Dairy,2.15,DairyCo,2.46,Refrigerated
+Tomatoes,18.82,2026-06-05,Produce,2.39,DairyCo,4.22,Refrigerated
+Spinach,4.88,2026-06-07,Produce,6.44,Local Mandi,3.24,Refrigerated
+Prawns,9.26,2026-06-01,Meat,3.48,Prime Meats,1.38,Frozen
+Milk,49.93,2026-06-04,Dairy,8.55,AgroFresh,2.45,Refrigerated
+Spices,2.66,2027-03-08,Dry Pantry,8.73,Prime Meats,3.68,Ambient
+Tomatoes,15.63,,Produce,8.11,DairyCo,0.66,Refrigerated
+Rice,45.06,2026-09-13,Dry Pantry,3.56,AgroFresh,0.63,Ambient
+Milk,47.53,2026-05-29,Dairy,,DairyCo,0.76,Refrigerated
+Flour,7.33,2026-10-25,prodce,5.56,DairyCo,2.79,Ambient
+Prawns,11.5,2026-06-07,Meat,1.76,DairyCo,2.36,Frozen
+Butter,19.81,2026-06-07,Dairy,8.05,DairyCo,0.51,Refrigerated
+Paneer,41.91,2026-06-03,Dairy,5.44,Prime Meats,2.89,Refrigerated
+Salt,48.69,2026-09-11,Dry Pantry,8.33,DairyCo,0.64,Ambient
+Mushroom,45.52,2026-06-09,Produce,7.96,Metro Wholesale,3.34,Refrigerated
+Potatoes,11.24,2026-06-08,Produce,9.12,AgroFresh,1.06,Refrigerated
+Rice,13.46,2026-08-30,Dry Pantry,2.36,Prime Meats,1.08,Ambient
+Paneer,38.31,2026-06-02,Dairy,2.7,Local Mandi,1.17,Refrigerated
+Bell Peppers,13.01,2026-06-13,Produce,9.55,AgroFresh,0.01,Refrigerated
+Pasta,37.89,2026-08-15,Dry Pantry,5.96,Metro Wholesale,2.16,Ambient
+Cheese,39.55,,Dairy,2.83,DairyCo,2.22,Refrigerated
+Pasta,44.34,2026-11-23,Dry Pantry,7.85,Prime Meats,0.83,Ambient
+Tomatoes,15.63,,Produce,8.11,DairyCo,0.66,Refrigerated
+Bell Peppers,48.24,2026-06-04,Produce,9.83,DairyCo,0.7,Refrigerated
+Beef,-5.0,2026-06-04,Meat,3.71,Prime Meats,4.17,Frozen
+Flour,2.32,2026-11-11,Dry Pantry,0.52,Local Mandi,4.78,Ambient
+Chicken Breast,3.34,2026-05-30,Meat,6.68,Prime Meats,1.49,Frozen
+Prawns,48.34,2026-06-01,Meat,5.85,Local Mandi,4.81,Frozen
+Milk,18.42,2026-06-06,Dairy,1.96,AgroFresh,0.63,Refrigerated
+Butter,16.71,2026-06-02,Dairy,3.64,AgroFresh,2.53,Refrigerated
+Cheese,46.62,2026-06-03,Dairy,4.97,DairyCo,4.7,Refrigerated
+Salt,10.04,,Dry Pantry,6.58,Prime Meats,0.15,Ambient
+Mushroom,1.56,2026-06-10,Produce,5.22,DairyCo,2.59,Refrigerated
+Spices,38.66,2027-04-20,Dry Pantry,3.83,AgroFresh,2.13,Ambient
+Fish Fillet,41.05,2026-06-06,Meat,7.27,AgroFresh,4.87,Frozen
+Paneer,48.16,2026-05-30,Dairy,7.48,Prime Meats,0.2,Refrigerated
+Beef,29.3,,Meat,7.35,Prime Meats,0.85,Frozen
+Spinach,6.66,,Produce,1.52,Local Mandi,1.41,Refrigerated
+Spinach,47.95,2026-06-04,Produce,1.23,Local Mandi,0.56,Refrigerated
+Prawns,6.59,2026-06-05,Meat,1.12,AgroFresh,2.89,Frozen
+Milk,32.6,2026-06-04,Dairy,3.21,Local Mandi,1.67,Refrigerated
+Cheese,24.75,2026-05-30,Dairy,6.17,Metro Wholesale,0.99,Refrigerated
+Yogurt,37.51,2026-06-02,Dairy,8.41,Metro Wholesale,3.04,Refrigerated
+Rice,38.84,2026-11-03,Dry Pantry,3.31,AgroFresh,0.41,Ambient
+Cheese,21.28,,Dairy,7.9,DairyCo,4.53,Refrigerated
+Paneer,41.27,2026-06-04,Dairy,8.15,Local Mandi,0.33,Refrigerated
+Spices,49.72,2026-07-16,Dry Pantry,9.67,Metro Wholesale,3.01,Ambient
+Onions,30.94,2026-06-11,Produce,6.57,Prime Meats,2.58,Refrigerated
+Yogurt,22.89,2026-05-30,Dairy,7.19,DairyCo,0.56,Refrigerated
+Pasta,30.75,2026-10-18,Dry Pantry,4.43,DairyCo,0.57,Ambient
+Fish Fillet,48.2,2026-06-07,Meat,3.13,Metro Wholesale,2.27,Frozen
+Salt,38.98,2026-10-22,Dry Pantry,3.98,DairyCo,3.67,Ambient
+Paneer,47.61,2026-06-05,Dairy,6.47,DairyCo,3.8,Refrigerated
+Spinach,8.8,2026-06-11,Produce,7.16,AgroFresh,4.29,Refrigerated
+Milk,5.88,2026-06-05,Dairy,7.95,AgroFresh,0.62,Refrigerated
+Butter,22.47,2026-05-31,Dairy,4.49,Prime Meats,2.47,Refrigerated
+Paneer,47.8,2026-06-10,Dairy,5.65,AgroFresh,4.79,Refrigerated
+Chicken Breast,20.53,2026-05-31,Meat,4.63,Metro Wholesale,2.4,Frozen
+Butter,25.79,2026-06-06,Dairy,8.09,Metro Wholesale,0.95,Refrigerated
+Carrots,10.63,2026-06-01,Produce,7.47,AgroFresh,4.46,Refrigerated
+Pasta,8.31,2027-04-01,Dry Pantry,4.08,Prime Meats,1.2,Ambient
+Butter,32.04,2026-05-29,Dairy,9.18,Local Mandi,2.77,Refrigerated
+Butter,5.29,2026-06-08,Dairy ,8.33,DairyCo,2.4,Refrigerated
+Mutton,32.73,2026-06-05,Meat,1.36,Local Mandi,0.81,Frozen
+Spices,45.44,,Dry Pantry,4.74,Prime Meats,2.25,Ambient
+Beef,13.0,2026-06-07,Meat,1.18,Local Mandi,2.7,Frozen
+Carrots,45.01,2026-05-31,Produce,4.47,AgroFresh,4.96,Refrigerated
+Yogurt,5.99,2026-05-31,Dairy,8.78,Local Mandi,1.63,Refrigerated
+Flour,12.27,2026-11-20,Dry Pantry,5.39,Metro Wholesale,0.75,Ambient
+Pasta,43.61,2027-01-08,Dry Pantry,9.11,AgroFresh,3.41,Ambient
+Beef,27.14,2026-05-31,Meat,,DairyCo,4.71,Frozen
+Potatoes,45.84,2026-06-08,Dairy ,5.74,Prime Meats,2.33,Refrigerated
+Spices,36.5,2027-01-11,Dry Pantry,5.21,Prime Meats,0.86,Ambient
+Lentils,37.76,2027-01-22,Dry Pantry,2.07,AgroFresh,1.14,Ambient
+Spices,41.47,2027-01-29,Dry Pantry,3.06,DairyCo,3.23,Ambient
+Milk,20.25,2026-06-05,Dairy,5.72,Metro Wholesale,0.27,Refrigerated
+Salt,30.1,,Dry Pantry,3.27,Local Mandi,3.53,Ambient
+Chicken Breast,45.66,,Meat,8.31,DairyCo,4.01,Frozen
+Bell Peppers,4.72,2026-06-11,Produce,6.25,Local Mandi,0.15,Refrigerated
+Cream,49.82,2026-06-04,Dairy,2.77,AgroFresh,3.96,Refrigerated
+Onions,10.07,2026-06-07,Produce,7.6,AgroFresh,2.17,Refrigerated
+Spices,49.79,2027-02-21,Dry Pantry,6.12,Local Mandi,0.07,Ambient
+Fish Fillet,20.41,2026-05-29,Meat,5.9,Metro Wholesale,0.97,Frozen
+Fish Fillet,33.15,2026-06-02,Meat,9.55,Metro Wholesale,0.75,Frozen
+Spices,31.42,2026-09-23,Dry Pantry,6.7,AgroFresh,0.3,Ambient
+Prawns,11.51,2026-06-05,Meat,6.31,Metro Wholesale,0.61,Frozen
+Potatoes,25.11,2026-06-03,Produce,1.07,Local Mandi,0.47,Refrigerated
+Spices,8.28,2026-12-23,Dry Pantry,5.62,Local Mandi,2.76,Ambient
+Rice,5.42,2026-10-20,Dry Pantry,2.71,AgroFresh,2.63,Ambient
+Potatoes,37.72,2026-05-31,Produce,3.92,AgroFresh,3.84,Refrigerated
+Paneer,36.78,,Dairy,5.5,Local Mandi,2.32,Refrigerated
+Pasta,13.87,2027-02-07,Dry Pantry,5.54,AgroFresh,1.44,Ambient
+Butter,6.53,2026-05-31,Dairy,5.05,Local Mandi,3.84,Refrigerated
+Fish Fillet,8.87,,Meat,5.26,Metro Wholesale,2.52,Frozen
+Fish Fillet,4.24,2026-05-29,Meat,1.92,Local Mandi,4.92,Frozen
+Cream,32.91,2026-06-08,Dairy,5.62,Prime Meats,3.36,Refrigerated
+Salt,43.76,2027-02-07,Dry Pantry,2.85,DairyCo,1.11,Ambient
+Butter,31.0,2026-06-08,Dairy,1.02,Metro Wholesale,0.6,Refrigerated
+Prawns,45.89,2026-05-31,Meat,8.07,Prime Meats,0.78,Frozen
+Spinach,36.07,2026-06-02,Produce,5.13,DairyCo,3.38,Refrigerated
+Beef,29.92,2026-06-03,Meat,6.89,AgroFresh,1.19,Frozen
+Mushroom,15.79,2026-06-07,Produce,8.81,AgroFresh,3.27,Refrigerated
+Yogurt,1.8,2026-06-05,Dairy,7.53,Metro Wholesale,3.93,Refrigerated
+Pasta,41.1,2026-09-12,Dry Pantry,9.57,Local Mandi,0.21,Ambient
+Bell Peppers,48.35,2026-05-31,Produce,4.61,AgroFresh,2.59,Refrigerated
+Paneer,8.71,2026-06-08,Dairy,6.37,AgroFresh,1.36,Refrigerated
+Flour,36.0,2027-02-01,Dry Pantry,5.52,DairyCo,1.58,Ambient
+Pasta,46.71,2026-10-30,Dry Pantry,8.76,DairyCo,1.91,Ambient
+Butter,26.34,2026-05-30,Dairy,6.08,AgroFresh,0.06,Refrigerated
+Mutton,19.17,,Meat,6.29,Prime Meats,3.07,Frozen
+Prawns,33.51,2026-06-04,Meat,3.48,Prime Meats,1.26,Frozen
+Chicken Breast,13.18,2026-06-05,Meat,2.31,Metro Wholesale,2.11,Frozen
+Butter,32.05,2026-06-08,Dairy,9.94,Metro Wholesale,4.0,Refrigerated
+Mutton,42.75,2026-05-31,Meat,5.17,Metro Wholesale,0.97,Frozen
+Flour,31.08,2027-02-11,Dry Pantry,1.51,Local Mandi,0.52,Ambient
+Rice,27.62,2026-11-05,Dry Pantry,2.23,Prime Meats,4.14,Ambient
+Lentils,2.79,2026-11-23,Dry Pantry,6.65,Local Mandi,4.31,Ambient
+Spices,27.51,2026-10-28,Dry Pantry,6.37,Local Mandi,4.99,Ambient
+Prawns,30.5,2026-06-03,Meat,8.23,Prime Meats,3.48,Frozen
+Potatoes,48.56,,Produce,9.14,Prime Meats,2.71,Refrigerated
+Chicken Breast,44.71,2026-06-06,Meat,7.69,Metro Wholesale,0.09,Frozen
+Prawns,40.43,2026-05-31,Meat,1.33,AgroFresh,0.95,Frozen
+Cream,6.3,2026-05-29,Dairy,8.44,AgroFresh,2.08,Refrigerated
+Potatoes,20.37,2026-06-06,Produce,5.93,Metro Wholesale,0.36,Refrigerated
+Prawns,28.12,2026-06-06,Meat,3.77,Local Mandi,1.76,Frozen
+Carrots,37.21,2026-06-10,Produce,6.76,Metro Wholesale,1.31,Refrigerated
+Bell Peppers,5.95,2026-06-10,Produce,3.14,Metro Wholesale,1.85,Refrigerated
+Paneer,21.48,2026-05-29,Dairy,8.46,Prime Meats,3.94,Refrigerated
+Milk,29.0,2026-06-05,Dairy,2.88,AgroFresh,4.48,Refrigerated
+Chicken Breast,29.55,2026-06-06,Meat,6.31,Prime Meats,4.24,Frozen
+Bell Peppers,16.02,2026-06-06,Produce,8.0,Prime Meats,1.86,Refrigerated
+Spinach,16.28,2026-06-05,Produce,4.83,DairyCo,2.41,Refrigerated
+Chicken Breast,19.09,2026-05-29,Meat,5.71,AgroFresh,3.52,Frozen
+Fish Fillet,45.55,,Meat,0.58,DairyCo,3.05,Frozen
+Pasta,11.5,2026-08-26,Dry Pantry,2.66,Local Mandi,0.62,Ambient
+Salt,10.09,2027-01-02,Dry Pantry,0.68,DairyCo,1.19,Ambient
+Mushroom,43.15,2026-06-11,Produce,1.63,DairyCo,0.64,Refrigerated
+Milk,17.08,2026-06-02,Dairy,1.6,Prime Meats,3.0,Refrigerated
+Prawns,44.49,2026-05-29,prodce,4.56,DairyCo,3.68,Frozen
+Sugar,2.6,2026-09-27,Dry Pantry,3.8,Prime Meats,4.88,Ambient
+Milk,46.53,2026-06-10,Dairy,8.85,Local Mandi,1.2,Refrigerated
+Bell Peppers,29.96,2026-06-02,Produce,8.27,AgroFresh,2.49,Refrigerated
+Mutton,31.1,2026-06-05,Meat,5.22,Prime Meats,4.04,Frozen
+Butter,38.46,2026-06-02,Dairy ,0.64,Prime Meats,1.11,Refrigerated
+Yogurt,46.83,2026-06-05,Dairy,8.47,DairyCo,3.91,Refrigerated
+Prawns,49.36,2026-05-29,Meat,1.55,Local Mandi,1.3,Frozen
+Flour,8.91,2027-04-30,Dry Pantry,3.2,DairyCo,3.94,Ambient
+Mutton,15.79,2026-06-06,Meat,1.86,Metro Wholesale,2.07,Frozen
+Mutton,3.17,2026-05-31,Meat,5.69,Prime Meats,4.9,Frozen
+Cheese,21.62,2026-06-06,Dairy,1.46,Local Mandi,3.11,Refrigerated
+Mutton,34.3,2026-06-05,Meat,3.65,Prime Meats,2.23,Frozen
+Flour,33.38,2027-02-24,Dry Pantry,8.33,Local Mandi,4.69,Ambient
+Cream,6.61,2026-06-10,Dairy,6.72,DairyCo,3.6,Refrigerated
+Mushroom,42.35,2026-06-14,Produce,9.16,Metro Wholesale,0.8,Refrigerated
+Cream,16.91,2026-06-05,Dairy,,DairyCo,4.1,Refrigerated
+Prawns,13.0,2026-06-04,Meat,8.17,Local Mandi,2.27,Frozen
+Prawns,5.16,2026-06-01,Meat,6.51,Metro Wholesale,0.18,Frozen
+Potatoes,23.23,2026-06-12,Produce,6.87,DairyCo,3.71,Refrigerated
+Chicken Breast,24.75,2026-06-04,Meat,2.35,DairyCo,2.53,Frozen
+Tomatoes,22.64,2026-06-08,Produce,3.78,Prime Meats,3.45,Refrigerated
+Flour,21.54,2027-03-26,Dry Pantry,6.61,Metro Wholesale,3.15,Ambient
+Butter,33.38,2026-06-04,Dairy,3.34,AgroFresh,3.15,Refrigerated
+Cheese,15.71,2026-06-10,Dairy,5.72,AgroFresh,0.57,Refrigerated
+Mushroom,14.08,2026-06-01,Produce,9.4,DairyCo,3.17,Refrigerated
+Onions,11.6,2026-06-08,Produce,5.1,AgroFresh,4.16,Refrigerated
+Prawns,40.19,2026-06-07,prodce,8.52,Metro Wholesale,1.41,Frozen
+Cheese,13.33,2026-06-08,Dairy,2.84,Prime Meats,2.97,Refrigerated
+Yogurt,39.68,2026-06-07,Dairy,2.34,Metro Wholesale,3.19,Refrigerated
+Sugar,22.37,2027-02-28,Dry Pantry,2.95,AgroFresh,1.87,Ambient
+Spinach,24.29,2026-06-08,Produce,3.99,AgroFresh,3.23,Refrigerated
+Milk,46.39,2026-05-31,Dairy,8.56,Prime Meats,2.43,Refrigerated
+Yogurt,38.46,2026-06-10,Dairy,6.26,DairyCo,1.13,Refrigerated
+Tomatoes,44.1,2026-05-30,Produce,1.27,Metro Wholesale,4.63,Refrigerated
+Yogurt,2.66,2026-06-08,Dairy,8.54,AgroFresh,3.82,Refrigerated
+Prawns,29.16,2026-06-05,Meat,5.4,Prime Meats,2.18,Frozen
+Mutton,33.12,2026-06-05,Meat,4.26,Metro Wholesale,1.32,Frozen
+Rice,28.94,2027-04-09,Dry Pantry,2.35,Local Mandi,0.37,Ambient
+Pasta,34.55,,Dry Pantry,4.45,Prime Meats,0.84,Ambient
+Butter,5.85,2026-06-01,Dairy,2.05,Local Mandi,2.38,Refrigerated
+Fish Fillet,31.03,2026-06-02,Meat,7.73,DairyCo,1.57,Frozen
+Pasta,10.1,2027-05-26,Dry Pantry,6.54,Metro Wholesale,2.77,Ambient
+Butter,43.79,2026-06-04,Dairy,0.91,Local Mandi,1.27,Refrigerated
+Prawns,28.95,2026-05-30,Meat,3.56,Prime Meats,0.5,Frozen
+Bell Peppers,24.32,2026-06-02,Produce,9.02,DairyCo,0.9,Refrigerated
+Fish Fillet,24.6,2026-05-30,Meat,2.66,Prime Meats,1.54,Frozen
+Beef,26.58,2026-05-29,Meat,7.17,Metro Wholesale,2.46,Frozen
+Flour,25.87,2026-12-20,Dry Pantry,6.08,DairyCo,4.27,Ambient
+Lentils,16.02,2026-10-06,Dry Pantry,2.69,Local Mandi,0.6,Ambient
+Spinach,3.17,,Produce,4.64,Local Mandi,2.16,Refrigerated
+Chicken Breast,4.92,2026-06-02,Meat,6.78,Prime Meats,3.01,Frozen
+Lentils,8.95,2026-07-21,Dry Pantry,4.82,Prime Meats,1.1,Ambient
+Potatoes,25.96,2026-06-13,Produce,5.74,Prime Meats,1.78,Refrigerated
+Mutton,18.68,2026-06-06,Meat,3.37,Metro Wholesale,1.37,Frozen
+Milk,32.53,2026-06-05,Dairy,1.99,Prime Meats,4.35,Refrigerated
+Pasta,34.25,2026-07-21,Dry Pantry,9.64,AgroFresh,4.59,Ambient
+Butter,19.19,2026-06-07,Dairy,3.5,Local Mandi,2.45,Refrigerated
+Spices,5.69,2026-09-01,Dry Pantry,4.74,AgroFresh,4.87,Ambient
+Flour,45.32,2027-05-14,Dry Pantry,6.33,Metro Wholesale,4.79,Ambient
+Potatoes,8.37,2026-05-30,Produce,2.44,Local Mandi,2.08,Refrigerated
+Mushroom,20.79,2026-06-13,Produce,6.62,Local Mandi,4.44,Refrigerated
+Milk,41.12,2026-06-05,Dairy,9.27,Local Mandi,1.56,Refrigerated
+Pasta,12.35,2027-05-11,Dry Pantry,2.63,Local Mandi,4.56,Ambient
+Rice,13.86,2027-03-27,Dry Pantry,8.7,Local Mandi,2.98,Ambient
+Flour,6.98,2026-12-15,Dry Pantry,8.66,DairyCo,2.07,Ambient
+Tomatoes,10.06,2026-06-10,Produce,1.02,AgroFresh,0.73,Refrigerated
+Pasta,47.88,2026-12-07,Dry Pantry,9.77,DairyCo,0.27,Ambient
+Potatoes,7.81,2026-06-10,Produce,5.78,Prime Meats,0.77,Refrigerated
+Butter,23.3,2026-06-05,Dairy,3.92,DairyCo,0.83,Refrigerated
+Tomatoes,13.14,2026-05-31,prodce,2.79,Metro Wholesale,2.88,Refrigerated
+Mutton,39.18,2026-05-31,Meat,,AgroFresh,3.81,Frozen
+Fish Fillet,14.99,2026-05-30,Meat,1.06,DairyCo,1.16,Frozen
+Pasta,25.16,2026-09-13,Dry Pantry,8.54,AgroFresh,1.75,Ambient
+Milk,47.21,,Dairy,4.72,Local Mandi,0.51,Refrigerated
+Flour,19.98,2026-10-07,Dry Pantry,1.8,Local Mandi,4.88,Ambient
+Paneer,22.12,2026-06-06,Dairy,5.79,Prime Meats,0.52,Refrigerated
+Carrots,17.53,2026-06-04,Produce,7.06,Local Mandi,2.74,Refrigerated
+Flour,44.28,2027-01-15,Dry Pantry,7.37,Prime Meats,4.17,Ambient
+Rice,33.04,2027-01-29,Dry Pantry,8.98,Metro Wholesale,2.46,Ambient
+Yogurt,35.7,2026-06-01,Dairy,5.93,Local Mandi,3.63,Refrigerated
+Prawns,10.89,2026-05-30,Meat,6.54,DairyCo,1.07,Frozen
+Sugar,17.81,2027-02-02,Dry Pantry,2.25,Metro Wholesale,2.1,Ambient
+Salt,28.83,2026-10-10,Dry Pantry,9.19,Metro Wholesale,4.16,Ambient
+Milk,29.62,2026-06-06,Dairy,5.28,Metro Wholesale,0.28,Refrigerated
+Rice,12.41,2027-03-12,Dry Pantry,4.53,Local Mandi,3.82,Ambient
+Potatoes,6.62,2026-06-03,Produce,,Local Mandi,4.13,Refrigerated
+Chicken Breast,45.79,2026-05-29,Meat,1.77,DairyCo,2.38,Frozen
+Lentils,2.8,2027-05-06,Dry Pantry,5.18,Metro Wholesale,0.04,Ambient
+Chicken Breast,28.31,2026-05-30,Meat,9.51,Metro Wholesale,1.59,Frozen
+Spinach,37.11,2026-06-03,Dairy ,5.17,DairyCo,4.27,Refrigerated
+Sugar,3.0,2027-05-27,Dry Pantry,3.98,DairyCo,3.52,Ambient
+Spices,20.95,2027-02-05,Dry Pantry,1.4,Local Mandi,2.12,Ambient
+Beef,23.07,2026-05-31,Meat,2.77,DairyCo,3.46,Frozen
+Salt,28.58,2026-07-08,prodce,5.01,Local Mandi,1.66,Ambient
+Tomatoes,23.64,2026-06-03,Produce,8.14,AgroFresh,0.06,Refrigerated
+Beef,3.82,2026-05-31,Meat,7.85,Prime Meats,2.19,Frozen
+Sugar,34.93,2027-04-15,Dry Pantry,8.59,Local Mandi,3.08,Ambient
+Mutton,28.26,2026-06-06,Meat,6.07,DairyCo,1.65,Frozen
+Butter,5.49,2026-06-08,Dairy,2.52,DairyCo,4.86,Refrigerated
+Salt,26.49,2027-02-07,Dry Pantry,5.48,Metro Wholesale,1.71,Ambient
+Cheese,43.5,2026-06-01,Dairy,6.67,Prime Meats,2.54,Refrigerated
+Beef,10.42,2026-06-01,Meat,1.16,Local Mandi,4.93,Frozen
+Tomatoes,2.85,2026-06-03,Produce,3.88,Local Mandi,1.84,Refrigerated
+Milk,13.43,2026-06-02,Dairy,6.39,Prime Meats,3.36,Refrigerated
+Chicken Breast,40.19,2026-06-04,Meat,6.81,Prime Meats,1.16,Frozen
+Mutton,48.51,2026-06-05,Meat,6.3,Metro Wholesale,2.67,Frozen
+Carrots,3.02,2026-06-04,Produce,2.2,DairyCo,2.46,Refrigerated
+Salt,13.61,2026-12-19,Dry Pantry,2.27,Local Mandi,2.84,Ambient
+Spices,17.58,2026-07-26,Dry Pantry,5.73,Metro Wholesale,1.95,Ambient
+Lentils,27.76,2027-03-02,Dry Pantry,1.46,DairyCo,3.25,Ambient
+Beef,23.83,2026-06-04,Meat,1.09,Prime Meats,4.52,Frozen
+Bell Peppers,7.79,2026-06-13,Produce,6.55,Prime Meats,0.74,Refrigerated
+Butter,43.4,2026-06-10,Dairy,1.62,Metro Wholesale,1.05,Refrigerated
+Spinach,25.34,2026-06-09,Produce,8.21,Metro Wholesale,3.07,Refrigerated
+Butter,33.79,2026-05-31,Dairy,2.26,Prime Meats,1.62,Refrigerated
+Prawns,26.43,2026-06-03,Meat,2.2,DairyCo,3.47,Frozen
+Pasta,4.94,2027-02-06,Dry Pantry,0.88,Local Mandi,3.02,Ambient
+Butter,22.59,2026-06-08,Dairy,1.1,Local Mandi,0.06,Refrigerated
+Cheese,28.34,,Dairy,9.41,Local Mandi,3.97,Refrigerated
+Yogurt,8.52,2026-06-03,Dairy,4.77,Local Mandi,2.22,Refrigerated
+Mushroom,17.56,,Produce,7.69,DairyCo,0.62,Refrigerated
+Sugar,36.96,2026-11-27,Dry Pantry,4.5,Local Mandi,0.84,Ambient
+Chicken Breast,4.64,2026-06-04,Meat,2.12,Metro Wholesale,3.66,Frozen
+Onions,36.97,2026-06-04,Produce,6.1,AgroFresh,1.83,Refrigerated
+Carrots,46.76,2026-06-14,Produce,1.96,Prime Meats,3.85,Refrigerated
+Butter,35.78,2026-06-06,Dairy,6.94,Local Mandi,2.26,Refrigerated
+Cheese,7.0,2026-05-29,Dairy,9.45,Metro Wholesale,4.62,Refrigerated
+Rice,14.2,2027-04-09,Dry Pantry,3.52,Prime Meats,0.33,Ambient
+Pasta,15.77,2027-03-29,Dry Pantry,7.59,Metro Wholesale,1.9,Ambient
+Salt,41.76,2027-02-16,Dry Pantry,3.6,Local Mandi,1.17,Ambient
+Chicken Breast,34.72,2026-06-06,Meat,5.03,DairyCo,2.34,Frozen
+Mushroom,22.57,2026-06-05,Produce,6.56,DairyCo,3.67,Refrigerated
+Fish Fillet,13.82,2026-06-05,Meat,5.37,Prime Meats,0.49,Frozen
+Pasta,15.88,2026-07-24,Dry Pantry,2.49,AgroFresh,1.79,Ambient
+Tomatoes,17.06,2026-06-10,Dairy ,6.03,Prime Meats,0.49,Refrigerated
+Paneer,8.31,2026-06-02,Dairy,5.85,AgroFresh,4.97,Refrigerated
+Cheese,-5.0,,Dairy,4.22,Metro Wholesale,3.67,Refrigerated
+Beef,27.67,2026-06-04,Meat,2.15,Local Mandi,2.94,Frozen
+Prawns,6.58,2026-06-06,Meat,2.65,Metro Wholesale,2.43,Frozen
+Paneer,31.87,2026-06-03,Dairy,8.77,Metro Wholesale,3.64,Refrigerated
+Beef,43.17,2026-06-06,Meat,7.26,Metro Wholesale,1.0,Frozen
+Spinach,47.44,2026-06-06,Produce,5.12,Metro Wholesale,0.77,Refrigerated
+Mushroom,38.61,,Produce,0.76,Metro Wholesale,2.19,Refrigerated
+Sugar,34.15,2026-11-22,Dry Pantry,7.78,Local Mandi,0.31,Ambient
+Chicken Breast,24.89,2026-06-07,Meat,5.12,DairyCo,4.68,Frozen
+Bell Peppers,25.41,2026-06-09,Produce,1.4,AgroFresh,1.42,Refrigerated
+Mutton,2.15,2026-06-06,Meat,8.96,DairyCo,1.29,Frozen
+Yogurt,21.67,2026-06-01,Dairy,0.78,Metro Wholesale,2.53,Refrigerated
+Potatoes,30.62,2026-06-06,Produce,5.99,DairyCo,1.35,Refrigerated
+Fish Fillet,7.49,,Meat,3.17,AgroFresh,3.71,Frozen
+Fish Fillet,14.74,2026-05-30,Meat,5.17,Metro Wholesale,0.67,Frozen
+Fish Fillet,46.14,2026-05-31,Meat,1.76,DairyCo,2.71,Frozen
+Salt,6.76,,Dry Pantry,1.92,AgroFresh,0.08,Ambient
+Carrots,49.9,2026-06-04,Produce,0.54,Prime Meats,4.6,Refrigerated
+Potatoes,19.81,2026-06-12,Produce,3.74,Prime Meats,2.84,Refrigerated
+Carrots,30.68,2026-06-02,Produce,2.28,Local Mandi,3.53,Refrigerated
+Chicken Breast,36.76,2026-06-04,Dairy ,5.59,AgroFresh,2.76,Frozen
+Butter,21.31,2026-06-01,Dairy,6.48,Prime Meats,2.47,Refrigerated
+Spinach,27.99,2026-06-01,Produce,5.75,Metro Wholesale,4.96,Refrigerated
+Lentils,26.31,2026-11-11,Dry Pantry,0.59,Metro Wholesale,1.44,Ambient
+Flour,35.28,2026-12-13,Dairy ,6.82,Prime Meats,2.44,Ambient
+Paneer,48.61,,Dairy,7.85,AgroFresh,3.13,Refrigerated
+Lentils,46.78,2026-07-01,Dry Pantry,5.32,Local Mandi,3.63,Ambient
+Spinach,16.53,2026-06-07,Produce,3.27,DairyCo,3.22,Refrigerated
+Sugar,29.84,2026-07-23,Dry Pantry,2.09,Local Mandi,4.74,Ambient
+Paneer,8.73,2026-06-07,Dairy,1.37,Local Mandi,4.65,Refrigerated
+Onions,39.41,2026-06-08,Produce,4.51,Local Mandi,1.08,Refrigerated
+Lentils,27.51,2027-02-11,Dry Pantry,9.6,Local Mandi,3.23,Ambient
+Potatoes,32.93,2026-06-12,Produce,2.91,DairyCo,1.83,Refrigerated
+Pasta,48.15,2027-01-13,Dry Pantry,3.08,Prime Meats,4.0,Ambient
+Prawns,30.91,2026-06-02,Meat,6.69,Local Mandi,1.35,Frozen
+Fish Fillet,21.63,,Meat,7.38,Metro Wholesale,1.22,Frozen
+Rice,47.37,2027-02-15,Dry Pantry,2.61,Local Mandi,4.65,Ambient
+Butter,43.95,2026-06-06,Dairy,2.93,DairyCo,0.24,Refrigerated
+Chicken Breast,5.29,2026-06-02,Meat,1.02,DairyCo,0.35,Frozen
+Prawns,45.29,2026-06-07,Meat,2.34,Prime Meats,2.31,Frozen
+Paneer,44.23,2026-06-08,Dairy,3.14,DairyCo,4.1,Refrigerated
+Rice,5.08,2026-11-29,Dry Pantry,8.83,Local Mandi,2.94,Ambient
+Cream,32.44,2026-06-10,Dairy,6.49,Metro Wholesale,0.02,Refrigerated
+Cream,15.0,2026-06-03,Dairy,3.08,DairyCo,0.4,Refrigerated
+Mutton,3.42,2026-06-02,Meat,5.01,Local Mandi,0.1,Frozen
+Pasta,24.1,2027-04-25,Dry Pantry,8.67,Metro Wholesale,1.01,Ambient
+Mutton,44.82,2026-06-01,Meat,3.06,Prime Meats,3.69,Frozen
+Prawns,49.12,2026-05-29,Meat,2.06,Prime Meats,3.8,Frozen
+Mutton,22.73,2026-06-03,Meat,9.53,AgroFresh,4.9,Frozen
+Cheese,9.32,2026-05-29,Dairy,5.61,Prime Meats,3.29,Refrigerated
+Mutton,19.22,2026-06-02,Meat,7.62,AgroFresh,3.86,Frozen
+Rice,36.41,2027-04-25,Dry Pantry,1.58,DairyCo,0.68,Ambient
+Tomatoes,14.97,2026-06-05,Produce,1.16,Local Mandi,2.43,Refrigerated
+Onions,6.48,2026-06-02,Produce,7.48,DairyCo,3.32,Refrigerated
+Cheese,11.57,2026-06-10,Dairy,9.26,Prime Meats,2.53,Refrigerated
+Fish Fillet,27.82,2026-06-05,Meat,1.74,Local Mandi,4.47,Frozen
+Yogurt,8.3,2026-06-06,Dairy,2.32,Local Mandi,4.08,Refrigerated
+Flour,47.52,2026-08-07,Dry Pantry,7.91,AgroFresh,4.52,Ambient
+Beef,1.8,2026-06-02,Meat,1.78,AgroFresh,1.5,Frozen
+Mutton,2.1,2026-06-05,Meat,5.61,AgroFresh,4.88,Frozen
+Carrots,4.34,2026-06-12,Produce,5.3,DairyCo,2.69,Refrigerated
+Fish Fillet,39.16,2026-05-31,Meat,4.41,AgroFresh,1.09,Frozen
+Chicken Breast,48.79,2026-06-02,Dairy ,2.39,Metro Wholesale,1.09,Frozen
+Salt,37.69,2027-04-09,Dry Pantry,3.75,Metro Wholesale,2.38,Ambient
+Beef,5.24,2026-06-05,Meat,7.77,Prime Meats,1.98,Frozen
+Lentils,30.3,2027-01-10,Dry Pantry,8.48,Local Mandi,4.21,Ambient
+Cream,42.56,2026-06-06,Dairy,3.9,AgroFresh,1.45,Refrigerated
+Tomatoes,49.27,2026-06-06,Produce,8.02,Prime Meats,0.13,Refrigerated
+Tomatoes,21.75,2026-06-12,Produce,9.89,Metro Wholesale,4.99,Refrigerated
+Prawns,13.24,2026-06-05,Meat,9.27,DairyCo,0.49,Frozen
+Potatoes,34.62,2026-06-08,Produce,9.27,AgroFresh,3.19,Refrigerated
+Fish Fillet,22.38,2026-05-30,Meat,9.85,Prime Meats,4.5,Frozen
+Cheese,47.32,2026-06-04,Dairy,8.71,Metro Wholesale,4.81,Refrigerated
+Yogurt,27.57,2026-05-31,Dairy,8.97,Metro Wholesale,3.97,Refrigerated
+Butter,33.46,2026-06-02,Dairy,1.74,Local Mandi,4.25,Refrigerated
+Sugar,20.64,2027-01-30,Dry Pantry,5.31,DairyCo,0.18,Ambient
+Mutton,22.55,2026-06-02,Meat,,Local Mandi,2.96,Frozen
+Carrots,38.46,2026-06-01,Produce,5.15,Metro Wholesale,3.07,Refrigerated
+Yogurt,6.36,2026-05-29,Dairy,4.84,Metro Wholesale,2.59,Refrigerated
+Salt,46.28,2027-05-21,Dry Pantry,5.86,DairyCo,1.62,Ambient
+Yogurt,13.33,2026-06-01,Dairy,9.74,DairyCo,2.03,Refrigerated
+Spinach,41.79,2026-06-06,Produce,8.31,AgroFresh,3.88,Refrigerated
+Onions,10.71,2026-06-01,Produce,4.31,DairyCo,2.93,Refrigerated
+Onions,24.01,2026-06-08,Produce,6.23,Local Mandi,4.85,Refrigerated
+Cheese,21.91,2026-06-03,prodce,6.82,Metro Wholesale,3.43,Refrigerated
+Yogurt,44.61,2026-06-05,Dairy,1.34,AgroFresh,3.42,Refrigerated
+Spices,15.35,2026-07-03,Dry Pantry,2.7,DairyCo,1.87,Ambient
+Rice,22.24,2027-02-20,Dry Pantry,3.94,Metro Wholesale,2.18,Ambient
+Bell Peppers,14.92,2026-06-07,Produce,8.43,DairyCo,4.45,Refrigerated
+Mushroom,4.1,2026-06-08,Produce,8.33,Prime Meats,0.58,Refrigerated
+Salt,16.68,2027-04-18,Dry Pantry,8.35,Local Mandi,0.6,Ambient
+Fish Fillet,37.63,2026-05-31,Meat,2.17,DairyCo,4.38,Frozen
+Bell Peppers,32.43,2026-06-12,Produce,7.43,Local Mandi,4.96,Refrigerated
+Fish Fillet,36.46,2026-06-07,Dairy ,6.74,Metro Wholesale,1.67,Frozen
+Mutton,48.69,2026-05-31,Meat,8.47,Metro Wholesale,1.19,Frozen
+Mushroom,49.01,2026-06-13,Produce,2.04,DairyCo,3.53,Refrigerated
+Lentils,3.67,2027-02-16,Dry Pantry,4.04,Prime Meats,2.51,Ambient
+Mutton,26.37,2026-06-04,Meat,5.34,Local Mandi,3.23,Frozen
+Potatoes,27.03,2026-06-13,Produce,4.2,Metro Wholesale,1.03,Refrigerated
+Onions,33.28,2026-06-09,prodce,7.35,DairyCo,0.21,Refrigerated
+Carrots,9.3,2026-06-06,Dairy ,0.84,AgroFresh,4.88,Refrigerated
+Onions,38.69,2026-06-08,Produce,0.99,Local Mandi,3.65,Refrigerated
+Fish Fillet,38.7,2026-06-06,Meat,7.82,Local Mandi,4.48,Frozen
+Paneer,22.54,2026-06-01,Dairy,5.1,Local Mandi,3.03,Refrigerated
+Yogurt,12.07,2026-06-09,Dairy,4.15,Prime Meats,0.61,Refrigerated
+Paneer,4.3,2026-06-03,Dairy,0.8,AgroFresh,2.57,Refrigerated
+Pasta,17.61,2027-03-11,Dry Pantry,2.27,Local Mandi,4.62,Ambient
+Chicken Breast,13.28,2026-06-06,Meat,,Local Mandi,0.63,Frozen
+Potatoes,49.79,2026-06-03,Produce,9.77,DairyCo,4.59,Refrigerated
+Salt,39.43,2026-08-17,Dry Pantry,5.88,DairyCo,4.6,Ambient
+Prawns,10.21,2026-05-31,Meat,1.15,Local Mandi,0.55,Frozen
+Bell Peppers,13.25,2026-06-10,Produce,6.59,DairyCo,4.67,Refrigerated
+Rice,2.98,2027-02-22,Dairy ,3.75,Metro Wholesale,3.24,Ambient
+Paneer,19.29,2026-06-04,Dairy,1.84,Prime Meats,2.98,Refrigerated
+Paneer,9.18,2026-05-30,Dairy,1.48,Prime Meats,2.74,Refrigerated
+Butter,41.1,2026-06-06,Dairy,4.48,Prime Meats,2.86,Refrigerated
+Mushroom,32.38,2026-06-11,Produce,9.36,Local Mandi,0.76,Refrigerated
+Tomatoes,12.63,2026-05-31,Produce,8.28,Prime Meats,1.72,Refrigerated
+Milk,28.57,2026-06-02,Dairy,1.46,DairyCo,4.4,Refrigerated
+Fish Fillet,42.86,2026-05-31,Meat,3.16,DairyCo,0.66,Frozen
+Yogurt,19.64,2026-06-03,Dairy,0.56,Local Mandi,3.77,Refrigerated
+Rice,-5.0,2027-01-22,Dry Pantry,3.39,Local Mandi,2.5,Ambient
+Onions,23.65,2026-06-06,Produce,3.06,Local Mandi,4.21,Refrigerated
+Rice,36.81,2026-12-07,Dry Pantry,1.47,Local Mandi,4.4,Ambient
+Cream,10.97,2026-06-02,Dairy,4.42,Metro Wholesale,1.28,Refrigerated
+Cheese,39.64,2026-06-09,Dairy ,3.78,AgroFresh,3.86,Refrigerated
+Paneer,20.37,2026-05-29,Dairy,6.19,Metro Wholesale,1.51,Refrigerated
+Yogurt,42.76,2026-06-03,Dairy,,DairyCo,1.45,Refrigerated
+Flour,25.03,2027-03-18,Dry Pantry,6.23,AgroFresh,4.54,Ambient
+Spices,37.67,2027-02-01,Dry Pantry,2.74,Metro Wholesale,0.72,Ambient
+Flour,19.18,2026-10-03,Dry Pantry,4.12,Prime Meats,0.22,Ambient
+Butter,47.41,2026-05-31,Dairy,6.65,Prime Meats,4.66,Refrigerated
+Cheese,28.39,2026-06-03,Dairy,6.61,Metro Wholesale,3.35,Refrigerated
+Sugar,37.72,2026-10-29,Dry Pantry,9.29,Metro Wholesale,4.88,Ambient
+Mushroom,2.22,2026-06-08,Produce,6.49,DairyCo,3.23,Refrigerated
+Prawns,45.88,2026-06-04,Meat,,Local Mandi,2.7,Frozen
+Pasta,28.55,2026-07-28,Dry Pantry,1.98,Prime Meats,1.32,Ambient
+Cream,41.04,2026-06-08,Dairy,3.34,AgroFresh,4.69,Refrigerated
+Spices,42.57,2026-09-08,Dry Pantry,7.41,DairyCo,1.04,Ambient
+Chicken Breast,30.8,2026-06-06,Meat,2.35,Metro Wholesale,3.91,Frozen
+Mutton,22.03,,Meat,1.37,AgroFresh,1.07,Frozen
+Prawns,11.88,2026-05-29,Meat,5.98,DairyCo,4.0,Frozen
+Potatoes,32.99,2026-06-14,Produce,8.87,Prime Meats,3.25,Refrigerated
+Onions,10.02,2026-06-07,Produce,6.36,Metro Wholesale,0.57,Refrigerated
+Sugar,26.22,,Dry Pantry,4.5,Prime Meats,2.94,Ambient
+Lentils,39.5,2027-01-06,Dry Pantry,5.23,Prime Meats,3.48,Ambient
+Salt,22.66,2026-11-13,Dry Pantry,0.99,DairyCo,0.66,Ambient
+Flour,42.28,2026-09-15,Dry Pantry,2.7,AgroFresh,1.09,Ambient
+Rice,34.68,2027-05-16,Dry Pantry,9.28,DairyCo,3.31,Ambient
+Cheese,43.06,,Dairy,1.87,DairyCo,1.25,Refrigerated
+Spinach,-5.0,2026-06-11,Produce,4.79,Prime Meats,1.58,Refrigerated
+Salt,21.74,2026-08-06,Dry Pantry,6.17,AgroFresh,2.78,Ambient
+Milk,32.08,2026-05-29,Dairy,8.38,AgroFresh,1.67,Refrigerated
+Yogurt,15.31,,Dairy,9.47,Prime Meats,0.51,Refrigerated
+Spices,36.57,2027-04-14,Dry Pantry,6.28,DairyCo,1.07,Ambient
+Beef,38.19,2026-06-01,Meat,8.9,AgroFresh,1.39,Frozen
+Carrots,47.4,2026-06-14,Produce,1.31,AgroFresh,4.89,Refrigerated
+Chicken Breast,19.22,2026-05-31,Meat,,AgroFresh,1.98,Frozen
+Pasta,29.44,2026-07-21,Dry Pantry,9.57,Prime Meats,4.55,Ambient
+Salt,49.64,2026-11-24,Dry Pantry,8.14,Metro Wholesale,4.03,Ambient
+Milk,15.42,2026-06-01,Dairy,4.34,Local Mandi,3.32,Refrigerated
+Yogurt,47.32,2026-05-29,Dairy,6.91,AgroFresh,1.91,Refrigerated
+Beef,30.1,2026-05-30,Meat,9.19,Metro Wholesale,3.29,Frozen
+Spices,36.72,2027-05-26,Dry Pantry,6.9,AgroFresh,0.3,Ambient
+Pasta,22.67,2027-02-27,Dry Pantry,2.53,Metro Wholesale,3.29,Ambient
+Yogurt,10.74,2026-06-06,Dairy,6.67,Prime Meats,1.1,Refrigerated
+Beef,28.79,2026-06-01,Meat,2.69,Metro Wholesale,3.44,Frozen
+Fish Fillet,11.01,2026-06-01,Meat,7.3,Local Mandi,1.98,Frozen
+Flour,42.52,2027-04-10,Dry Pantry,3.83,Local Mandi,0.57,Ambient
+Spices,24.6,2027-01-26,Dry Pantry,2.58,DairyCo,0.71,Ambient
+Fish Fillet,18.2,2026-05-31,Meat,2.22,DairyCo,3.29,Frozen
+Chicken Breast,48.11,2026-06-04,Meat,6.08,AgroFresh,1.5,Frozen
+Fish Fillet,23.19,2026-06-04,Meat,1.77,DairyCo,3.5,Frozen
+Butter,16.35,,Dairy,8.55,Metro Wholesale,0.31,Refrigerated
+Bell Peppers,49.44,2026-06-10,Produce,7.38,AgroFresh,0.49,Refrigerated
+Potatoes,17.94,2026-06-11,Produce,6.92,Metro Wholesale,4.2,Refrigerated
+Chicken Breast,34.07,2026-06-07,Meat,4.98,DairyCo,1.64,Frozen
+Milk,1.93,2026-05-31,Dairy,2.55,DairyCo,4.7,Refrigerated
+Salt,16.59,2027-01-11,Dry Pantry,4.14,Prime Meats,2.73,Ambient
+Potatoes,38.75,2026-06-07,Produce,6.76,AgroFresh,0.97,Refrigerated
+Cheese,45.98,2026-05-31,Dairy,2.41,Local Mandi,3.58,Refrigerated
+Mutton,17.65,2026-05-31,Meat,5.77,Metro Wholesale,0.11,Frozen
+Potatoes,49.44,2026-06-13,Produce,3.31,AgroFresh,0.5,Refrigerated
+Rice,14.88,2027-03-06,Dry Pantry,6.95,DairyCo,3.34,Ambient
+Rice,28.3,2026-08-15,Dry Pantry,0.5,DairyCo,4.82,Ambient
+Mushroom,43.78,2026-06-02,Produce,5.43,Prime Meats,3.31,Refrigerated
+Pasta,35.39,2027-03-31,Dry Pantry,1.28,DairyCo,3.08,Ambient
+Mutton,2.43,2026-06-02,Meat,,DairyCo,0.88,Frozen
+Potatoes,10.34,2026-06-03,Produce,6.19,AgroFresh,1.38,Refrigerated
+Cream,16.53,2026-06-03,Dairy,3.77,Prime Meats,2.7,Refrigerated
+Paneer,42.01,2026-06-09,Dairy,3.81,DairyCo,0.13,Refrigerated
+Bell Peppers,7.72,2026-06-09,Produce,,AgroFresh,0.04,Refrigerated
+Flour,11.63,2027-02-17,Dry Pantry,6.76,Prime Meats,2.21,Ambient
+Sugar,1.23,2027-03-16,Dry Pantry,2.16,AgroFresh,2.79,Ambient
+Cheese,33.03,2026-05-29,Dairy,7.08,AgroFresh,2.33,Refrigerated
+Cheese,18.05,2026-06-04,Dairy,8.26,AgroFresh,4.35,Refrigerated
+Yogurt,46.53,2026-06-02,Dairy,8.38,AgroFresh,0.9,Refrigerated
+Carrots,36.72,2026-05-30,Produce,3.11,DairyCo,3.07,Refrigerated
+Potatoes,19.33,2026-06-03,Produce,4.9,Local Mandi,4.99,Refrigerated
+Rice,19.1,2027-04-27,Dry Pantry,5.5,DairyCo,2.59,Ambient
+Sugar,7.46,2027-02-24,Dry Pantry,8.22,AgroFresh,2.28,Ambient
+Onions,6.76,2026-06-02,Produce,5.54,DairyCo,1.81,Refrigerated
+Butter,37.49,2026-06-03,Dairy,2.97,DairyCo,2.79,Refrigerated
+Carrots,41.9,2026-06-09,Produce,4.2,Prime Meats,3.78,Refrigerated
+Rice,8.98,2026-10-17,Dry Pantry,5.94,Metro Wholesale,3.24,Ambient
+Fish Fillet,34.17,2026-06-06,Meat,2.16,AgroFresh,4.03,Frozen
+Cheese,11.29,,Dairy,7.54,Local Mandi,1.06,Refrigerated
+Carrots,11.58,2026-06-09,Produce,8.76,Metro Wholesale,3.94,Refrigerated
+Cheese,28.16,2026-06-10,Dairy ,6.17,Local Mandi,4.32,Refrigerated
+Milk,20.35,2026-06-08,Dairy,0.63,Prime Meats,2.3,Refrigerated
+Sugar,13.32,2026-07-05,Dry Pantry,5.76,AgroFresh,3.41,Ambient
+Rice,39.03,2026-08-31,Dry Pantry,2.76,AgroFresh,1.19,Ambient
+Tomatoes,30.01,2026-06-06,Produce,8.39,AgroFresh,3.49,Refrigerated
+Rice,37.7,2026-12-26,Dry Pantry,0.99,Metro Wholesale,3.25,Ambient
+Tomatoes,13.78,2026-06-07,Produce,2.74,Local Mandi,1.51,Refrigerated
+Prawns,18.45,2026-06-04,Meat,6.83,Prime Meats,2.56,Frozen
+Yogurt,8.2,2026-05-31,Dairy,2.08,DairyCo,4.79,Refrigerated
+Fish Fillet,1.97,2026-06-07,Meat,1.65,Metro Wholesale,2.88,Frozen
+Prawns,39.71,2026-05-30,Meat,5.73,Local Mandi,2.63,Frozen
+Cream,12.26,2026-05-31,Dairy,7.94,AgroFresh,1.07,Refrigerated
+Cheese,27.1,2026-06-04,Dairy,4.31,Metro Wholesale,3.1,Refrigerated
+Milk,-5.0,2026-06-07,Dairy,4.31,AgroFresh,3.71,Refrigerated
+Cheese,23.05,2026-06-01,Dairy,0.72,DairyCo,1.06,Refrigerated
+Mushroom,28.71,2026-06-03,Produce,9.4,Local Mandi,3.73,Refrigerated
+Beef,40.5,2026-06-01,Meat,2.52,Local Mandi,1.27,Frozen
+Pasta,14.15,2027-04-24,Dry Pantry,4.31,AgroFresh,1.04,Ambient
+Rice,1.52,2027-03-18,Dry Pantry,2.96,DairyCo,2.79,Ambient
+Cream,7.94,2026-06-05,Dairy,6.71,DairyCo,0.23,Refrigerated
+Milk,6.59,2026-06-03,Dairy,4.77,AgroFresh,2.62,Refrigerated
+Prawns,7.46,2026-06-06,prodce,3.51,Prime Meats,0.71,Frozen
+Flour,34.8,2026-07-21,Dry Pantry,3.84,Local Mandi,3.07,Ambient
+Carrots,-5.0,2026-06-14,Produce,3.93,Prime Meats,4.41,Refrigerated
+Lentils,31.7,2026-09-05,Dry Pantry,1.62,Metro Wholesale,0.02,Ambient
+Cream,45.35,2026-06-01,Dairy,2.64,AgroFresh,0.5,Refrigerated
+Pasta,11.28,2027-05-29,Dry Pantry,8.06,Local Mandi,2.52,Ambient
+Milk,-5.0,2026-06-06,Dairy,6.05,Local Mandi,1.56,Refrigerated
+Bell Peppers,5.89,,Produce,3.06,DairyCo,2.16,Refrigerated
+Flour,26.04,2026-11-24,prodce,8.07,AgroFresh,4.63,Ambient
+Chicken Breast,32.47,2026-05-30,Meat,7.68,AgroFresh,0.84,Frozen
+Chicken Breast,41.13,2026-06-04,Meat,8.06,Prime Meats,0.7,Frozen
+Yogurt,47.51,2026-06-03,Dairy,2.64,Prime Meats,3.28,Refrigerated
+Fish Fillet,38.4,2026-06-05,Meat,5.14,Prime Meats,0.84,Frozen
+Salt,41.02,2026-09-16,Dry Pantry,1.19,AgroFresh,2.3,Ambient
+Beef,3.59,2026-05-29,Dairy ,,Prime Meats,2.27,Frozen
+Cream,33.45,2026-06-09,Dairy,9.44,Metro Wholesale,1.26,Refrigerated
+Sugar,21.61,2027-03-28,Dairy ,8.81,Prime Meats,1.15,Ambient
+Carrots,16.86,2026-05-31,Produce,2.16,Metro Wholesale,3.71,Refrigerated
+Mutton,5.81,2026-06-01,Meat,7.51,Prime Meats,4.46,Frozen
+Lentils,34.55,2026-08-26,Dry Pantry,5.97,Prime Meats,2.12,Ambient
+Beef,40.6,2026-06-05,Meat,5.61,Prime Meats,2.18,Frozen
+Cheese,26.12,2026-06-04,Dairy ,5.15,Prime Meats,1.34,Refrigerated
+Cream,22.63,2026-06-04,Dairy,2.58,AgroFresh,3.68,Refrigerated
+Cream,44.12,2026-05-31,Dairy,7.41,Prime Meats,4.6,Refrigerated
+Cream,24.81,2026-05-30,Dairy,0.69,Local Mandi,3.01,Refrigerated
+Cheese,2.21,2026-06-01,Dairy,6.37,Prime Meats,1.79,Refrigerated
+Salt,15.64,2026-07-26,Dry Pantry,3.92,Metro Wholesale,4.87,Ambient
+Fish Fillet,18.22,2026-06-06,Meat,9.79,AgroFresh,1.08,Frozen
+Prawns,14.25,2026-06-07,Meat,0.75,Metro Wholesale,0.15,Frozen
+Onions,42.93,,Produce,0.71,DairyCo,2.56,Refrigerated
+Cheese,10.83,2026-06-02,Dairy,5.86,DairyCo,1.21,Refrigerated
+Spinach,32.09,2026-06-07,Produce,0.54,Metro Wholesale,3.81,Refrigerated
+Potatoes,38.9,2026-06-03,Produce,7.65,Metro Wholesale,0.34,Refrigerated
+Yogurt,5.68,2026-06-04,Dairy,1.77,AgroFresh,2.96,Refrigerated
+Prawns,44.9,2026-06-07,prodce,9.71,Metro Wholesale,4.0,Frozen
+Salt,27.03,2026-12-09,Dry Pantry,5.81,Prime Meats,3.06,Ambient
+Beef,32.31,2026-06-01,Meat,1.23,Metro Wholesale,3.82,Frozen
+Butter,44.78,2026-05-29,Dairy,3.66,Local Mandi,2.13,Refrigerated
+Rice,42.47,2026-09-10,Dry Pantry,5.25,Local Mandi,2.7,Ambient
+Beef,27.78,2026-06-01,Meat,6.23,Local Mandi,2.24,Frozen
+Rice,27.82,2026-09-16,Dry Pantry,5.01,Metro Wholesale,3.48,Ambient
+Mushroom,22.27,2026-06-07,Produce,0.64,DairyCo,0.6,Refrigerated
+Onions,48.53,2026-06-07,Produce,4.68,DairyCo,0.28,Refrigerated
+Cheese,12.93,2026-06-07,Dairy,1.7,Metro Wholesale,0.34,Refrigerated
+Milk,12.22,2026-06-07,Dairy,6.91,DairyCo,4.75,Refrigerated
+Cheese,47.82,2026-06-05,Dairy,3.01,AgroFresh,2.46,Refrigerated
+Prawns,10.74,2026-06-03,Meat,6.93,Metro Wholesale,3.89,Frozen
+Pasta,17.7,2026-12-13,Dry Pantry,4.02,DairyCo,2.98,Ambient
+Beef,2.97,2026-06-05,Meat,7.68,DairyCo,3.26,Frozen
+Fish Fillet,28.94,,Meat,9.18,Prime Meats,3.59,Frozen
+Milk,14.42,,Dairy,7.7,Local Mandi,2.77,Refrigerated
+Yogurt,35.7,2026-06-01,Dairy,5.93,Local Mandi,3.63,Refrigerated
+Carrots,5.76,2026-06-11,Produce,7.39,Metro Wholesale,0.97,Refrigerated
+Spices,18.09,2027-02-23,Dry Pantry,2.89,Local Mandi,3.39,Ambient
+Salt,43.64,2027-04-22,Dry Pantry,5.6,Metro Wholesale,4.62,Ambient
+Cream,37.83,2026-06-10,Dairy,7.79,Prime Meats,1.01,Refrigerated
+Prawns,35.18,2026-06-02,Meat,0.7,Metro Wholesale,2.35,Frozen
+Potatoes,23.13,2026-06-09,Produce,2.67,Prime Meats,1.99,Refrigerated
+Spices,8.33,2027-02-28,Dry Pantry,1.41,DairyCo,3.0,Ambient
+Mutton,7.86,2026-05-31,Meat,5.69,DairyCo,4.95,Frozen
+Prawns,27.16,2026-06-05,Meat,8.43,AgroFresh,0.19,Frozen
+Prawns,16.49,2026-05-30,Meat,7.64,AgroFresh,2.29,Frozen
+Mutton,29.45,2026-05-29,Meat,9.84,AgroFresh,2.98,Frozen
+Prawns,25.04,2026-06-04,Meat,3.88,Prime Meats,0.93,Frozen
+Lentils,33.47,2027-04-07,Dry Pantry,4.3,AgroFresh,2.27,Ambient
+Bell Peppers,33.22,2026-06-08,Produce,5.8,AgroFresh,2.35,Refrigerated
+Prawns,30.28,2026-06-05,Meat,8.51,Local Mandi,2.68,Frozen
+Pasta,13.91,2027-04-14,Dry Pantry,8.45,AgroFresh,0.76,Ambient
+Fish Fillet,43.35,,Meat,4.94,Local Mandi,2.74,Frozen
+Butter,20.2,2026-06-07,Dairy,7.19,Prime Meats,3.08,Refrigerated
+Spinach,9.5,2026-06-09,Produce,6.13,Local Mandi,0.99,Refrigerated
+Mushroom,28.51,2026-06-12,Produce,3.0,DairyCo,2.0,Refrigerated
+Bell Peppers,2.93,2026-06-09,Produce,3.26,Prime Meats,3.69,Refrigerated
+Beef,33.31,2026-05-31,Meat,7.09,DairyCo,2.83,Frozen
+Potatoes,33.8,2026-06-05,Produce,5.86,Prime Meats,3.5,Refrigerated
+Milk,19.66,2026-05-29,Dairy,1.0,Metro Wholesale,1.33,Refrigerated
+Spices,10.67,2026-07-18,Dry Pantry,3.36,DairyCo,1.67,Ambient
+Spinach,43.87,2026-06-07,Produce,0.81,Local Mandi,4.31,Refrigerated
+Beef,-5.0,2026-06-01,Meat,9.98,DairyCo,3.8,Frozen
+Cheese,1.07,2026-06-09,Dairy,6.74,Local Mandi,0.52,Refrigerated
+Mushroom,8.04,2026-06-10,Produce,4.58,Metro Wholesale,2.85,Refrigerated
+Yogurt,30.21,2026-05-30,Dairy,3.59,Prime Meats,0.88,Refrigerated
+Paneer,11.94,2026-05-29,Dairy,5.4,Prime Meats,0.34,Refrigerated
+Pasta,45.52,2027-04-27,Dry Pantry,3.32,Prime Meats,1.53,Ambient
+Prawns,18.89,2026-06-01,Meat,9.35,DairyCo,4.99,Frozen
+Pasta,22.02,2026-07-02,Dry Pantry,5.04,AgroFresh,2.67,Ambient
+Fish Fillet,7.69,2026-06-04,Meat,2.0,Prime Meats,3.25,Frozen
+Prawns,49.74,,Meat,5.54,DairyCo,3.03,Frozen
+Cream,46.35,2026-06-07,Dairy,9.04,AgroFresh,0.9,Refrigerated
+Rice,15.77,2026-08-02,Dry Pantry,6.45,AgroFresh,3.39,Ambient
+Bell Peppers,10.76,2026-06-06,Produce,0.73,Prime Meats,3.06,Refrigerated
+Beef,12.08,2026-06-06,Meat,4.58,DairyCo,3.07,Frozen
+Beef,13.95,2026-06-02,Meat,2.03,AgroFresh,1.65,Frozen
+Sugar,46.39,2026-11-03,Dry Pantry,0.7,DairyCo,1.52,Ambient
+Mushroom,2.44,2026-06-12,Produce,3.53,Prime Meats,1.52,Refrigerated
+Rice,43.12,2026-11-08,Dry Pantry,3.52,AgroFresh,0.57,Ambient
+Potatoes,35.87,,Produce,6.52,Local Mandi,1.8,Refrigerated
+Lentils,26.14,,Dry Pantry,7.62,AgroFresh,0.71,Ambient
+Mushroom,32.99,2026-05-30,Produce,6.22,Prime Meats,0.27,Refrigerated
+Mutton,3.42,2026-06-02,Meat,5.01,Local Mandi,0.1,Frozen
+Cheese,16.88,2026-06-09,Dairy,6.66,Metro Wholesale,3.59,Refrigerated
+Sugar,22.99,2026-10-07,Dry Pantry,0.55,Local Mandi,0.41,Ambient
+Mutton,44.82,2026-06-01,Meat,3.06,Prime Meats,3.69,Frozen
+Sugar,34.47,2027-04-24,Dry Pantry,5.23,Metro Wholesale,1.16,Ambient
+Tomatoes,7.72,2026-06-13,Produce,8.16,DairyCo,4.65,Refrigerated
+Mutton,26.73,2026-06-03,Meat,2.16,AgroFresh,3.89,Frozen
+Rice,6.99,2026-07-22,Dry Pantry,3.81,Prime Meats,2.41,Ambient
+Mushroom,15.46,2026-06-14,Produce,4.41,AgroFresh,0.44,Refrigerated
+Bell Peppers,25.71,2026-06-02,Produce,3.09,Local Mandi,0.81,Refrigerated
+Chicken Breast,19.31,2026-06-04,Meat,9.45,DairyCo,0.51,Frozen
+Yogurt,29.37,2026-06-01,Dairy,7.81,AgroFresh,2.76,Refrigerated
+Salt,49.08,2026-07-14,Dry Pantry,5.59,AgroFresh,4.39,Ambient
+Cheese,42.65,2026-06-07,Dairy,4.32,Prime Meats,1.17,Refrigerated
+Mushroom,15.23,2026-06-02,Produce,2.34,AgroFresh,2.32,Refrigerated
+Milk,49.32,2026-06-02,Dairy,4.98,Prime Meats,0.9,Refrigerated
+Butter,44.94,2026-05-30,Dairy,6.88,Prime Meats,4.72,Refrigerated
+Sugar,11.86,2027-03-23,Dry Pantry,6.34,Local Mandi,2.29,Ambient
+Fish Fillet,10.46,2026-05-30,Meat,0.73,AgroFresh,4.69,Frozen
+Spinach,43.02,,Produce,1.87,AgroFresh,2.81,Refrigerated
+Sugar,32.31,2027-05-17,Dry Pantry,5.23,DairyCo,1.45,Ambient
+Onions,23.11,2026-05-31,Produce,8.09,Local Mandi,0.1,Refrigerated
+Beef,25.04,2026-06-02,Meat,8.32,DairyCo,1.52,Frozen
+Bell Peppers,48.36,2026-06-11,Produce,8.67,DairyCo,1.83,Refrigerated
+Carrots,40.24,2026-06-08,Produce,2.63,Local Mandi,2.12,Refrigerated
+Mutton,22.78,2026-05-29,Meat,2.6,Local Mandi,3.4,Frozen
+Cream,36.95,2026-06-03,Dairy,2.65,Local Mandi,0.64,Refrigerated
+Carrots,42.19,2026-06-04,Produce,3.17,DairyCo,2.82,Refrigerated
+Chicken Breast,15.57,2026-06-01,Meat,5.95,DairyCo,3.71,Frozen
+Cream,19.51,2026-06-02,prodce,7.38,AgroFresh,2.43,Refrigerated
+Carrots,31.64,2026-06-12,Dairy ,2.2,AgroFresh,3.83,Refrigerated
+Butter,26.23,2026-06-01,Dairy,1.17,Prime Meats,2.96,Refrigerated
+Mushroom,12.1,2026-06-03,Produce,1.69,AgroFresh,2.12,Refrigerated
+Salt,4.2,2026-09-04,Dry Pantry,1.87,Metro Wholesale,0.96,Ambient
+Mutton,42.72,2026-06-05,Meat,9.7,Metro Wholesale,3.64,Frozen
+Butter,17.61,,Dairy,2.74,DairyCo,2.83,Refrigerated
+Butter,33.07,2026-06-03,Dairy,7.03,Prime Meats,1.81,Refrigerated
+Potatoes,2.21,2026-06-09,Produce,7.5,Prime Meats,4.01,Refrigerated
+Lentils,15.05,2026-11-13,Dry Pantry,2.13,Local Mandi,3.58,Ambient
+Mushroom,31.85,2026-06-12,Produce,2.53,AgroFresh,1.03,Refrigerated
+Chicken Breast,2.03,2026-06-04,Meat,6.94,AgroFresh,1.69,Frozen
+Butter,48.94,2026-06-09,Dairy,7.72,AgroFresh,2.22,Refrigerated
+Chicken Breast,38.18,2026-06-04,Meat,2.02,Local Mandi,1.39,Frozen
+Beef,35.01,2026-05-30,Meat,2.14,DairyCo,4.18,Frozen
+Rice,15.48,2026-08-12,Dry Pantry,9.25,AgroFresh,4.16,Ambient
+Butter,7.56,2026-06-03,Dairy,3.01,Prime Meats,1.83,Refrigerated
+Fish Fillet,34.54,2026-06-03,Meat,5.08,Local Mandi,3.2,Frozen
+Cheese,39.2,2026-06-04,Dairy,3.85,Prime Meats,2.93,Refrigerated
+Flour,10.01,2026-10-28,Dry Pantry,0.72,Local Mandi,4.7,Ambient
+Bell Peppers,23.77,2026-06-11,Produce,6.3,Local Mandi,0.14,Refrigerated
+Spices,42.15,2027-01-05,Dry Pantry,9.19,Local Mandi,2.07,Ambient
+Prawns,29.86,2026-05-29,Meat,5.17,Local Mandi,2.19,Frozen
+Chicken Breast,38.28,2026-06-07,Meat,5.84,DairyCo,4.71,Frozen
+Pasta,41.04,2027-02-12,Dry Pantry,1.25,DairyCo,2.24,Ambient
+Onions,19.77,2026-06-05,Produce,1.95,AgroFresh,2.07,Refrigerated
+Carrots,19.46,2026-06-04,Produce,2.04,Prime Meats,0.22,Refrigerated
+Spinach,32.93,2026-05-30,Produce,5.38,Prime Meats,4.56,Refrigerated
+Butter,42.51,2026-06-09,Dairy,1.38,Metro Wholesale,0.26,Refrigerated
+Spices,28.88,2027-05-08,Dry Pantry,4.66,Prime Meats,3.9,Ambient
+Potatoes,31.19,2026-06-05,Produce,4.7,AgroFresh,4.48,Refrigerated
+Bell Peppers,1.17,2026-06-08,Produce,0.72,Prime Meats,3.37,Refrigerated
+Prawns,6.58,2026-06-06,Meat,2.65,Metro Wholesale,2.43,Frozen
+Fish Fillet,8.77,2026-06-06,Meat,7.42,DairyCo,0.61,Frozen
+Lentils,16.73,2026-09-20,Dry Pantry,1.49,Local Mandi,2.06,Ambient
+Lentils,19.77,2027-05-07,Dry Pantry,5.11,Prime Meats,0.19,Ambient
+Spices,27.31,2027-01-27,Dry Pantry,3.68,AgroFresh,4.18,Ambient
+Paneer,37.29,2026-06-01,Dairy,4.32,DairyCo,1.09,Refrigerated
+Salt,30.64,2026-08-06,Dry Pantry,0.88,Metro Wholesale,4.02,Ambient
+Fish Fillet,6.47,2026-06-05,Meat,4.63,AgroFresh,4.77,Frozen
+Cream,43.6,2026-05-29,Dairy,4.89,Metro Wholesale,2.59,Refrigerated
+Potatoes,30.62,2026-06-08,Produce,3.61,DairyCo,3.12,Refrigerated
+Butter,39.31,2026-06-06,Dairy,3.91,Prime Meats,1.72,Refrigerated
+Mutton,31.41,2026-06-05,Meat,7.92,Metro Wholesale,4.56,Frozen
+Onions,39.22,2026-06-03,Produce,6.05,AgroFresh,0.82,Refrigerated
+Cream,35.48,2026-06-06,Dairy,,Local Mandi,3.63,Refrigerated
+Butter,29.67,2026-06-04,Dairy,1.02,Metro Wholesale,1.08,Refrigerated
+Carrots,9.55,2026-06-12,Produce,2.02,Prime Meats,1.16,Refrigerated
+Beef,36.52,2026-06-06,Meat,3.5,AgroFresh,1.04,Frozen
+Cheese,30.42,2026-06-07,Dairy,3.84,DairyCo,1.06,Refrigerated
+Potatoes,48.28,2026-06-09,Produce,1.7,AgroFresh,4.37,Refrigerated
+Prawns,28.03,2026-06-07,Meat,2.17,AgroFresh,4.21,Frozen
+Onions,27.03,2026-06-04,Produce,5.88,Metro Wholesale,0.88,Refrigerated
+Milk,37.34,2026-05-31,Dairy,2.83,AgroFresh,3.38,Refrigerated
+Prawns,25.64,2026-05-31,Meat,4.48,Metro Wholesale,4.01,Frozen
+Beef,40.47,2026-06-07,Meat,8.06,AgroFresh,1.74,Frozen
+Onions,33.15,2026-06-02,Produce,0.55,Prime Meats,1.09,Refrigerated
+Flour,8.15,,Dry Pantry,9.61,Prime Meats,4.03,Ambient
+Spinach,41.98,2026-05-31,Produce,8.03,DairyCo,0.87,Refrigerated
+Fish Fillet,23.28,2026-06-07,Meat,5.14,AgroFresh,4.34,Frozen
+Salt,43.82,2026-12-14,Dry Pantry,3.45,Metro Wholesale,3.85,Ambient
+Sugar,15.44,2026-10-05,Dry Pantry,7.12,DairyCo,0.93,Ambient
+Cream,17.26,2026-06-03,Dairy,1.68,Prime Meats,4.45,Refrigerated
+Chicken Breast,22.4,2026-06-04,Meat,1.51,DairyCo,2.0,Frozen
+Potatoes,23.37,2026-06-12,Produce,9.92,Metro Wholesale,4.98,Refrigerated
+Cheese,8.98,2026-06-03,Dairy ,1.06,Prime Meats,4.39,Refrigerated
+Cream,4.11,2026-06-03,Dairy,4.76,DairyCo,2.97,Refrigerated
+Pasta,1.39,2026-11-07,Dry Pantry,9.63,Local Mandi,0.45,Ambient
+Potatoes,33.09,2026-06-12,Produce,8.42,Local Mandi,0.16,Refrigerated
+Lentils,7.87,2027-02-15,Dry Pantry,3.49,DairyCo,0.27,Ambient
+Bell Peppers,31.3,2026-05-30,Produce,5.01,AgroFresh,3.34,Refrigerated
+Prawns,15.47,2026-06-05,Meat,0.87,Metro Wholesale,3.44,Frozen
+Milk,33.74,2026-06-04,Dairy,8.18,DairyCo,1.14,Refrigerated
+Tomatoes,48.47,2026-06-14,Produce,6.02,DairyCo,0.77,Refrigerated
+Sugar,37.38,2027-04-07,Dry Pantry,7.78,DairyCo,0.57,Ambient
+Cheese,35.53,2026-06-05,Dairy,,DairyCo,1.98,Refrigerated
+Cheese,48.52,2026-06-05,Dairy,6.73,Local Mandi,4.74,Refrigerated
+Potatoes,17.99,2026-05-30,prodce,4.72,Local Mandi,0.95,Refrigerated
+Paneer,27.58,2026-06-02,Dairy,5.72,Metro Wholesale,4.72,Refrigerated
+Potatoes,43.3,2026-06-08,Produce,4.26,Prime Meats,4.44,Refrigerated
+Tomatoes,5.88,,Produce,1.0,Prime Meats,3.39,Refrigerated
+Potatoes,25.48,2026-06-09,Produce,9.96,Prime Meats,1.5,Refrigerated
+Rice,43.67,2026-10-10,Dry Pantry,1.93,Local Mandi,2.05,Ambient
+Cheese,3.16,2026-06-02,Dairy,1.71,Local Mandi,4.63,Refrigerated
+Beef,13.76,2026-06-07,Meat,6.48,Metro Wholesale,2.86,Frozen
+Tomatoes,40.42,2026-06-11,Produce,,Local Mandi,0.6,Refrigerated
+Yogurt,14.93,2026-06-03,Dairy,5.05,Metro Wholesale,4.83,Refrigerated
+Tomatoes,6.85,2026-06-01,Produce,3.13,DairyCo,3.73,Refrigerated
+Milk,42.61,2026-06-08,Dairy,6.66,Metro Wholesale,4.65,Refrigerated
+Butter,15.72,2026-06-08,Dairy,9.85,Local Mandi,4.21,Refrigerated
+Milk,39.3,2026-05-30,Dairy ,6.29,DairyCo,0.21,Refrigerated
+Milk,10.93,2026-06-07,Dairy,7.65,Metro Wholesale,2.46,Refrigerated
+Cheese,40.55,2026-05-30,Dairy,3.08,Local Mandi,3.56,Refrigerated
+Tomatoes,2.56,2026-06-11,Produce,6.6,Prime Meats,2.63,Refrigerated
+Cream,29.33,2026-06-03,Dairy ,6.23,AgroFresh,0.25,Refrigerated
+Bell Peppers,7.03,2026-06-10,Produce,7.44,Prime Meats,1.57,Refrigerated
+Flour,39.7,2027-02-22,Dry Pantry,4.02,AgroFresh,4.3,Ambient
+Spices,27.94,2027-05-15,Dry Pantry,8.34,DairyCo,0.59,Ambient
+Chicken Breast,23.05,2026-06-03,Meat,6.96,Metro Wholesale,4.39,Frozen
+Milk,24.63,2026-06-07,prodce,1.74,DairyCo,4.14,Refrigerated
+Spinach,16.2,2026-06-11,Produce,6.73,Metro Wholesale,2.98,Refrigerated
+Spinach,34.52,2026-05-31,Produce,8.55,AgroFresh,2.03,Refrigerated
+Fish Fillet,44.98,2026-06-04,Meat,8.29,DairyCo,0.32,Frozen
+Butter,44.58,2026-06-08,Dairy,,Prime Meats,2.65,Refrigerated
+Salt,2.92,2027-05-18,Dry Pantry,4.18,AgroFresh,0.95,Ambient
+Carrots,14.87,2026-06-09,Produce,4.39,AgroFresh,0.48,Refrigerated
+Lentils,13.05,2026-12-21,Dry Pantry,9.84,Metro Wholesale,2.3,Ambient
+Onions,25.97,2026-05-31,Produce,1.36,AgroFresh,0.76,Refrigerated
+Rice,45.05,2026-07-28,Dry Pantry,4.73,Prime Meats,0.66,Ambient
+Carrots,49.6,2026-06-01,Produce,3.2,DairyCo,2.76,Refrigerated
+Lentils,24.51,2026-11-17,Dry Pantry,5.82,Local Mandi,0.61,Ambient
+Cheese,28.34,,Dairy,9.41,Local Mandi,3.97,Refrigerated
+Yogurt,32.03,2026-06-01,Dairy,5.54,Local Mandi,1.76,Refrigerated
+Spinach,30.65,2026-05-31,Produce,5.26,Prime Meats,0.52,Refrigerated
+Salt,47.72,2026-11-02,Dry Pantry,2.77,AgroFresh,4.62,Ambient
+Bell Peppers,24.08,,Produce,9.88,AgroFresh,2.94,Refrigerated
+Bell Peppers,22.01,2026-06-13,Produce,9.22,DairyCo,3.97,Refrigerated
+Carrots,14.52,2026-06-07,Produce,1.09,Prime Meats,4.45,Refrigerated
+Salt,47.31,2026-11-15,Dry Pantry,1.13,Local Mandi,4.32,Ambient
+Cheese,46.76,2026-06-07,Dairy,1.75,Prime Meats,1.83,Refrigerated
+Milk,11.66,2026-06-07,Dairy,1.82,AgroFresh,3.79,Refrigerated
+Mutton,21.5,2026-05-31,Meat,4.38,AgroFresh,1.45,Frozen
+Yogurt,23.6,2026-06-02,Dairy,5.72,AgroFresh,1.25,Refrigerated
+Mushroom,29.35,2026-06-03,Produce,7.44,AgroFresh,1.94,Refrigerated
+Beef,44.19,2026-06-07,Meat,4.48,Metro Wholesale,1.37,Frozen
+Milk,3.23,2026-06-07,Dairy,6.59,Local Mandi,3.26,Refrigerated
+Lentils,34.77,2026-07-20,Dry Pantry,7.45,Metro Wholesale,3.39,Ambient
+Beef,18.36,2026-06-02,Meat,7.83,DairyCo,2.42,Frozen
+Spices,34.01,2026-10-12,Dry Pantry,1.63,Metro Wholesale,4.73,Ambient
+Mushroom,6.75,2026-06-14,Produce,10.0,Metro Wholesale,3.48,Refrigerated
+Paneer,-5.0,2026-06-08,Dairy,5.87,Metro Wholesale,0.81,Refrigerated
+Sugar,19.58,2027-02-20,Dry Pantry,2.68,Local Mandi,0.78,Ambient
+Spinach,23.35,2026-06-10,Produce,4.01,Metro Wholesale,4.71,Refrigerated
+Tomatoes,48.52,2026-06-02,Produce,0.71,Local Mandi,1.35,Refrigerated
+Prawns,8.05,2026-06-04,Meat,6.28,AgroFresh,1.98,Frozen
+Cream,33.85,2026-05-29,Dairy,5.33,Local Mandi,1.54,Refrigerated
+Mutton,20.25,2026-06-02,Meat,6.36,DairyCo,1.68,Frozen
+Yogurt,39.78,2026-06-09,Dairy,1.12,DairyCo,2.02,Refrigerated
+Chicken Breast,48.93,2026-06-03,Meat,5.9,AgroFresh,2.9,Frozen
+Beef,4.64,2026-05-29,Meat,4.89,AgroFresh,1.84,Frozen
+Chicken Breast,37.97,2026-06-07,Meat,7.93,Metro Wholesale,2.94,Frozen
+Mutton,32.7,2026-06-04,Meat,0.92,Local Mandi,4.83,Frozen
+Chicken Breast,8.7,2026-05-30,Meat,2.15,Metro Wholesale,0.01,Frozen
+Sugar,15.04,2026-09-12,Dry Pantry,6.5,Metro Wholesale,3.2,Ambient
+Bell Peppers,27.24,2026-06-09,Dairy ,8.0,Metro Wholesale,0.27,Refrigerated
+Paneer,42.01,2026-06-09,Dairy,3.81,DairyCo,0.13,Refrigerated
+Chicken Breast,20.37,2026-05-31,Meat,1.67,DairyCo,4.99,Frozen
+Paneer,19.53,2026-05-29,Dairy,1.76,Metro Wholesale,2.61,Refrigerated
+Milk,1.47,2026-06-08,Dairy,1.81,Metro Wholesale,1.64,Refrigerated
+Cheese,27.46,2026-06-06,Dairy,1.92,Metro Wholesale,0.77,Refrigerated
+Butter,29.6,2026-06-09,Dairy,8.07,AgroFresh,2.98,Refrigerated
+Chicken Breast,36.63,2026-06-07,Meat,1.25,Metro Wholesale,2.73,Frozen
+Mushroom,20.79,2026-06-13,Produce,6.62,Local Mandi,4.44,Refrigerated
+Cream,48.56,2026-06-01,Dairy,8.66,Prime Meats,3.24,Refrigerated
+Spinach,30.5,2026-06-06,prodce,8.26,Prime Meats,4.06,Refrigerated
+Milk,15.91,2026-05-30,Dairy,5.18,Metro Wholesale,4.44,Refrigerated
+Yogurt,28.14,2026-05-29,Dairy,6.09,AgroFresh,3.54,Refrigerated
+Mushroom,27.43,2026-06-13,prodce,6.11,DairyCo,2.17,Refrigerated
+Carrots,44.6,2026-06-02,prodce,1.99,Local Mandi,1.03,Refrigerated
+Butter,27.02,2026-06-10,Dairy,5.05,AgroFresh,2.26,Refrigerated
+Salt,19.0,2027-03-08,Dry Pantry,0.62,AgroFresh,1.98,Ambient
+Bell Peppers,23.62,2026-06-11,Produce,0.98,Local Mandi,1.06,Refrigerated
+Beef,35.57,2026-06-05,Meat,4.45,Prime Meats,1.22,Frozen
+Fish Fillet,42.73,2026-05-30,Meat,8.39,Local Mandi,4.41,Frozen
+Cheese,5.11,2026-06-05,Dairy,2.02,DairyCo,0.74,Refrigerated
+Fish Fillet,34.17,2026-06-06,Meat,2.16,AgroFresh,4.03,Frozen
+Prawns,34.98,2026-06-05,Meat,8.03,Metro Wholesale,1.03,Frozen
+Fish Fillet,36.98,2026-06-04,Meat,8.68,Metro Wholesale,3.8,Frozen
+Beef,1.5,2026-05-30,Meat,9.51,Metro Wholesale,3.6,Frozen
+Rice,20.43,2027-01-13,Dry Pantry,4.05,AgroFresh,1.87,Ambient
+Bell Peppers,26.47,2026-06-10,Produce,7.16,Prime Meats,4.87,Refrigerated
+Tomatoes,3.05,2026-06-11,Produce,5.94,DairyCo,2.74,Refrigerated
+Prawns,24.78,2026-06-04,Meat,9.92,AgroFresh,1.01,Frozen
+Mutton,32.19,2026-05-31,Meat,6.4,AgroFresh,4.52,Frozen
+Mushroom,45.52,2026-06-09,Produce,7.96,Metro Wholesale,3.34,Refrigerated
+Spinach,49.14,2026-06-01,Produce,2.09,Local Mandi,2.23,Refrigerated
+Sugar,1.41,2027-03-01,Dry Pantry,9.26,Local Mandi,0.05,Ambient
+Potatoes,42.26,2026-06-05,Produce,8.65,AgroFresh,1.5,Refrigerated
+Rice,28.31,2026-08-31,Dry Pantry,9.22,Prime Meats,0.67,Ambient
+Tomatoes,14.97,2026-06-05,Produce,1.16,Local Mandi,2.43,Refrigerated
+Beef,28.07,2026-05-29,Meat,4.58,Local Mandi,1.82,Frozen
+Rice,10.26,2026-10-01,Dry Pantry,1.02,AgroFresh,2.35,Ambient
+Mutton,-5.0,2026-05-30,Meat,9.66,Metro Wholesale,4.82,Frozen
+Mutton,7.03,2026-06-04,Meat,2.42,AgroFresh,1.23,Frozen
+Fish Fillet,34.41,2026-05-30,Meat,4.31,Local Mandi,2.67,Frozen
+Salt,6.8,2027-05-12,Dry Pantry,0.56,AgroFresh,3.78,Ambient
+Paneer,15.31,2026-06-06,Dairy,3.11,Local Mandi,0.84,Refrigerated
+Cream,46.65,2026-06-01,Dairy,4.2,Metro Wholesale,3.69,Refrigerated
+Flour,30.91,2026-12-09,Dry Pantry,9.6,Local Mandi,3.18,Ambient
+Cheese,38.98,2026-06-03,Dairy,8.32,DairyCo,4.11,Refrigerated
+Mutton,5.47,2026-06-03,Meat,2.86,Prime Meats,2.57,Frozen
+Mutton,3.17,2026-05-31,Meat,5.69,Prime Meats,4.9,Frozen
+Spinach,14.96,2026-06-08,Produce,4.66,DairyCo,4.92,Refrigerated
+Pasta,25.73,2027-04-02,Dry Pantry,5.65,DairyCo,0.09,Ambient
+Salt,16.33,2027-04-18,Dry Pantry,6.31,DairyCo,2.68,Ambient
+Potatoes,17.08,2026-06-07,Produce,8.71,Local Mandi,3.21,Refrigerated
+Sugar,26.97,2026-11-07,Dry Pantry,4.19,Metro Wholesale,1.65,Ambient
+Butter,10.73,2026-06-02,Dairy,2.4,DairyCo,4.87,Refrigerated
+Salt,37.65,2026-11-23,Dry Pantry,8.49,Prime Meats,4.04,Ambient
+Cheese,20.11,2026-06-04,Dairy,3.54,Local Mandi,1.29,Refrigerated
+Sugar,32.08,,Dry Pantry,8.43,AgroFresh,1.55,Ambient
+Prawns,43.96,2026-05-31,Meat,8.29,Local Mandi,2.53,Frozen
+Beef,47.42,2026-06-03,Meat,2.41,Metro Wholesale,4.82,Frozen
+Onions,19.32,2026-05-30,Produce,2.03,DairyCo,1.62,Refrigerated
+Mutton,16.72,2026-06-02,Meat,2.33,DairyCo,1.6,Frozen
+Milk,1.59,2026-05-30,Dairy,1.43,Prime Meats,1.76,Refrigerated
+Onions,14.57,2026-06-08,Dairy ,1.3,AgroFresh,4.24,Refrigerated
+Salt,37.66,2027-04-17,Dry Pantry,2.15,Local Mandi,2.03,Ambient
+Spinach,19.27,2026-06-12,Produce,3.19,Local Mandi,3.39,Refrigerated
+Mushroom,17.8,,Produce,7.03,DairyCo,2.44,Refrigerated
+Chicken Breast,49.42,2026-05-31,Meat,4.51,Prime Meats,0.35,Frozen
+Prawns,19.38,2026-05-30,Dairy ,1.22,Prime Meats,2.58,Frozen
+Mushroom,8.15,,Produce,2.98,Local Mandi,0.76,Refrigerated
+Paneer,4.36,2026-06-01,Dairy,1.15,Prime Meats,0.6,Refrigerated
+Salt,38.41,2026-07-09,Dry Pantry,2.22,DairyCo,4.31,Ambient
+Fish Fillet,4.08,2026-05-29,Meat,6.44,Prime Meats,2.16,Frozen
+Tomatoes,28.37,2026-06-12,Produce,0.62,Metro Wholesale,0.66,Refrigerated
+Tomatoes,33.39,2026-05-30,Produce,0.74,Local Mandi,3.95,Refrigerated
+Prawns,42.71,2026-06-07,Meat,4.97,DairyCo,4.72,Frozen
+Mushroom,12.86,2026-06-06,Produce,3.02,Metro Wholesale,4.17,Refrigerated
+Spices,15.46,2026-08-27,Dry Pantry,8.77,Prime Meats,4.81,Ambient
+Cream,32.72,2026-05-30,Dairy,1.13,DairyCo,3.39,Refrigerated
+Carrots,3.83,2026-06-08,Produce,6.5,Prime Meats,2.01,Refrigerated
+Rice,38.07,2027-05-10,Dry Pantry,8.2,Metro Wholesale,2.17,Ambient
+Cream,13.2,2026-06-05,Dairy,7.83,Metro Wholesale,3.69,Refrigerated
+paneer,5.0,2026-06-04,Meat,1.0,Manual Entry,0.0,Ambient
