@@ -1,25 +1,26 @@
-
 import os
-from google import genai
+import pandas as pd
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
-import pandas as pd
-
-# Fetch the key securely from the server environment
-API_KEY = os.getenv("GEMINI_API_KEY")
-client = genai.Client(api_key=API_KEY)
-
-# ... (the rest of your app.py code remains exactly the same) ...
+from google import genai
 
 app = FastAPI(
     title="Yesh Waste Manage AI",
     description="Cinematic, production-grade endpoints for predicting kitchen waste risks."
 )
 
+# File Paths
 DATA_PATH = 'data/cleaned_inventory.csv'
 RAW_DATA_PATH = 'data/raw_inventory.csv'
 FORECAST_PATH = 'reports/demand_forecast.csv'
+
+# Securely fetch API key from Render's Environment Variables
+API_KEY = os.getenv("GEMINI_API_KEY")
+if API_KEY:
+    client = genai.Client(api_key=API_KEY)
+else:
+    client = None
 
 class InventoryItem(BaseModel):
     ingredient_name: str
@@ -29,6 +30,10 @@ class InventoryItem(BaseModel):
 
 @app.get("/")
 def home():
+    # Render uses Linux, which is strictly case-sensitive. 
+    # Ensures it finds "index.html" perfectly.
+    if not os.path.exists("index.html"):
+        return {"error": "index.html is missing from the root directory on GitHub!"}
     return FileResponse("index.html")
 
 @app.get("/inventory/high-risk")
@@ -36,35 +41,27 @@ def get_high_risk_items():
     if not os.path.exists(DATA_PATH):
         raise HTTPException(status_code=404, detail="Dataset missing.")
     df = pd.read_csv(DATA_PATH)
-    # Adding 'waste_risk_ratio' for AI Explainability
     high_risk_df = df[df['is_waste_risk'] == 1].sort_values(by='days_to_expiry').head(20)
     return high_risk_df[['ingredient_name', 'category', 'quantity', 'days_to_expiry', 'waste_risk_ratio']].to_dict(orient='records')
 
 @app.get("/inventory/chart-data")
 def get_chart_data():
-    """Provides Area Chart data: Volume of food at risk by Days to Expiry."""
     if not os.path.exists(DATA_PATH):
         raise HTTPException(status_code=404, detail="Dataset missing.")
     df = pd.read_csv(DATA_PATH)
     high_risk = df[df['is_waste_risk'] == 1]
-    
-    # Group by days to expiry to create a time-series curve
     grouped = high_risk.groupby('days_to_expiry')['quantity'].sum().sort_index().head(10)
     labels = [f"{int(day)} Days" for day in grouped.index]
     values = grouped.values.tolist()
-    
     return {"labels": labels, "values": values}
 
 @app.get("/inventory/anomalies")
 def get_anomalies():
-    """Fetches explicit shortage and overstock lists for the new Forecast UI."""
     if not os.path.exists(FORECAST_PATH):
         raise HTTPException(status_code=404, detail="Forecast missing.")
     df = pd.read_csv(FORECAST_PATH)
-    
     shortages = df[df['is_shortage_risk'] == True].sort_values(by='quantity').head(6)
     overstocks = df[df['is_overstock_risk'] == True].sort_values(by='quantity', ascending=False).head(6)
-    
     return {
         "shortages": shortages[['ingredient_name', 'quantity', 'projected_7d_demand']].to_dict(orient='records'),
         "overstocks": overstocks[['ingredient_name', 'quantity']].to_dict(orient='records')
@@ -74,7 +71,6 @@ def get_anomalies():
 def add_inventory_item(item: InventoryItem):
     if not os.path.exists(RAW_DATA_PATH):
         raise HTTPException(status_code=404, detail="Raw dataset missing.")
-    
     new_row = pd.DataFrame([{
         'ingredient_name': item.ingredient_name,
         'quantity': item.quantity,
@@ -90,11 +86,13 @@ def add_inventory_item(item: InventoryItem):
 
 @app.post("/recommendations/generate")
 def get_chef_specials():
+    if not client:
+        raise HTTPException(status_code=500, detail="Gemini API Key missing on server.")
     if not os.path.exists(DATA_PATH):
         raise HTTPException(status_code=404, detail="Dataset missing.")
+    
     df = pd.read_csv(DATA_PATH)
     high_risk_items = df[df['is_waste_risk'] == 1].sort_values(by='days_to_expiry')
-    
     if high_risk_items.empty:
         return {"message": "All inventory stable."}
         
