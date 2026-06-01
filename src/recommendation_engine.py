@@ -2,12 +2,19 @@ import pandas as pd
 import os
 from google import genai
 
-# Setup the new Gemini Client (WARNING: Remove this hardcoded key before pushing to GitHub!)
-client = genai.Client(api_key="AIzaSyD18-wazOl3i5f7uNWskPTecYPm_7aqlXY")
+# Fetch the key securely from the environment variables
+API_KEY = os.getenv("GEMINI_API_KEY")
+
+if not API_KEY:
+    print("[WARNING] GEMINI_API_KEY environment variable not found. AI features will fail.")
+
+client = genai.Client(api_key=API_KEY)
 
 def load_prompt_template(filepath='prompts/chef_special_prompt.txt'):
     with open(filepath, 'r') as file:
         return file.read()
+
+# ... [KEEP THE REST OF YOUR CODE EXACTLY THE SAME BELOW THIS LINE] ...
 
 def generate_recommendations(data_path='data/cleaned_inventory.csv'):
     print("Loading inventory data to find high-risk items...")
